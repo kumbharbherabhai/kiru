@@ -1,0 +1,3754 @@
+{
+    "bff_meta": null,
+    "error": null,
+    "error_msg": null,
+    "data": {
+        "item": {
+            "item_id": 27318746865,
+            "shop_id": 1061812473,
+            "item_status": "normal",
+            "status": 1,
+            "item_type": 0,
+            "reference_item_id": "",
+            "title": "【韓國ANUA專櫃直售】現時買3送1 ANUA 10煙酰胺+4%傳明酸 Niacinamide 10% + TXA 4%",
+            "image": "tw-11134207-7rbk9-m8hd5oldor5x9e",
+            "label_ids": [
+                844931064601283,
+                844931086908638,
+                1718088130,
+                1400635031,
+                298843331,
+                700750012,
+                998101039,
+                822059780857868,
+                1400285049,
+                4199820315223063,
+                822120594703895,
+                829091185487422,
+                700450057,
+                1948020501544471,
+                822120594705943,
+                840902217783839,
+                1400530025,
+                840902217782303,
+                997936212,
+                1818883,
+                298923365,
+                700815072,
+                700815074,
+                700815081,
+                2143620,
+                998156045,
+                2158586,
+                2158594,
+                2158615,
+                2158622,
+                2158664,
+                298983331,
+                298983332,
+                700830009,
+                298983333,
+                298973395,
+                1010992,
+                997921057,
+                1016186,
+                700830008
+            ],
+            "is_adult": false,
+            "is_preview": false,
+            "flag": 196608,
+            "is_service_by_shopee": false,
+            "condition": 1,
+            "cat_id": 100630,
+            "has_low_fulfillment_rate": false,
+            "is_live_streaming_price": null,
+            "currency": "TWD",
+            "brand": null,
+            "brand_id": 0,
+            "show_discount": 32,
+            "ctime": 1732555699,
+            "item_rating": {
+                "rating_star": 4.9787234042553195
+            },
+            "cb_option": 0,
+            "has_model_with_available_shopee_stock": false,
+            "shop_location": "桃園市蘆竹區",
+            "attributes": [
+                {
+                    "name": "產地",
+                    "value": "韓國",
+                    "id": 100037,
+                    "is_timestamp": false,
+                    "brand_option": null,
+                    "val_id": 48,
+                    "url": null,
+                    "brand_id": null,
+                    "full_url": null,
+                    "type": null,
+                    "item_attribute_type": null,
+                    "name_tr": null,
+                    "value_tr": null
+                }
+            ],
+            "rich_text_description": {
+                "paragraph_list": [
+                    {
+                        "type": 0,
+                        "text": "🥇提亮膚色：通過10%的菸鹼醯胺（Niacinamide）和4%的傳明酸（TXA），幫助淡化色斑並均勻膚色。",
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "🥈保濕修護：含有神經醯胺和透明質酸，提供深層保濕並增強皮膚屏障功能。",
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "🥉改善肌膚質地：有效縮小毛孔與減少細紋，使肌膚更加平滑細緻。",
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "適合敏感肌：質地輕盈不油膩，無香料及人工色素添加，適用於多種膚質。",
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "此產品特別適合追求玻璃肌效果的人群使用。",
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    }
+                ],
+                "source_language": null
+            },
+            "invoice_option": null,
+            "is_category_failed": null,
+            "is_prescription_item": false,
+            "preview_info": null,
+            "show_prescription_feed": false,
+            "is_alcohol_product": false,
+            "is_infant_milk_formula_product": false,
+            "is_unavailable": false,
+            "is_partial_fulfilled": false,
+            "is_presale": false,
+            "is_presale_deposit_item": null,
+            "is_presale_deposit_made": null,
+            "description": "🥇提亮膚色：通過10%的菸鹼醯胺（Niacinamide）和4%的傳明酸（TXA），幫助淡化色斑並均勻膚色。\n🥈保濕修護：含有神經醯胺和透明質酸，提供深層保濕並增強皮膚屏障功能。\n🥉改善肌膚質地：有效縮小毛孔與減少細紋，使肌膚更加平滑細緻。\n適合敏感肌：質地輕盈不油膩，無香料及人工色素添加，適用於多種膚質。\n此產品特別適合追求玻璃肌效果的人群使用。",
+            "categories": [
+                {
+                    "catid": 100630,
+                    "display_name": "美妝保養",
+                    "no_sub": false,
+                    "is_default_subcat": false
+                },
+                {
+                    "catid": 100664,
+                    "display_name": "肌膚保養",
+                    "no_sub": false,
+                    "is_default_subcat": false
+                },
+                {
+                    "catid": 100896,
+                    "display_name": "精華液",
+                    "no_sub": true,
+                    "is_default_subcat": false
+                }
+            ],
+            "fe_categories": [
+                {
+                    "catid": 11041691,
+                    "display_name": "美妝保養",
+                    "no_sub": false,
+                    "is_default_subcat": false
+                },
+                {
+                    "catid": 11041752,
+                    "display_name": "醫美清潔保養",
+                    "no_sub": false,
+                    "is_default_subcat": false
+                },
+                {
+                    "catid": 11046882,
+                    "display_name": "精華液",
+                    "no_sub": true,
+                    "is_default_subcat": false
+                }
+            ],
+            "item_has_video": false,
+            "presale_dday_start_time": null,
+            "is_lowest_price_at_shopee": null,
+            "display_description_disclosure_rsku_redirection": null,
+            "display_similar_sold": null,
+            "title_type": 1,
+            "authorized_brand_name": null,
+            "models": [
+                {
+                    "item_id": 27318746865,
+                    "status": 1,
+                    "current_promotion_reserved_stock": 0,
+                    "name": "魚腥草防曬霜50ml",
+                    "promotion_id": 733253754486784,
+                    "price": 44600000,
+                    "price_stocks": [
+                        {
+                            "allocated_stock": 0,
+                            "stock_breakdown_by_location": null,
+                            "promotion_type": 301
+                        },
+                        {
+                            "allocated_stock": 0,
+                            "stock_breakdown_by_location": [
+                                {
+                                    "location_id": "TWZ",
+                                    "available_stock": 1096,
+                                    "fulfilment_type": 2,
+                                    "address_id": 0,
+                                    "allocated_stock": null
+                                }
+                            ],
+                            "promotion_type": 0
+                        }
+                    ],
+                    "current_promotion_has_reserve_stock": false,
+                    "normal_stock": 1096,
+                    "extinfo": {
+                        "tier_index": [
+                            1
+                        ],
+                        "is_pre_order": false,
+                        "estimated_days": 1
+                    },
+                    "price_before_discount": 49500000,
+                    "model_id": 253237998962,
+                    "stock": 1096,
+                    "has_gimmick_tag": false,
+                    "key_measurement": null,
+                    "sold": 4,
+                    "is_lowest_price_at_shopee": false,
+                    "name_tr": null,
+                    "is_clickable": true,
+                    "is_grayout": false,
+                    "has_stock": true
+                },
+                {
+                    "item_id": 27318746865,
+                    "status": 1,
+                    "current_promotion_reserved_stock": 0,
+                    "name": "桃子潤色保濕防曬霜50ml",
+                    "promotion_id": 733253754486784,
+                    "price": 53800000,
+                    "price_stocks": [
+                        {
+                            "allocated_stock": 0,
+                            "stock_breakdown_by_location": null,
+                            "promotion_type": 301
+                        },
+                        {
+                            "allocated_stock": 0,
+                            "stock_breakdown_by_location": [
+                                {
+                                    "location_id": "TWZ",
+                                    "available_stock": 500,
+                                    "fulfilment_type": 2,
+                                    "address_id": 0,
+                                    "allocated_stock": null
+                                }
+                            ],
+                            "promotion_type": 0
+                        }
+                    ],
+                    "current_promotion_has_reserve_stock": false,
+                    "normal_stock": 500,
+                    "extinfo": {
+                        "tier_index": [
+                            2
+                        ],
+                        "is_pre_order": false,
+                        "estimated_days": 1
+                    },
+                    "price_before_discount": 79000000,
+                    "model_id": 296236781822,
+                    "stock": 500,
+                    "has_gimmick_tag": false,
+                    "key_measurement": null,
+                    "sold": 0,
+                    "is_lowest_price_at_shopee": false,
+                    "name_tr": null,
+                    "is_clickable": true,
+                    "is_grayout": false,
+                    "has_stock": true
+                },
+                {
+                    "item_id": 27318746865,
+                    "status": 1,
+                    "current_promotion_reserved_stock": 0,
+                    "name": "煙酰胺10%+TXA4%30ml",
+                    "promotion_id": 733253754486784,
+                    "price": 59300000,
+                    "price_stocks": [
+                        {
+                            "allocated_stock": 0,
+                            "stock_breakdown_by_location": null,
+                            "promotion_type": 301
+                        },
+                        {
+                            "allocated_stock": 0,
+                            "stock_breakdown_by_location": [
+                                {
+                                    "location_id": "TWZ",
+                                    "available_stock": 882,
+                                    "fulfilment_type": 2,
+                                    "address_id": 0,
+                                    "allocated_stock": null
+                                }
+                            ],
+                            "promotion_type": 0
+                        }
+                    ],
+                    "current_promotion_has_reserve_stock": false,
+                    "normal_stock": 882,
+                    "extinfo": {
+                        "tier_index": [
+                            0
+                        ],
+                        "is_pre_order": false,
+                        "estimated_days": 1
+                    },
+                    "price_before_discount": 79000000,
+                    "model_id": 253237998960,
+                    "stock": 882,
+                    "has_gimmick_tag": false,
+                    "key_measurement": null,
+                    "sold": 109,
+                    "is_lowest_price_at_shopee": false,
+                    "name_tr": null,
+                    "is_clickable": true,
+                    "is_grayout": false,
+                    "has_stock": true
+                }
+            ],
+            "tier_variations": [
+                {
+                    "name": "精華液",
+                    "options": [
+                        "煙酰胺10%+TXA4%30ml",
+                        "魚腥草防曬霜50ml",
+                        "桃子潤色保濕防曬霜50ml"
+                    ],
+                    "images": [
+                        "tw-11134207-7rbkb-m8tkzqb42wed51",
+                        "tw-11134207-7rbk1-m8tl7df7hgiu69",
+                        "tw-11134207-7ra0q-mdtgqw8cku07b2"
+                    ],
+                    "properties": null,
+                    "type": 0,
+                    "summed_stocks": null,
+                    "display_indicators": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "name_tr": null,
+                    "options_tr": null,
+                    "selling_points": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "selling_points_tr": null
+                }
+            ],
+            "size_chart": null,
+            "size_chart_info": null,
+            "welcome_package_type": 0,
+            "is_free_gift": false,
+            "deep_discount": null,
+            "is_low_price_eligible": null,
+            "bundle_deal_info": null,
+            "add_on_deal_info": null,
+            "shipping_icon_type": 0,
+            "badge_icon_type": 0,
+            "spl_info": {
+                "installment_info": null,
+                "user_credit_info": null,
+                "channel_id": null,
+                "show_spl": true,
+                "show_spl_lite": null,
+                "spl_xtra": null,
+                "spl_motorcycle_loan": null
+            },
+            "estimated_days": 1,
+            "is_pre_order": false,
+            "is_free_shipping": false,
+            "overall_purchase_limit": null,
+            "min_purchase_limit": 1,
+            "is_hide_stock": false,
+            "stock": 2478,
+            "normal_stock": 2478,
+            "current_promotion_reserved_stock": 0,
+            "can_use_wholesale": false,
+            "wholesale_tier_list": [],
+            "price": 44600000,
+            "raw_discount": 32,
+            "hidden_price_display": null,
+            "price_min": 44600000,
+            "price_max": 59300000,
+            "price_before_discount": 49500000,
+            "price_min_before_discount": 49500000,
+            "price_max_before_discount": 79000000,
+            "other_stock": 0,
+            "discount_stock": 2478,
+            "current_promotion_has_reserve_stock": false,
+            "complaint_policy": null,
+            "show_recycling_info": null,
+            "should_show_amp_tag": true,
+            "all_models_has_pre_order": false,
+            "is_item_inherited": false,
+            "max_quantity": 2478,
+            "drug_details": null,
+            "selected_real_models": null,
+            "size_tier_variation_idx": null,
+            "is_fashion_item": false,
+            "social_proof_label": null,
+            "title_tr": null,
+            "description_tr": null,
+            "rich_text_description_tr": null,
+            "stock_display": "尚有庫存",
+            "max_quantity_display": "尚有庫存"
+        },
+        "account": {
+            "user_id": 1637295006,
+            "is_new_user": true,
+            "default_address": {
+                "state": "臺北市",
+                "city": "中正區",
+                "district": "",
+                "town": "",
+                "zip_code": null,
+                "address": null,
+                "region": null,
+                "longitude": null,
+                "latitude": null
+            },
+            "adult_consent": 0,
+            "birth_timestamp": 0
+        },
+        "product_images": {
+            "video": null,
+            "images": [
+                "tw-11134207-7rbk9-m8hd5oldor5x9e",
+                "tw-11134207-7rbk2-m8hd66elmemd2f",
+                "tw-11134207-7rbkd-m8hd66fzkdj9a4",
+                "tw-11134207-7rbkd-m8hd626tsihs15",
+                "tw-11134207-7rbkb-m8hd626tsi9xae",
+                "tw-11134207-7rbk1-m8hd89ag2tdl7d"
+            ],
+            "first_tier_variations": [
+                {
+                    "name": "煙酰胺10%+TXA4%30ml",
+                    "image": "tw-11134207-7rbkb-m8tkzqb42wed51",
+                    "summed_stock": 882,
+                    "display_indicator": 0,
+                    "show_find_similar": false,
+                    "name_tr": null,
+                    "selling_point": "",
+                    "selling_point_tr": null
+                },
+                {
+                    "name": "魚腥草防曬霜50ml",
+                    "image": "tw-11134207-7rbk1-m8tl7df7hgiu69",
+                    "summed_stock": 1096,
+                    "display_indicator": 0,
+                    "show_find_similar": false,
+                    "name_tr": null,
+                    "selling_point": "",
+                    "selling_point_tr": null
+                },
+                {
+                    "name": "桃子潤色保濕防曬霜50ml",
+                    "image": "tw-11134207-7ra0q-mdtgqw8cku07b2",
+                    "summed_stock": 500,
+                    "display_indicator": 0,
+                    "show_find_similar": false,
+                    "name_tr": null,
+                    "selling_point": "",
+                    "selling_point_tr": null
+                }
+            ],
+            "sorted_variation_image_index_list": [
+                0,
+                1,
+                2
+            ],
+            "overlay": {
+                "type": 0,
+                "image": "tw-11134258-81ztf-megjtkhgx4av2b",
+                "preview_end_time": null,
+                "is_pre_order": null,
+                "description": ""
+            },
+            "makeup_preview": null,
+            "abnormal_status": "",
+            "promotion_images": [],
+            "long_images": null,
+            "shopee_video_info_list": [],
+            "shopee_video_rcmd_info": null,
+            "shopee_video_req_id": null,
+            "skincam": null,
+            "pdp_top_info_list": null,
+            "has_long_image": null,
+            "show_find_similar": false,
+            "try_it_on": null,
+            "show_find_similar_for_selection": false
+        },
+        "product_price": {
+            "discount": 21,
+            "installment_info": {
+                "recommended_plan": {
+                    "months": 24,
+                    "pay_per_month": 1633000,
+                    "has_buyer_transaction_fee": true
+                }
+            },
+            "spl_installment_info": null,
+            "pack_size": "",
+            "hide_price": false,
+            "price": {
+                "single_value": 39200000,
+                "range_min": -1,
+                "range_max": -1,
+                "price_mask": null
+            },
+            "price_before_discount": {
+                "single_value": 49500000,
+                "range_min": -1,
+                "range_max": -1,
+                "price_mask": null
+            },
+            "presale_price": null,
+            "lowest_past_price": null,
+            "labels": null,
+            "hide_discount": true,
+            "discount_text": null,
+            "show_final_price_indicator": true,
+            "final_price_vouchers": [
+                {
+                    "promotion_id": 1234964675067904,
+                    "voucher_code": "GILL025",
+                    "is_auto_claimed_just_now": false,
+                    "groups": null,
+                    "voucher_type": 1
+                }
+            ],
+            "has_final_price": true,
+            "final_price_info": {
+                "model_id": 253237998962,
+                "hint_text": "券後價 >"
+            }
+        },
+        "flash_sale": null,
+        "flash_sale_preview": null,
+        "deep_discount": null,
+        "exclusive_price": null,
+        "exclusive_price_cta": null,
+        "product_meta": {
+            "show_lowest_price_guarantee": null,
+            "show_original_guarantee": null,
+            "show_best_price_guarantee": false,
+            "show_official_shop_label_in_title": false,
+            "show_shopee_verified_label": false,
+            "show_lowest_installment_guarantee": null,
+            "hide_sharing_button": false,
+            "hide_sold_count": false,
+            "show_description_translation_button": null
+        },
+        "product_review": {
+            "rating_star": 4.9787234042553195,
+            "rating_count": [
+                47,
+                0,
+                0,
+                0,
+                1,
+                46
+            ],
+            "total_rating_count": 47,
+            "historical_sold": 116,
+            "global_sold": 116,
+            "liked": false,
+            "liked_count": 85,
+            "cmt_count": 47,
+            "should_move_ratings_above": null,
+            "review_rcmd_exp_group": null,
+            "display_global_sold": false,
+            "hide_rating": false,
+            "hide_buyer_gallery": false,
+            "hide_reviews": false,
+            "hide_other_product_reviews_in_shop": false,
+            "sold_count_disclosure": null,
+            "historical_sold_display": "116",
+            "global_sold_display": "116"
+        },
+        "promotion_info": {
+            "spl": null,
+            "spl_lite": null,
+            "installment": {
+                "month": 24,
+                "price_raw": 1633000,
+                "interest": 0,
+                "has_buyer_transaction_fee": true,
+                "display_text": "24期x {{price}} (0利率)"
+            },
+            "wholesale": null,
+            "insurance": null,
+            "item_installment_eligibility": {
+                "is_cc_installment_payment_eligible": true,
+                "is_non_cc_installment_payment_eligible": true
+            }
+        },
+        "age_gate": {
+            "kyc": null
+        },
+        "shipping_meta": null,
+        "product_shipping": {
+            "free_shipping": {
+                "min_spend": {
+                    "single_value": 39900000,
+                    "range_min": -1,
+                    "range_max": -1,
+                    "price_mask": null
+                },
+                "has_fss": false
+            },
+            "shipping_fee_info": {
+                "ship_from_location": "桃園市蘆竹區",
+                "price": {
+                    "single_value": -1,
+                    "range_min": 0,
+                    "range_max": 9000000,
+                    "price_mask": null
+                },
+                "shipping_icon_type": 0,
+                "warning": null
+            },
+            "show_shipping_to": true,
+            "ungrouped_channel_infos": [
+                {
+                    "channel_id": 30005,
+                    "name": "7-ELEVEN",
+                    "price": {
+                        "single_value": 0,
+                        "range_min": -1,
+                        "range_max": -1,
+                        "price_mask": null
+                    },
+                    "price_before_discount": {
+                        "single_value": 6000000,
+                        "range_min": -1,
+                        "range_max": -1,
+                        "price_mask": null
+                    },
+                    "channel_delivery_info": {
+                        "has_edt": true,
+                        "display_mode": "edt_by_date",
+                        "estimated_delivery_date_from": 1758631669,
+                        "estimated_delivery_date_to": 1758804469,
+                        "estimated_delivery_time_min": 3,
+                        "estimated_delivery_time_max": 5,
+                        "delay_message": null,
+                        "is_fastest_edt_channel": false,
+                        "sla_message": "",
+                        "show_edt": true,
+                        "edt_text": "預計配達時間 9月23日 - 9月25日",
+                        "formatted_edt_text": [
+                            {
+                                "template": "預計配達時間 9月23日 - 9月25日",
+                                "format": null,
+                                "attributes": null,
+                                "text_color": null,
+                                "text_hex_color": null
+                            }
+                        ],
+                        "formatted_pre_order_text": null,
+                        "formatted_fbs_description_text": null,
+                        "show_edt_as_header": false
+                    },
+                    "channel_promotion_infos": [],
+                    "warning": null,
+                    "shipping_icon_type": null,
+                    "lowest_bpsf_promotion_rule": null,
+                    "service_type_info": "",
+                    "is_integrated_channel": true,
+                    "late_delivery_compensation": null,
+                    "is_sst_included": false,
+                    "display_text": {
+                        "late_delivery_compensation": null,
+                        "direct_delivery": null,
+                        "fulfilled_by_shopee": null,
+                        "spx_instant_delivery": null
+                    },
+                    "rule_type": 0,
+                    "is_xdd_channel": false,
+                    "show_shopee_plus_icon": false,
+                    "xdd_value": null,
+                    "hide_shipping_fee": null,
+                    "edt_tracking_info": "{\"edt_min\":3,\"edt_max\":5,\"edt_min_hours\":72,\"edt_max_hours\":120,\"edt_display_identifier\":65545,\"buyer_address_hash\":\"1AXnLtm\"}"
+                },
+                {
+                    "channel_id": 30015,
+                    "name": "蝦皮店到店",
+                    "price": {
+                        "single_value": 0,
+                        "range_min": -1,
+                        "range_max": -1,
+                        "price_mask": null
+                    },
+                    "price_before_discount": {
+                        "single_value": 4500000,
+                        "range_min": -1,
+                        "range_max": -1,
+                        "price_mask": null
+                    },
+                    "channel_delivery_info": {
+                        "has_edt": true,
+                        "display_mode": "edt_by_date",
+                        "estimated_delivery_date_from": 1758718069,
+                        "estimated_delivery_date_to": 1759236469,
+                        "estimated_delivery_time_min": 4,
+                        "estimated_delivery_time_max": 10,
+                        "delay_message": "免運店家滿$199無限免運; 週三週六$149無限免運",
+                        "is_fastest_edt_channel": false,
+                        "sla_message": "",
+                        "show_edt": true,
+                        "edt_text": "預計配達時間 9月24日 - 9月30日",
+                        "formatted_edt_text": [
+                            {
+                                "template": "預計配達時間 9月24日 - 9月30日",
+                                "format": null,
+                                "attributes": null,
+                                "text_color": null,
+                                "text_hex_color": null
+                            }
+                        ],
+                        "formatted_pre_order_text": null,
+                        "formatted_fbs_description_text": null,
+                        "show_edt_as_header": false
+                    },
+                    "channel_promotion_infos": [],
+                    "warning": null,
+                    "shipping_icon_type": null,
+                    "lowest_bpsf_promotion_rule": null,
+                    "service_type_info": "",
+                    "is_integrated_channel": true,
+                    "late_delivery_compensation": {
+                        "type": 1,
+                        "amount": 1000000,
+                        "is_guaranteed_edt": true,
+                        "compensation_amount": null,
+                        "text": null
+                    },
+                    "is_sst_included": false,
+                    "display_text": {
+                        "late_delivery_compensation": {
+                            "text": "如果訂單未能準時配達，您可以領取 {compensation_amount} 優惠券作為補償",
+                            "gdt_max": null,
+                            "compensation_amount": {
+                                "value": 1000000
+                            }
+                        },
+                        "direct_delivery": null,
+                        "fulfilled_by_shopee": null,
+                        "spx_instant_delivery": null
+                    },
+                    "rule_type": 0,
+                    "is_xdd_channel": false,
+                    "show_shopee_plus_icon": false,
+                    "xdd_value": null,
+                    "hide_shipping_fee": null,
+                    "edt_tracking_info": "{\"edt_min\":4,\"edt_max\":10,\"edt_min_hours\":96,\"edt_max_hours\":240,\"edt_display_identifier\":327689,\"buyer_address_hash\":\"1AXnLtm\"}"
+                },
+                {
+                    "channel_id": 30017,
+                    "name": "店到家宅配 - 標準包裹",
+                    "price": {
+                        "single_value": 0,
+                        "range_min": -1,
+                        "range_max": -1,
+                        "price_mask": null
+                    },
+                    "price_before_discount": {
+                        "single_value": 6500000,
+                        "range_min": -1,
+                        "range_max": -1,
+                        "price_mask": null
+                    },
+                    "channel_delivery_info": {
+                        "has_edt": true,
+                        "display_mode": "edt_by_date",
+                        "estimated_delivery_date_from": 1758804469,
+                        "estimated_delivery_date_to": 1759236469,
+                        "estimated_delivery_time_min": 5,
+                        "estimated_delivery_time_max": 10,
+                        "delay_message": "免運店家滿$490免運；配送範圍限台北、新北、桃園、新竹、台中、彰化、雲林、嘉義、台南、高雄、宜蘭，部分行政區及區域除外",
+                        "is_fastest_edt_channel": false,
+                        "sla_message": "",
+                        "show_edt": true,
+                        "edt_text": "預計配達時間 9月25日 - 9月30日",
+                        "formatted_edt_text": [
+                            {
+                                "template": "預計配達時間 9月25日 - 9月30日",
+                                "format": null,
+                                "attributes": null,
+                                "text_color": null,
+                                "text_hex_color": null
+                            }
+                        ],
+                        "formatted_pre_order_text": null,
+                        "formatted_fbs_description_text": null,
+                        "show_edt_as_header": false
+                    },
+                    "channel_promotion_infos": [],
+                    "warning": null,
+                    "shipping_icon_type": null,
+                    "lowest_bpsf_promotion_rule": null,
+                    "service_type_info": "",
+                    "is_integrated_channel": true,
+                    "late_delivery_compensation": {
+                        "type": 1,
+                        "amount": 1000000,
+                        "is_guaranteed_edt": true,
+                        "compensation_amount": null,
+                        "text": null
+                    },
+                    "is_sst_included": false,
+                    "display_text": {
+                        "late_delivery_compensation": {
+                            "text": "如果訂單未能準時配達，您可以領取 {compensation_amount} 優惠券作為補償",
+                            "gdt_max": null,
+                            "compensation_amount": {
+                                "value": 1000000
+                            }
+                        },
+                        "direct_delivery": null,
+                        "fulfilled_by_shopee": null,
+                        "spx_instant_delivery": null
+                    },
+                    "rule_type": 0,
+                    "is_xdd_channel": false,
+                    "show_shopee_plus_icon": false,
+                    "xdd_value": null,
+                    "hide_shipping_fee": null,
+                    "edt_tracking_info": "{\"edt_min\":5,\"edt_max\":10,\"edt_min_hours\":120,\"edt_max_hours\":240,\"edt_display_identifier\":327689,\"buyer_address_hash\":\"1AXnLtm\"}"
+                },
+                {
+                    "channel_id": 30019,
+                    "name": "蝦皮店到店 - 隔日到貨",
+                    "price": {
+                        "single_value": 6000000,
+                        "range_min": -1,
+                        "range_max": -1,
+                        "price_mask": null
+                    },
+                    "price_before_discount": null,
+                    "channel_delivery_info": {
+                        "has_edt": true,
+                        "display_mode": "edt_by_date",
+                        "estimated_delivery_date_from": 1758631669,
+                        "estimated_delivery_date_to": 1758631669,
+                        "estimated_delivery_time_min": 3,
+                        "estimated_delivery_time_max": 3,
+                        "delay_message": "免運店家滿$299免運; 平日14點前下單隔日晚間到",
+                        "is_fastest_edt_channel": false,
+                        "sla_message": "",
+                        "show_edt": true,
+                        "edt_text": "預計配達日 9月23日",
+                        "formatted_edt_text": [
+                            {
+                                "template": "預計配達日 9月23日",
+                                "format": null,
+                                "attributes": null,
+                                "text_color": null,
+                                "text_hex_color": null
+                            }
+                        ],
+                        "formatted_pre_order_text": null,
+                        "formatted_fbs_description_text": null,
+                        "show_edt_as_header": false
+                    },
+                    "channel_promotion_infos": [],
+                    "warning": null,
+                    "shipping_icon_type": null,
+                    "lowest_bpsf_promotion_rule": null,
+                    "service_type_info": "",
+                    "is_integrated_channel": true,
+                    "late_delivery_compensation": {
+                        "type": 1,
+                        "amount": 3000000,
+                        "is_guaranteed_edt": true,
+                        "compensation_amount": null,
+                        "text": null
+                    },
+                    "is_sst_included": false,
+                    "display_text": {
+                        "late_delivery_compensation": {
+                            "text": "如果訂單未能準時配達，您可以領取 {compensation_amount} 優惠券作為補償",
+                            "gdt_max": null,
+                            "compensation_amount": {
+                                "value": 3000000
+                            }
+                        },
+                        "direct_delivery": null,
+                        "fulfilled_by_shopee": null,
+                        "spx_instant_delivery": null
+                    },
+                    "rule_type": 0,
+                    "is_xdd_channel": false,
+                    "show_shopee_plus_icon": false,
+                    "xdd_value": null,
+                    "hide_shipping_fee": null,
+                    "edt_tracking_info": "{\"edt_min\":3,\"edt_max\":3,\"edt_min_hours\":72,\"edt_max_hours\":72,\"edt_display_identifier\":294921,\"buyer_address_hash\":\"1AXnLtm\"}"
+                },
+                {
+                    "channel_id": 30006,
+                    "name": "全家",
+                    "price": {
+                        "single_value": 0,
+                        "range_min": -1,
+                        "range_max": -1,
+                        "price_mask": null
+                    },
+                    "price_before_discount": {
+                        "single_value": 6000000,
+                        "range_min": -1,
+                        "range_max": -1,
+                        "price_mask": null
+                    },
+                    "channel_delivery_info": {
+                        "has_edt": true,
+                        "display_mode": "edt_by_date",
+                        "estimated_delivery_date_from": 1758631669,
+                        "estimated_delivery_date_to": 1758890869,
+                        "estimated_delivery_time_min": 3,
+                        "estimated_delivery_time_max": 6,
+                        "delay_message": null,
+                        "is_fastest_edt_channel": false,
+                        "sla_message": "",
+                        "show_edt": true,
+                        "edt_text": "預計配達時間 9月23日 - 9月26日",
+                        "formatted_edt_text": [
+                            {
+                                "template": "預計配達時間 9月23日 - 9月26日",
+                                "format": null,
+                                "attributes": null,
+                                "text_color": null,
+                                "text_hex_color": null
+                            }
+                        ],
+                        "formatted_pre_order_text": null,
+                        "formatted_fbs_description_text": null,
+                        "show_edt_as_header": false
+                    },
+                    "channel_promotion_infos": [],
+                    "warning": null,
+                    "shipping_icon_type": null,
+                    "lowest_bpsf_promotion_rule": null,
+                    "service_type_info": "",
+                    "is_integrated_channel": true,
+                    "late_delivery_compensation": null,
+                    "is_sst_included": false,
+                    "display_text": {
+                        "late_delivery_compensation": null,
+                        "direct_delivery": null,
+                        "fulfilled_by_shopee": null,
+                        "spx_instant_delivery": null
+                    },
+                    "rule_type": 0,
+                    "is_xdd_channel": false,
+                    "show_shopee_plus_icon": false,
+                    "xdd_value": null,
+                    "hide_shipping_fee": null,
+                    "edt_tracking_info": "{\"edt_min\":3,\"edt_max\":6,\"edt_min_hours\":72,\"edt_max_hours\":144,\"edt_display_identifier\":65545,\"buyer_address_hash\":\"1AXnLtm\"}"
+                },
+                {
+                    "channel_id": 30007,
+                    "name": "萊爾富",
+                    "price": {
+                        "single_value": 5000000,
+                        "range_min": -1,
+                        "range_max": -1,
+                        "price_mask": null
+                    },
+                    "price_before_discount": null,
+                    "channel_delivery_info": {
+                        "has_edt": true,
+                        "display_mode": "edt_by_date",
+                        "estimated_delivery_date_from": 1758550936,
+                        "estimated_delivery_date_to": 1758807017,
+                        "estimated_delivery_time_min": 2,
+                        "estimated_delivery_time_max": 5,
+                        "delay_message": null,
+                        "is_fastest_edt_channel": false,
+                        "sla_message": "",
+                        "show_edt": true,
+                        "edt_text": "預計配達時間 9月22日 - 9月25日",
+                        "formatted_edt_text": [
+                            {
+                                "template": "預計配達時間 9月22日 - 9月25日",
+                                "format": null,
+                                "attributes": null,
+                                "text_color": null,
+                                "text_hex_color": null
+                            }
+                        ],
+                        "formatted_pre_order_text": null,
+                        "formatted_fbs_description_text": null,
+                        "show_edt_as_header": false
+                    },
+                    "channel_promotion_infos": [],
+                    "warning": null,
+                    "shipping_icon_type": null,
+                    "lowest_bpsf_promotion_rule": null,
+                    "service_type_info": "",
+                    "is_integrated_channel": true,
+                    "late_delivery_compensation": null,
+                    "is_sst_included": false,
+                    "display_text": {
+                        "late_delivery_compensation": null,
+                        "direct_delivery": null,
+                        "fulfilled_by_shopee": null,
+                        "spx_instant_delivery": null
+                    },
+                    "rule_type": 0,
+                    "is_xdd_channel": false,
+                    "show_shopee_plus_icon": false,
+                    "xdd_value": null,
+                    "hide_shipping_fee": null,
+                    "edt_tracking_info": "{\"edt_min\":2,\"edt_max\":5,\"edt_min_hours\":50,\"edt_max_hours\":121,\"edt_display_identifier\":65545,\"buyer_address_hash\":\"1AXnLtm\"}"
+                },
+                {
+                    "channel_id": 30020,
+                    "name": "新竹物流",
+                    "price": {
+                        "single_value": 6500000,
+                        "range_min": -1,
+                        "range_max": -1,
+                        "price_mask": null
+                    },
+                    "price_before_discount": null,
+                    "channel_delivery_info": {
+                        "has_edt": true,
+                        "display_mode": "edt_by_date",
+                        "estimated_delivery_date_from": 1758546020,
+                        "estimated_delivery_date_to": 1758718820,
+                        "estimated_delivery_time_min": 2,
+                        "estimated_delivery_time_max": 4,
+                        "delay_message": null,
+                        "is_fastest_edt_channel": false,
+                        "sla_message": "",
+                        "show_edt": true,
+                        "edt_text": "預計配達時間 9月22日 - 9月24日",
+                        "formatted_edt_text": [
+                            {
+                                "template": "預計配達時間 9月22日 - 9月24日",
+                                "format": null,
+                                "attributes": null,
+                                "text_color": null,
+                                "text_hex_color": null
+                            }
+                        ],
+                        "formatted_pre_order_text": null,
+                        "formatted_fbs_description_text": null,
+                        "show_edt_as_header": false
+                    },
+                    "channel_promotion_infos": [],
+                    "warning": null,
+                    "shipping_icon_type": null,
+                    "lowest_bpsf_promotion_rule": null,
+                    "service_type_info": "",
+                    "is_integrated_channel": true,
+                    "late_delivery_compensation": null,
+                    "is_sst_included": false,
+                    "display_text": {
+                        "late_delivery_compensation": null,
+                        "direct_delivery": null,
+                        "fulfilled_by_shopee": null,
+                        "spx_instant_delivery": null
+                    },
+                    "rule_type": 0,
+                    "is_xdd_channel": false,
+                    "show_shopee_plus_icon": false,
+                    "xdd_value": null,
+                    "hide_shipping_fee": null,
+                    "edt_tracking_info": "{\"edt_min\":2,\"edt_max\":4,\"edt_min_hours\":49,\"edt_max_hours\":97,\"edt_display_identifier\":65545,\"buyer_address_hash\":\"1AXnLtm\"}"
+                },
+                {
+                    "channel_id": 30012,
+                    "name": "宅配通",
+                    "price": {
+                        "single_value": 0,
+                        "range_min": -1,
+                        "range_max": -1,
+                        "price_mask": null
+                    },
+                    "price_before_discount": {
+                        "single_value": 7000000,
+                        "range_min": -1,
+                        "range_max": -1,
+                        "price_mask": null
+                    },
+                    "channel_delivery_info": {
+                        "has_edt": true,
+                        "display_mode": "edt_by_date",
+                        "estimated_delivery_date_from": 1758631669,
+                        "estimated_delivery_date_to": 1758804469,
+                        "estimated_delivery_time_min": 3,
+                        "estimated_delivery_time_max": 5,
+                        "delay_message": "請留意:為避免無法正常配送，您的地址請勿輸入異常符號，例如：\"/\" \"*\"....等。",
+                        "is_fastest_edt_channel": false,
+                        "sla_message": "",
+                        "show_edt": true,
+                        "edt_text": "預計配達時間 9月23日 - 9月25日",
+                        "formatted_edt_text": [
+                            {
+                                "template": "預計配達時間 9月23日 - 9月25日",
+                                "format": null,
+                                "attributes": null,
+                                "text_color": null,
+                                "text_hex_color": null
+                            }
+                        ],
+                        "formatted_pre_order_text": null,
+                        "formatted_fbs_description_text": null,
+                        "show_edt_as_header": false
+                    },
+                    "channel_promotion_infos": [],
+                    "warning": null,
+                    "shipping_icon_type": null,
+                    "lowest_bpsf_promotion_rule": null,
+                    "service_type_info": "",
+                    "is_integrated_channel": true,
+                    "late_delivery_compensation": null,
+                    "is_sst_included": false,
+                    "display_text": {
+                        "late_delivery_compensation": null,
+                        "direct_delivery": null,
+                        "fulfilled_by_shopee": null,
+                        "spx_instant_delivery": null
+                    },
+                    "rule_type": 0,
+                    "is_xdd_channel": false,
+                    "show_shopee_plus_icon": false,
+                    "xdd_value": null,
+                    "hide_shipping_fee": null,
+                    "edt_tracking_info": "{\"edt_min\":3,\"edt_max\":5,\"edt_min_hours\":72,\"edt_max_hours\":120,\"edt_display_identifier\":65545,\"buyer_address_hash\":\"1AXnLtm\"}"
+                },
+                {
+                    "channel_id": 30014,
+                    "name": "OK Mart",
+                    "price": {
+                        "single_value": 0,
+                        "range_min": -1,
+                        "range_max": -1,
+                        "price_mask": null
+                    },
+                    "price_before_discount": {
+                        "single_value": 4500000,
+                        "range_min": -1,
+                        "range_max": -1,
+                        "price_mask": null
+                    },
+                    "channel_delivery_info": {
+                        "has_edt": true,
+                        "display_mode": "edt_by_date",
+                        "estimated_delivery_date_from": 1758631669,
+                        "estimated_delivery_date_to": 1758890869,
+                        "estimated_delivery_time_min": 3,
+                        "estimated_delivery_time_max": 6,
+                        "delay_message": null,
+                        "is_fastest_edt_channel": false,
+                        "sla_message": "",
+                        "show_edt": true,
+                        "edt_text": "預計配達時間 9月23日 - 9月26日",
+                        "formatted_edt_text": [
+                            {
+                                "template": "預計配達時間 9月23日 - 9月26日",
+                                "format": null,
+                                "attributes": null,
+                                "text_color": null,
+                                "text_hex_color": null
+                            }
+                        ],
+                        "formatted_pre_order_text": null,
+                        "formatted_fbs_description_text": null,
+                        "show_edt_as_header": false
+                    },
+                    "channel_promotion_infos": [],
+                    "warning": null,
+                    "shipping_icon_type": null,
+                    "lowest_bpsf_promotion_rule": null,
+                    "service_type_info": "",
+                    "is_integrated_channel": true,
+                    "late_delivery_compensation": null,
+                    "is_sst_included": false,
+                    "display_text": {
+                        "late_delivery_compensation": null,
+                        "direct_delivery": null,
+                        "fulfilled_by_shopee": null,
+                        "spx_instant_delivery": null
+                    },
+                    "rule_type": 0,
+                    "is_xdd_channel": false,
+                    "show_shopee_plus_icon": false,
+                    "xdd_value": null,
+                    "hide_shipping_fee": null,
+                    "edt_tracking_info": "{\"edt_min\":3,\"edt_max\":6,\"edt_min_hours\":72,\"edt_max_hours\":144,\"edt_display_identifier\":65545,\"buyer_address_hash\":\"1AXnLtm\"}"
+                },
+                {
+                    "channel_id": 30001,
+                    "name": "黑貓宅急便",
+                    "price": {
+                        "single_value": 9000000,
+                        "range_min": -1,
+                        "range_max": -1,
+                        "price_mask": null
+                    },
+                    "price_before_discount": null,
+                    "channel_delivery_info": {
+                        "has_edt": true,
+                        "display_mode": "edt_by_date",
+                        "estimated_delivery_date_from": 1758523037,
+                        "estimated_delivery_date_to": 1758701522,
+                        "estimated_delivery_time_min": 2,
+                        "estimated_delivery_time_max": 4,
+                        "delay_message": null,
+                        "is_fastest_edt_channel": false,
+                        "sla_message": "",
+                        "show_edt": true,
+                        "edt_text": "預計配達時間 9月22日 - 9月24日",
+                        "formatted_edt_text": [
+                            {
+                                "template": "預計配達時間 9月22日 - 9月24日",
+                                "format": null,
+                                "attributes": null,
+                                "text_color": null,
+                                "text_hex_color": null
+                            }
+                        ],
+                        "formatted_pre_order_text": null,
+                        "formatted_fbs_description_text": null,
+                        "show_edt_as_header": false
+                    },
+                    "channel_promotion_infos": [],
+                    "warning": null,
+                    "shipping_icon_type": null,
+                    "lowest_bpsf_promotion_rule": null,
+                    "service_type_info": "",
+                    "is_integrated_channel": true,
+                    "late_delivery_compensation": null,
+                    "is_sst_included": false,
+                    "display_text": {
+                        "late_delivery_compensation": null,
+                        "direct_delivery": null,
+                        "fulfilled_by_shopee": null,
+                        "spx_instant_delivery": null
+                    },
+                    "rule_type": 0,
+                    "is_xdd_channel": false,
+                    "show_shopee_plus_icon": false,
+                    "xdd_value": null,
+                    "hide_shipping_fee": null,
+                    "edt_tracking_info": "{\"edt_min\":2,\"edt_max\":4,\"edt_min_hours\":42,\"edt_max_hours\":92,\"edt_display_identifier\":65545,\"buyer_address_hash\":\"1AXnLtm\"}"
+                },
+                {
+                    "channel_id": 30018,
+                    "name": "嘉里快遞",
+                    "price": {
+                        "single_value": 6500000,
+                        "range_min": -1,
+                        "range_max": -1,
+                        "price_mask": null
+                    },
+                    "price_before_discount": null,
+                    "channel_delivery_info": {
+                        "has_edt": true,
+                        "display_mode": "edt_by_date",
+                        "estimated_delivery_date_from": 1758518579,
+                        "estimated_delivery_date_to": 1758718759,
+                        "estimated_delivery_time_min": 2,
+                        "estimated_delivery_time_max": 4,
+                        "delay_message": null,
+                        "is_fastest_edt_channel": false,
+                        "sla_message": "",
+                        "show_edt": true,
+                        "edt_text": "預計配達時間 9月22日 - 9月24日",
+                        "formatted_edt_text": [
+                            {
+                                "template": "預計配達時間 9月22日 - 9月24日",
+                                "format": null,
+                                "attributes": null,
+                                "text_color": null,
+                                "text_hex_color": null
+                            }
+                        ],
+                        "formatted_pre_order_text": null,
+                        "formatted_fbs_description_text": null,
+                        "show_edt_as_header": false
+                    },
+                    "channel_promotion_infos": [],
+                    "warning": null,
+                    "shipping_icon_type": null,
+                    "lowest_bpsf_promotion_rule": null,
+                    "service_type_info": "",
+                    "is_integrated_channel": true,
+                    "late_delivery_compensation": null,
+                    "is_sst_included": false,
+                    "display_text": {
+                        "late_delivery_compensation": null,
+                        "direct_delivery": null,
+                        "fulfilled_by_shopee": null,
+                        "spx_instant_delivery": null
+                    },
+                    "rule_type": 0,
+                    "is_xdd_channel": false,
+                    "show_shopee_plus_icon": false,
+                    "xdd_value": null,
+                    "hide_shipping_fee": null,
+                    "edt_tracking_info": "{\"edt_min\":2,\"edt_max\":4,\"edt_min_hours\":41,\"edt_max_hours\":97,\"edt_display_identifier\":65545,\"buyer_address_hash\":\"1AXnLtm\"}"
+                }
+            ],
+            "grouped_channel_infos_by_service_type": [],
+            "also_available_channel_name": "",
+            "pre_selected_shipping_channel": {
+                "channel_id": 30005,
+                "name": "7-ELEVEN",
+                "price": {
+                    "single_value": 0,
+                    "range_min": -1,
+                    "range_max": -1,
+                    "price_mask": null
+                },
+                "price_before_discount": {
+                    "single_value": 6000000,
+                    "range_min": -1,
+                    "range_max": -1,
+                    "price_mask": null
+                },
+                "channel_delivery_info": {
+                    "has_edt": true,
+                    "display_mode": "edt_by_date",
+                    "estimated_delivery_date_from": 1758631669,
+                    "estimated_delivery_date_to": 1758804469,
+                    "estimated_delivery_time_min": 3,
+                    "estimated_delivery_time_max": 5,
+                    "delay_message": "",
+                    "is_fastest_edt_channel": false,
+                    "sla_message": "",
+                    "show_edt": true,
+                    "edt_text": "預計配達時間 9月23日 - 9月25日",
+                    "formatted_edt_text": [
+                        {
+                            "template": "預計配達時間 9月23日 - 9月25日",
+                            "format": [],
+                            "attributes": null,
+                            "text_color": null,
+                            "text_hex_color": null
+                        }
+                    ],
+                    "formatted_pre_order_text": null,
+                    "formatted_fbs_description_text": null,
+                    "show_edt_as_header": false
+                },
+                "channel_promotion_infos": [],
+                "warning": {
+                    "type": "",
+                    "warning_msg": ""
+                },
+                "shipping_icon_type": null,
+                "lowest_bpsf_promotion_rule": null,
+                "service_type_info": "",
+                "is_integrated_channel": true,
+                "late_delivery_compensation": null,
+                "is_sst_included": false,
+                "display_text": {
+                    "late_delivery_compensation": null,
+                    "direct_delivery": null,
+                    "fulfilled_by_shopee": null,
+                    "spx_instant_delivery": null
+                },
+                "rule_type": 0,
+                "is_xdd_channel": false,
+                "show_shopee_plus_icon": false,
+                "xdd_value": 0,
+                "hide_shipping_fee": null,
+                "edt_tracking_info": null
+            },
+            "show_grouped_channel_first": false,
+            "is_item_with_price_range": true,
+            "also_available_channel_icon_type": null,
+            "pre_order_text": "",
+            "selected_late_delivery_compensation_for_drawer": null,
+            "shipping_info_text": {
+                "text_template": null,
+                "shipping_fee": null,
+                "edt_from": null,
+                "edt_to": null,
+                "show_shipping_fee_suffix": true,
+                "formatted_text": {
+                    "edt": {
+                        "template": "預計配達時間 9月23日 - 9月25日",
+                        "format": null,
+                        "attributes": null,
+                        "text_color": null,
+                        "text_hex_color": null
+                    },
+                    "shipping_fee": {
+                        "template": "運費：$0 起",
+                        "format": null,
+                        "attributes": null,
+                        "text_color": null,
+                        "text_hex_color": null
+                    },
+                    "late_delivery_compensation": null,
+                    "fbs_description": null,
+                    "display_edt_text_first_line": true
+                },
+                "highlight_free_shipping": false
+            },
+            "formatted_pre_order_text": null,
+            "has_free_return": null,
+            "model_id": 253237998960,
+            "delivery_address": {
+                "state": "臺北市",
+                "city": "中正區",
+                "district": null,
+                "town": null,
+                "zip_code": null,
+                "address": null,
+                "region": null,
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        "shop_vouchers": [
+            {
+                "promotionid": 1234964675067904,
+                "voucher_code": "GILL025",
+                "signature": "00aecb6f11a213dcd99fc1180059cf2487f6d26c7dbdd30d6c76e7fb43d52a48",
+                "use_type": 0,
+                "platform_type": null,
+                "voucher_market_type": 1,
+                "min_spend": 39900000,
+                "used_price": 5400000,
+                "current_spend": null,
+                "product_limit": false,
+                "quota_type": 1,
+                "percentage_claimed": 0,
+                "percentage_used": 15,
+                "start_time": 1756678980,
+                "end_time": 1759247940,
+                "collect_time": 0,
+                "claim_start_time": 0,
+                "valid_days": 0,
+                "reward_type": 0,
+                "reward_percentage": 12,
+                "reward_value": 0,
+                "reward_cap": 0,
+                "coin_earned": null,
+                "title": null,
+                "use_link": null,
+                "icon_hash": "tw-11134216-7r98p-lw79bfemrewgf8",
+                "icon_text": "Acelit.USA【台灣護髮館】代購 洗髮水，護髮精油，護髮素，美髮工具...",
+                "icon_url": null,
+                "customised_labels": [],
+                "customised_product_scope_tags": null,
+                "shop_id": 1061812473,
+                "shop_name": "Acelit.USA【台灣護髮館】代購 洗髮水，護髮精油，護髮素，美髮工具...",
+                "is_shop_preferred": false,
+                "is_shop_official": false,
+                "shop_count": null,
+                "ui_display_type": null,
+                "customised_mall_name": null,
+                "small_icon_list": null,
+                "dp_category_name": null,
+                "invalid_message_code": null,
+                "invalid_message": null,
+                "display_labels": null,
+                "wallet_redeemable": false,
+                "customer_reference_id": "SHOP-CBF4D21A48A202280000001014050501",
+                "fully_redeemed": null,
+                "has_expired": null,
+                "disabled": null,
+                "voucher_external_market_type": null,
+                "now_food_extra_info": null,
+                "airpay_opv_extra_info": null,
+                "partner_extra_info": null,
+                "discount_value": 0,
+                "discount_percentage": 12,
+                "discount_cap": 0,
+                "coin_percentage": null,
+                "coin_cap": null,
+                "usage_limit": null,
+                "used_count": null,
+                "left_count": null,
+                "shopee_wallet_only": false,
+                "new_user_only": null,
+                "description": "這個頁面不支援你現在的蝦皮購物APP版本，請更新APP以繼續瀏覽。",
+                "shop_logo": "tw-11134216-7r98p-lw79bfemrewgf8",
+                "error_code": 0,
+                "is_claimed_before": false,
+                "customised_product_scope_tag_image_hash": null,
+                "usage_limit_per_user": 1,
+                "remaining_usage_limit": 1,
+                "action": null,
+                "sub_icon_text": null,
+                "is_customised_icon": null,
+                "fixed_flag": null,
+                "customised_flag": null,
+                "fsv_voucher_card_ui_info": null
+            }
+        ],
+        "free_return": null,
+        "coin_info": {
+            "spend_cash_unit": 100000,
+            "coin_earn_items": [],
+            "coin_earn_label": null
+        },
+        "product_attributes": {
+            "attrs": [
+                {
+                    "name": "商品數量",
+                    "value": "尚有庫存",
+                    "id": null,
+                    "is_timestamp": null,
+                    "brand_option": null,
+                    "val_id": null,
+                    "url": null,
+                    "brand_id": null,
+                    "full_url": null,
+                    "type": 7,
+                    "item_attribute_type": null,
+                    "name_tr": null,
+                    "value_tr": null
+                },
+                {
+                    "name": "產地",
+                    "value": "韓國",
+                    "id": 100037,
+                    "is_timestamp": null,
+                    "brand_option": null,
+                    "val_id": null,
+                    "url": null,
+                    "brand_id": null,
+                    "full_url": null,
+                    "type": 5,
+                    "item_attribute_type": null,
+                    "name_tr": null,
+                    "value_tr": null
+                },
+                {
+                    "name": "出貨地",
+                    "value": "桃園市蘆竹區",
+                    "id": null,
+                    "is_timestamp": null,
+                    "brand_option": null,
+                    "val_id": null,
+                    "url": null,
+                    "brand_id": null,
+                    "full_url": null,
+                    "type": 6,
+                    "item_attribute_type": null,
+                    "name_tr": null,
+                    "value_tr": null
+                }
+            ],
+            "categories": [
+                {
+                    "catid": 11041691,
+                    "display_name": "美妝保養",
+                    "no_sub": false,
+                    "is_default_subcat": false
+                },
+                {
+                    "catid": 11041752,
+                    "display_name": "醫美清潔保養",
+                    "no_sub": false,
+                    "is_default_subcat": false
+                },
+                {
+                    "catid": 11046882,
+                    "display_name": "精華液",
+                    "no_sub": true,
+                    "is_default_subcat": false
+                }
+            ],
+            "related_items": []
+        },
+        "shop_detailed": {
+            "shopid": 1061812473,
+            "userid": 1062066008,
+            "last_active_time": 1758372209,
+            "vacation": false,
+            "place": "桃園市蘆竹區",
+            "account": {
+                "portrait": "tw-11134216-7r98p-lw79bfemrewgf8",
+                "username": "gillanderson252",
+                "status": 1
+            },
+            "is_shopee_verified": false,
+            "is_preferred_plus_seller": false,
+            "is_official_shop": false,
+            "shop_location": "桃園市蘆竹區",
+            "item_count": 107,
+            "rating_star": 4.899254,
+            "response_rate": 99,
+            "session_info": null,
+            "name": "Acelit.USA【台灣護髮館】代購 洗髮水，護髮精油，護髮素，美髮工具...",
+            "ctime": 1693138465,
+            "response_time": 5362,
+            "follower_count": 223,
+            "show_official_shop_label": false,
+            "rating_bad": 6,
+            "rating_good": 811,
+            "rating_normal": 13,
+            "session_infos": null,
+            "status": 1,
+            "is_individual_seller": null,
+            "is_mart": false,
+            "favorite_shop_info": null,
+            "is_3pf": false,
+            "sold_total": 2510,
+            "is_shopee_choice": false,
+            "is_high_end": false,
+            "banner": {
+                "shopee_choice": null
+            },
+            "authorized_brand": null,
+            "is_scs": false,
+            "shop_location_tr": null,
+            "sold_total_display": null,
+            "is_outlet": false,
+            "display_fbs_logo": false
+        },
+        "age_gate_control": null,
+        "abnormal_popup": null,
+        "return_on_spot": null,
+        "display_sections": {
+            "add_on_deal": null,
+            "bundle_deal": null,
+            "exclusive_price_label": null,
+            "free_return": null,
+            "coin": null,
+            "wholesale": null
+        },
+        "ineligible_ep": null,
+        "tax_disclaimer": null,
+        "alcohol_disclaimer": null,
+        "design_control": {
+            "use_new_revamp_first_screen": null,
+            "display_on_time_delivery_guarantee": true,
+            "disable_price_with_variation": false,
+            "display_direct_delivery": false,
+            "use_new_featured_video_revamp": null,
+            "first_screen_revamp_abtest_group": null,
+            "display_choice_customised_section": false,
+            "is_support_fbs_enabled": false,
+            "top_section_featured_video_ab_test_group": null,
+            "enable_ksp_config": null,
+            "disable_main_page_select_variation": null,
+            "support_shop_review_preview": null,
+            "pdp_revamp_phase1_improvement_ui_review_down": null,
+            "display_fashion_attributes": null,
+            "display_fashion_review_section": null,
+            "display_fashion_first_screen": null,
+            "enable_fashion_review_improvements": null,
+            "display_fbs_floating_counter": null,
+            "display_shipping_drawer_new_free_shipping_text": false,
+            "display_shipping_drawer_new_free_shipping_ui": false
+        },
+        "shopee_free_return": null,
+        "detail_level": 0,
+        "removed_fields": null,
+        "size_guide": null,
+        "designer_info": null,
+        "shipping_info": null,
+        "vehicle_compatibility_info": null,
+        "nea": null,
+        "button_group": {
+            "buy_with_voucher": null,
+            "ineligible_user_platform_exclusive_sku": null
+        },
+        "installment_drawer": {
+            "priority": [
+                0,
+                1
+            ],
+            "spl": null,
+            "bank": {
+                "channels": [
+                    {
+                        "channel_ic": "ic_paymentoption_ccinstallment",
+                        "channel_name": "label_cc_installment",
+                        "is_cc": true,
+                        "plans": null,
+                        "banks": [
+                            {
+                                "bank_id": 160,
+                                "bank_name": "遠東國際商業銀行",
+                                "bank_logo": "",
+                                "sub_options": [
+                                    {
+                                        "data": {
+                                            "name": "3x @ 0.00%",
+                                            "channel_id": 3000501,
+                                            "tenure": 3,
+                                            "total_amount": 39200000,
+                                            "down_payment": null,
+                                            "interest_rate": 0,
+                                            "installment_amount": null,
+                                            "monthly_installment": 13066000,
+                                            "bank_id": null,
+                                            "bank_name": null,
+                                            "has_buyer_transaction_fee": true
+                                        },
+                                        "name": null,
+                                        "option_info": "3000501-80",
+                                        "disabled_reason_key": null,
+                                        "disabled_reason": null,
+                                        "disabled_reason_data": null
+                                    },
+                                    {
+                                        "data": {
+                                            "name": "6x @ 0.00%",
+                                            "channel_id": 3000501,
+                                            "tenure": 6,
+                                            "total_amount": 39200000,
+                                            "down_payment": null,
+                                            "interest_rate": 0,
+                                            "installment_amount": null,
+                                            "monthly_installment": 6533000,
+                                            "bank_id": null,
+                                            "bank_name": null,
+                                            "has_buyer_transaction_fee": true
+                                        },
+                                        "name": null,
+                                        "option_info": "3000501-81",
+                                        "disabled_reason_key": null,
+                                        "disabled_reason": null,
+                                        "disabled_reason_data": null
+                                    }
+                                ]
+                            },
+                            {
+                                "bank_id": 245,
+                                "bank_name": "玉山商業銀行",
+                                "bank_logo": "",
+                                "sub_options": [
+                                    {
+                                        "data": {
+                                            "name": "3x @ 0.00%",
+                                            "channel_id": 3000501,
+                                            "tenure": 3,
+                                            "total_amount": 39200000,
+                                            "down_payment": null,
+                                            "interest_rate": 0,
+                                            "installment_amount": null,
+                                            "monthly_installment": 13066000,
+                                            "bank_id": null,
+                                            "bank_name": null,
+                                            "has_buyer_transaction_fee": true
+                                        },
+                                        "name": null,
+                                        "option_info": "3000501-21",
+                                        "disabled_reason_key": null,
+                                        "disabled_reason": null,
+                                        "disabled_reason_data": null
+                                    },
+                                    {
+                                        "data": {
+                                            "name": "6x @ 0.00%",
+                                            "channel_id": 3000501,
+                                            "tenure": 6,
+                                            "total_amount": 39200000,
+                                            "down_payment": null,
+                                            "interest_rate": 0,
+                                            "installment_amount": null,
+                                            "monthly_installment": 6533000,
+                                            "bank_id": null,
+                                            "bank_name": null,
+                                            "has_buyer_transaction_fee": true
+                                        },
+                                        "name": null,
+                                        "option_info": "3000501-22",
+                                        "disabled_reason_key": null,
+                                        "disabled_reason": null,
+                                        "disabled_reason_data": null
+                                    },
+                                    {
+                                        "data": {
+                                            "name": "12x @ 0.00%",
+                                            "channel_id": 3000501,
+                                            "tenure": 12,
+                                            "total_amount": 39200000,
+                                            "down_payment": null,
+                                            "interest_rate": 0,
+                                            "installment_amount": null,
+                                            "monthly_installment": 3266000,
+                                            "bank_id": null,
+                                            "bank_name": null,
+                                            "has_buyer_transaction_fee": true
+                                        },
+                                        "name": null,
+                                        "option_info": "3000501-23",
+                                        "disabled_reason_key": null,
+                                        "disabled_reason": null,
+                                        "disabled_reason_data": null
+                                    },
+                                    {
+                                        "data": {
+                                            "name": "24x @ 0.00%",
+                                            "channel_id": 3000501,
+                                            "tenure": 24,
+                                            "total_amount": 39200000,
+                                            "down_payment": null,
+                                            "interest_rate": 0,
+                                            "installment_amount": null,
+                                            "monthly_installment": 1633000,
+                                            "bank_id": null,
+                                            "bank_name": null,
+                                            "has_buyer_transaction_fee": true
+                                        },
+                                        "name": null,
+                                        "option_info": "3000501-24",
+                                        "disabled_reason_key": null,
+                                        "disabled_reason": null,
+                                        "disabled_reason_data": null
+                                    }
+                                ]
+                            },
+                            {
+                                "bank_id": 366,
+                                "bank_name": "兆豐國際商業銀行",
+                                "bank_logo": "",
+                                "sub_options": [
+                                    {
+                                        "data": {
+                                            "name": "3x @ 0.00%",
+                                            "channel_id": 3000501,
+                                            "tenure": 3,
+                                            "total_amount": 39200000,
+                                            "down_payment": null,
+                                            "interest_rate": 0,
+                                            "installment_amount": null,
+                                            "monthly_installment": 13066000,
+                                            "bank_id": null,
+                                            "bank_name": null,
+                                            "has_buyer_transaction_fee": true
+                                        },
+                                        "name": null,
+                                        "option_info": "3000501-85",
+                                        "disabled_reason_key": null,
+                                        "disabled_reason": null,
+                                        "disabled_reason_data": null
+                                    },
+                                    {
+                                        "data": {
+                                            "name": "6x @ 0.00%",
+                                            "channel_id": 3000501,
+                                            "tenure": 6,
+                                            "total_amount": 39200000,
+                                            "down_payment": null,
+                                            "interest_rate": 0,
+                                            "installment_amount": null,
+                                            "monthly_installment": 6533000,
+                                            "bank_id": null,
+                                            "bank_name": null,
+                                            "has_buyer_transaction_fee": true
+                                        },
+                                        "name": null,
+                                        "option_info": "3000501-86",
+                                        "disabled_reason_key": null,
+                                        "disabled_reason": null,
+                                        "disabled_reason_data": null
+                                    },
+                                    {
+                                        "data": {
+                                            "name": "12x @ 0.00%",
+                                            "channel_id": 3000501,
+                                            "tenure": 12,
+                                            "total_amount": 39200000,
+                                            "down_payment": null,
+                                            "interest_rate": 0,
+                                            "installment_amount": null,
+                                            "monthly_installment": 3266000,
+                                            "bank_id": null,
+                                            "bank_name": null,
+                                            "has_buyer_transaction_fee": true
+                                        },
+                                        "name": null,
+                                        "option_info": "3000501-87",
+                                        "disabled_reason_key": null,
+                                        "disabled_reason": null,
+                                        "disabled_reason_data": null
+                                    },
+                                    {
+                                        "data": {
+                                            "name": "24x @ 0.00%",
+                                            "channel_id": 3000501,
+                                            "tenure": 24,
+                                            "total_amount": 39200000,
+                                            "down_payment": null,
+                                            "interest_rate": 0,
+                                            "installment_amount": null,
+                                            "monthly_installment": 1633000,
+                                            "bank_id": null,
+                                            "bank_name": null,
+                                            "has_buyer_transaction_fee": true
+                                        },
+                                        "name": null,
+                                        "option_info": "3000501-88",
+                                        "disabled_reason_key": null,
+                                        "disabled_reason": null,
+                                        "disabled_reason_data": null
+                                    }
+                                ]
+                            },
+                            {
+                                "bank_id": 565,
+                                "bank_name": "永豐商業銀行",
+                                "bank_logo": "",
+                                "sub_options": [
+                                    {
+                                        "data": {
+                                            "name": "3x @ 0.00%",
+                                            "channel_id": 3000501,
+                                            "tenure": 3,
+                                            "total_amount": 39200000,
+                                            "down_payment": null,
+                                            "interest_rate": 0,
+                                            "installment_amount": null,
+                                            "monthly_installment": 13066000,
+                                            "bank_id": null,
+                                            "bank_name": null,
+                                            "has_buyer_transaction_fee": true
+                                        },
+                                        "name": null,
+                                        "option_info": "3000501-95",
+                                        "disabled_reason_key": null,
+                                        "disabled_reason": null,
+                                        "disabled_reason_data": null
+                                    },
+                                    {
+                                        "data": {
+                                            "name": "6x @ 0.00%",
+                                            "channel_id": 3000501,
+                                            "tenure": 6,
+                                            "total_amount": 39200000,
+                                            "down_payment": null,
+                                            "interest_rate": 0,
+                                            "installment_amount": null,
+                                            "monthly_installment": 6533000,
+                                            "bank_id": null,
+                                            "bank_name": null,
+                                            "has_buyer_transaction_fee": true
+                                        },
+                                        "name": null,
+                                        "option_info": "3000501-96",
+                                        "disabled_reason_key": null,
+                                        "disabled_reason": null,
+                                        "disabled_reason_data": null
+                                    }
+                                ]
+                            },
+                            {
+                                "bank_id": 607,
+                                "bank_name": "第一商業銀行",
+                                "bank_logo": "",
+                                "sub_options": [
+                                    {
+                                        "data": {
+                                            "name": "3x @ 0.00%",
+                                            "channel_id": 3000501,
+                                            "tenure": 3,
+                                            "total_amount": 39200000,
+                                            "down_payment": null,
+                                            "interest_rate": 0,
+                                            "installment_amount": null,
+                                            "monthly_installment": 13066000,
+                                            "bank_id": null,
+                                            "bank_name": null,
+                                            "has_buyer_transaction_fee": true
+                                        },
+                                        "name": null,
+                                        "option_info": "3000501-70",
+                                        "disabled_reason_key": null,
+                                        "disabled_reason": null,
+                                        "disabled_reason_data": null
+                                    },
+                                    {
+                                        "data": {
+                                            "name": "6x @ 0.00%",
+                                            "channel_id": 3000501,
+                                            "tenure": 6,
+                                            "total_amount": 39200000,
+                                            "down_payment": null,
+                                            "interest_rate": 0,
+                                            "installment_amount": null,
+                                            "monthly_installment": 6533000,
+                                            "bank_id": null,
+                                            "bank_name": null,
+                                            "has_buyer_transaction_fee": true
+                                        },
+                                        "name": null,
+                                        "option_info": "3000501-71",
+                                        "disabled_reason_key": null,
+                                        "disabled_reason": null,
+                                        "disabled_reason_data": null
+                                    },
+                                    {
+                                        "data": {
+                                            "name": "12x @ 0.00%",
+                                            "channel_id": 3000501,
+                                            "tenure": 12,
+                                            "total_amount": 39200000,
+                                            "down_payment": null,
+                                            "interest_rate": 0,
+                                            "installment_amount": null,
+                                            "monthly_installment": 3266000,
+                                            "bank_id": null,
+                                            "bank_name": null,
+                                            "has_buyer_transaction_fee": true
+                                        },
+                                        "name": null,
+                                        "option_info": "3000501-72",
+                                        "disabled_reason_key": null,
+                                        "disabled_reason": null,
+                                        "disabled_reason_data": null
+                                    },
+                                    {
+                                        "data": {
+                                            "name": "24x @ 0.00%",
+                                            "channel_id": 3000501,
+                                            "tenure": 24,
+                                            "total_amount": 39200000,
+                                            "down_payment": null,
+                                            "interest_rate": 0,
+                                            "installment_amount": null,
+                                            "monthly_installment": 1633000,
+                                            "bank_id": null,
+                                            "bank_name": null,
+                                            "has_buyer_transaction_fee": true
+                                        },
+                                        "name": null,
+                                        "option_info": "3000501-73",
+                                        "disabled_reason_key": null,
+                                        "disabled_reason": null,
+                                        "disabled_reason_data": null
+                                    }
+                                ]
+                            },
+                            {
+                                "bank_id": 764,
+                                "bank_name": "中國信託商業銀行",
+                                "bank_logo": "",
+                                "sub_options": [
+                                    {
+                                        "data": {
+                                            "name": "3x @ 0.00%",
+                                            "channel_id": 3000501,
+                                            "tenure": 3,
+                                            "total_amount": 39200000,
+                                            "down_payment": null,
+                                            "interest_rate": 0,
+                                            "installment_amount": null,
+                                            "monthly_installment": 13066000,
+                                            "bank_id": null,
+                                            "bank_name": null,
+                                            "has_buyer_transaction_fee": true
+                                        },
+                                        "name": null,
+                                        "option_info": "3000501-39005135",
+                                        "disabled_reason_key": null,
+                                        "disabled_reason": null,
+                                        "disabled_reason_data": null
+                                    },
+                                    {
+                                        "data": {
+                                            "name": "6x @ 0.00%",
+                                            "channel_id": 3000501,
+                                            "tenure": 6,
+                                            "total_amount": 39200000,
+                                            "down_payment": null,
+                                            "interest_rate": 0,
+                                            "installment_amount": null,
+                                            "monthly_installment": 6533000,
+                                            "bank_id": null,
+                                            "bank_name": null,
+                                            "has_buyer_transaction_fee": true
+                                        },
+                                        "name": null,
+                                        "option_info": "3000501-39005136",
+                                        "disabled_reason_key": null,
+                                        "disabled_reason": null,
+                                        "disabled_reason_data": null
+                                    },
+                                    {
+                                        "data": {
+                                            "name": "12x @ 0.00%",
+                                            "channel_id": 3000501,
+                                            "tenure": 12,
+                                            "total_amount": 39200000,
+                                            "down_payment": null,
+                                            "interest_rate": 0,
+                                            "installment_amount": null,
+                                            "monthly_installment": 3266000,
+                                            "bank_id": null,
+                                            "bank_name": null,
+                                            "has_buyer_transaction_fee": true
+                                        },
+                                        "name": null,
+                                        "option_info": "3000501-39005137",
+                                        "disabled_reason_key": null,
+                                        "disabled_reason": null,
+                                        "disabled_reason_data": null
+                                    },
+                                    {
+                                        "data": {
+                                            "name": "24x @ 0.00%",
+                                            "channel_id": 3000501,
+                                            "tenure": 24,
+                                            "total_amount": 39200000,
+                                            "down_payment": null,
+                                            "interest_rate": 0,
+                                            "installment_amount": null,
+                                            "monthly_installment": 1633000,
+                                            "bank_id": null,
+                                            "bank_name": null,
+                                            "has_buyer_transaction_fee": true
+                                        },
+                                        "name": null,
+                                        "option_info": "3000501-39005138",
+                                        "disabled_reason_key": null,
+                                        "disabled_reason": null,
+                                        "disabled_reason_data": null
+                                    }
+                                ]
+                            },
+                            {
+                                "bank_id": 948,
+                                "bank_name": "上海商業儲蓄銀行",
+                                "bank_logo": "",
+                                "sub_options": [
+                                    {
+                                        "data": {
+                                            "name": "3x @ 0.00%",
+                                            "channel_id": 3000501,
+                                            "tenure": 3,
+                                            "total_amount": 39200000,
+                                            "down_payment": null,
+                                            "interest_rate": 0,
+                                            "installment_amount": null,
+                                            "monthly_installment": 13066000,
+                                            "bank_id": null,
+                                            "bank_name": null,
+                                            "has_buyer_transaction_fee": true
+                                        },
+                                        "name": null,
+                                        "option_info": "3000501-36",
+                                        "disabled_reason_key": null,
+                                        "disabled_reason": null,
+                                        "disabled_reason_data": null
+                                    },
+                                    {
+                                        "data": {
+                                            "name": "6x @ 0.00%",
+                                            "channel_id": 3000501,
+                                            "tenure": 6,
+                                            "total_amount": 39200000,
+                                            "down_payment": null,
+                                            "interest_rate": 0,
+                                            "installment_amount": null,
+                                            "monthly_installment": 6533000,
+                                            "bank_id": null,
+                                            "bank_name": null,
+                                            "has_buyer_transaction_fee": true
+                                        },
+                                        "name": null,
+                                        "option_info": "3000501-37",
+                                        "disabled_reason_key": null,
+                                        "disabled_reason": null,
+                                        "disabled_reason_data": null
+                                    },
+                                    {
+                                        "data": {
+                                            "name": "12x @ 0.00%",
+                                            "channel_id": 3000501,
+                                            "tenure": 12,
+                                            "total_amount": 39200000,
+                                            "down_payment": null,
+                                            "interest_rate": 0,
+                                            "installment_amount": null,
+                                            "monthly_installment": 3266000,
+                                            "bank_id": null,
+                                            "bank_name": null,
+                                            "has_buyer_transaction_fee": true
+                                        },
+                                        "name": null,
+                                        "option_info": "3000501-38",
+                                        "disabled_reason_key": null,
+                                        "disabled_reason": null,
+                                        "disabled_reason_data": null
+                                    },
+                                    {
+                                        "data": {
+                                            "name": "24x @ 0.00%",
+                                            "channel_id": 3000501,
+                                            "tenure": 24,
+                                            "total_amount": 39200000,
+                                            "down_payment": null,
+                                            "interest_rate": 0,
+                                            "installment_amount": null,
+                                            "monthly_installment": 1633000,
+                                            "bank_id": null,
+                                            "bank_name": null,
+                                            "has_buyer_transaction_fee": true
+                                        },
+                                        "name": null,
+                                        "option_info": "3000501-39",
+                                        "disabled_reason_key": null,
+                                        "disabled_reason": null,
+                                        "disabled_reason_data": null
+                                    }
+                                ]
+                            },
+                            {
+                                "bank_id": 1049,
+                                "bank_name": "國泰世華商業銀行",
+                                "bank_logo": "",
+                                "sub_options": [
+                                    {
+                                        "data": {
+                                            "name": "3x @ 0.00%",
+                                            "channel_id": 3000501,
+                                            "tenure": 3,
+                                            "total_amount": 39200000,
+                                            "down_payment": null,
+                                            "interest_rate": 0,
+                                            "installment_amount": null,
+                                            "monthly_installment": 13066000,
+                                            "bank_id": null,
+                                            "bank_name": null,
+                                            "has_buyer_transaction_fee": true
+                                        },
+                                        "name": null,
+                                        "option_info": "3000501-31",
+                                        "disabled_reason_key": null,
+                                        "disabled_reason": null,
+                                        "disabled_reason_data": null
+                                    },
+                                    {
+                                        "data": {
+                                            "name": "6x @ 0.00%",
+                                            "channel_id": 3000501,
+                                            "tenure": 6,
+                                            "total_amount": 39200000,
+                                            "down_payment": null,
+                                            "interest_rate": 0,
+                                            "installment_amount": null,
+                                            "monthly_installment": 6533000,
+                                            "bank_id": null,
+                                            "bank_name": null,
+                                            "has_buyer_transaction_fee": true
+                                        },
+                                        "name": null,
+                                        "option_info": "3000501-32",
+                                        "disabled_reason_key": null,
+                                        "disabled_reason": null,
+                                        "disabled_reason_data": null
+                                    },
+                                    {
+                                        "data": {
+                                            "name": "24x @ 0.00%",
+                                            "channel_id": 3000501,
+                                            "tenure": 24,
+                                            "total_amount": 39200000,
+                                            "down_payment": null,
+                                            "interest_rate": 0,
+                                            "installment_amount": null,
+                                            "monthly_installment": 1633000,
+                                            "bank_id": null,
+                                            "bank_name": null,
+                                            "has_buyer_transaction_fee": true
+                                        },
+                                        "name": null,
+                                        "option_info": "3000501-34",
+                                        "disabled_reason_key": null,
+                                        "disabled_reason": null,
+                                        "disabled_reason_data": null
+                                    }
+                                ]
+                            },
+                            {
+                                "bank_id": 1636,
+                                "bank_name": "台新國際商業銀行",
+                                "bank_logo": "",
+                                "sub_options": [
+                                    {
+                                        "data": {
+                                            "name": "3x @ 0.00%",
+                                            "channel_id": 3000501,
+                                            "tenure": 3,
+                                            "total_amount": 39200000,
+                                            "down_payment": null,
+                                            "interest_rate": 0,
+                                            "installment_amount": null,
+                                            "monthly_installment": 13066000,
+                                            "bank_id": null,
+                                            "bank_name": null,
+                                            "has_buyer_transaction_fee": true
+                                        },
+                                        "name": null,
+                                        "option_info": "3000501-26",
+                                        "disabled_reason_key": null,
+                                        "disabled_reason": null,
+                                        "disabled_reason_data": null
+                                    },
+                                    {
+                                        "data": {
+                                            "name": "6x @ 0.00%",
+                                            "channel_id": 3000501,
+                                            "tenure": 6,
+                                            "total_amount": 39200000,
+                                            "down_payment": null,
+                                            "interest_rate": 0,
+                                            "installment_amount": null,
+                                            "monthly_installment": 6533000,
+                                            "bank_id": null,
+                                            "bank_name": null,
+                                            "has_buyer_transaction_fee": true
+                                        },
+                                        "name": null,
+                                        "option_info": "3000501-27",
+                                        "disabled_reason_key": null,
+                                        "disabled_reason": null,
+                                        "disabled_reason_data": null
+                                    },
+                                    {
+                                        "data": {
+                                            "name": "12x @ 0.00%",
+                                            "channel_id": 3000501,
+                                            "tenure": 12,
+                                            "total_amount": 39200000,
+                                            "down_payment": null,
+                                            "interest_rate": 0,
+                                            "installment_amount": null,
+                                            "monthly_installment": 3266000,
+                                            "bank_id": null,
+                                            "bank_name": null,
+                                            "has_buyer_transaction_fee": true
+                                        },
+                                        "name": null,
+                                        "option_info": "3000501-28",
+                                        "disabled_reason_key": null,
+                                        "disabled_reason": null,
+                                        "disabled_reason_data": null
+                                    },
+                                    {
+                                        "data": {
+                                            "name": "24x @ 0.00%",
+                                            "channel_id": 3000501,
+                                            "tenure": 24,
+                                            "total_amount": 39200000,
+                                            "down_payment": null,
+                                            "interest_rate": 0,
+                                            "installment_amount": null,
+                                            "monthly_installment": 1633000,
+                                            "bank_id": null,
+                                            "bank_name": null,
+                                            "has_buyer_transaction_fee": true
+                                        },
+                                        "name": null,
+                                        "option_info": "3000501-29",
+                                        "disabled_reason_key": null,
+                                        "disabled_reason": null,
+                                        "disabled_reason_data": null
+                                    }
+                                ]
+                            },
+                            {
+                                "bank_id": 1816,
+                                "bank_name": "聯邦商業銀行",
+                                "bank_logo": "",
+                                "sub_options": [
+                                    {
+                                        "data": {
+                                            "name": "3x @ 0.00%",
+                                            "channel_id": 3000501,
+                                            "tenure": 3,
+                                            "total_amount": 39200000,
+                                            "down_payment": null,
+                                            "interest_rate": 0,
+                                            "installment_amount": null,
+                                            "monthly_installment": 13066000,
+                                            "bank_id": null,
+                                            "bank_name": null,
+                                            "has_buyer_transaction_fee": true
+                                        },
+                                        "name": null,
+                                        "option_info": "3000501-65",
+                                        "disabled_reason_key": null,
+                                        "disabled_reason": null,
+                                        "disabled_reason_data": null
+                                    },
+                                    {
+                                        "data": {
+                                            "name": "6x @ 0.00%",
+                                            "channel_id": 3000501,
+                                            "tenure": 6,
+                                            "total_amount": 39200000,
+                                            "down_payment": null,
+                                            "interest_rate": 0,
+                                            "installment_amount": null,
+                                            "monthly_installment": 6533000,
+                                            "bank_id": null,
+                                            "bank_name": null,
+                                            "has_buyer_transaction_fee": true
+                                        },
+                                        "name": null,
+                                        "option_info": "3000501-66",
+                                        "disabled_reason_key": null,
+                                        "disabled_reason": null,
+                                        "disabled_reason_data": null
+                                    },
+                                    {
+                                        "data": {
+                                            "name": "12x @ 0.00%",
+                                            "channel_id": 3000501,
+                                            "tenure": 12,
+                                            "total_amount": 39200000,
+                                            "down_payment": null,
+                                            "interest_rate": 0,
+                                            "installment_amount": null,
+                                            "monthly_installment": 3266000,
+                                            "bank_id": null,
+                                            "bank_name": null,
+                                            "has_buyer_transaction_fee": true
+                                        },
+                                        "name": null,
+                                        "option_info": "3000501-67",
+                                        "disabled_reason_key": null,
+                                        "disabled_reason": null,
+                                        "disabled_reason_data": null
+                                    },
+                                    {
+                                        "data": {
+                                            "name": "24x @ 0.00%",
+                                            "channel_id": 3000501,
+                                            "tenure": 24,
+                                            "total_amount": 39200000,
+                                            "down_payment": null,
+                                            "interest_rate": 0,
+                                            "installment_amount": null,
+                                            "monthly_installment": 1633000,
+                                            "bank_id": null,
+                                            "bank_name": null,
+                                            "has_buyer_transaction_fee": true
+                                        },
+                                        "name": null,
+                                        "option_info": "3000501-68",
+                                        "disabled_reason_key": null,
+                                        "disabled_reason": null,
+                                        "disabled_reason_data": null
+                                    }
+                                ]
+                            },
+                            {
+                                "bank_id": 3532,
+                                "bank_name": "台中商業銀行",
+                                "bank_logo": "",
+                                "sub_options": [
+                                    {
+                                        "data": {
+                                            "name": "3x @ 0.00%",
+                                            "channel_id": 3000501,
+                                            "tenure": 3,
+                                            "total_amount": 39200000,
+                                            "down_payment": null,
+                                            "interest_rate": 0,
+                                            "installment_amount": null,
+                                            "monthly_installment": 13066000,
+                                            "bank_id": null,
+                                            "bank_name": null,
+                                            "has_buyer_transaction_fee": true
+                                        },
+                                        "name": null,
+                                        "option_info": "3000501-39005130",
+                                        "disabled_reason_key": null,
+                                        "disabled_reason": null,
+                                        "disabled_reason_data": null
+                                    },
+                                    {
+                                        "data": {
+                                            "name": "6x @ 0.00%",
+                                            "channel_id": 3000501,
+                                            "tenure": 6,
+                                            "total_amount": 39200000,
+                                            "down_payment": null,
+                                            "interest_rate": 0,
+                                            "installment_amount": null,
+                                            "monthly_installment": 6533000,
+                                            "bank_id": null,
+                                            "bank_name": null,
+                                            "has_buyer_transaction_fee": true
+                                        },
+                                        "name": null,
+                                        "option_info": "3000501-39005131",
+                                        "disabled_reason_key": null,
+                                        "disabled_reason": null,
+                                        "disabled_reason_data": null
+                                    },
+                                    {
+                                        "data": {
+                                            "name": "12x @ 0.00%",
+                                            "channel_id": 3000501,
+                                            "tenure": 12,
+                                            "total_amount": 39200000,
+                                            "down_payment": null,
+                                            "interest_rate": 0,
+                                            "installment_amount": null,
+                                            "monthly_installment": 3266000,
+                                            "bank_id": null,
+                                            "bank_name": null,
+                                            "has_buyer_transaction_fee": true
+                                        },
+                                        "name": null,
+                                        "option_info": "3000501-39005132",
+                                        "disabled_reason_key": null,
+                                        "disabled_reason": null,
+                                        "disabled_reason_data": null
+                                    },
+                                    {
+                                        "data": {
+                                            "name": "24x @ 0.00%",
+                                            "channel_id": 3000501,
+                                            "tenure": 24,
+                                            "total_amount": 39200000,
+                                            "down_payment": null,
+                                            "interest_rate": 0,
+                                            "installment_amount": null,
+                                            "monthly_installment": 1633000,
+                                            "bank_id": null,
+                                            "bank_name": null,
+                                            "has_buyer_transaction_fee": true
+                                        },
+                                        "name": null,
+                                        "option_info": "3000501-39005133",
+                                        "disabled_reason_key": null,
+                                        "disabled_reason": null,
+                                        "disabled_reason_data": null
+                                    }
+                                ]
+                            },
+                            {
+                                "bank_id": 3689,
+                                "bank_name": "陽信商業銀行",
+                                "bank_logo": "",
+                                "sub_options": [
+                                    {
+                                        "data": {
+                                            "name": "3x @ 0.00%",
+                                            "channel_id": 3000501,
+                                            "tenure": 3,
+                                            "total_amount": 39200000,
+                                            "down_payment": null,
+                                            "interest_rate": 0,
+                                            "installment_amount": null,
+                                            "monthly_installment": 13066000,
+                                            "bank_id": null,
+                                            "bank_name": null,
+                                            "has_buyer_transaction_fee": true
+                                        },
+                                        "name": null,
+                                        "option_info": "3000501-39005160",
+                                        "disabled_reason_key": null,
+                                        "disabled_reason": null,
+                                        "disabled_reason_data": null
+                                    },
+                                    {
+                                        "data": {
+                                            "name": "6x @ 0.00%",
+                                            "channel_id": 3000501,
+                                            "tenure": 6,
+                                            "total_amount": 39200000,
+                                            "down_payment": null,
+                                            "interest_rate": 0,
+                                            "installment_amount": null,
+                                            "monthly_installment": 6533000,
+                                            "bank_id": null,
+                                            "bank_name": null,
+                                            "has_buyer_transaction_fee": true
+                                        },
+                                        "name": null,
+                                        "option_info": "3000501-39005161",
+                                        "disabled_reason_key": null,
+                                        "disabled_reason": null,
+                                        "disabled_reason_data": null
+                                    }
+                                ]
+                            },
+                            {
+                                "bank_id": 3931,
+                                "bank_name": "渣打國際商業銀行",
+                                "bank_logo": "",
+                                "sub_options": [
+                                    {
+                                        "data": {
+                                            "name": "3x @ 0.00%",
+                                            "channel_id": 3000501,
+                                            "tenure": 3,
+                                            "total_amount": 39200000,
+                                            "down_payment": null,
+                                            "interest_rate": 0,
+                                            "installment_amount": null,
+                                            "monthly_installment": 13066000,
+                                            "bank_id": null,
+                                            "bank_name": null,
+                                            "has_buyer_transaction_fee": true
+                                        },
+                                        "name": null,
+                                        "option_info": "3000501-105",
+                                        "disabled_reason_key": null,
+                                        "disabled_reason": null,
+                                        "disabled_reason_data": null
+                                    },
+                                    {
+                                        "data": {
+                                            "name": "6x @ 0.00%",
+                                            "channel_id": 3000501,
+                                            "tenure": 6,
+                                            "total_amount": 39200000,
+                                            "down_payment": null,
+                                            "interest_rate": 0,
+                                            "installment_amount": null,
+                                            "monthly_installment": 6533000,
+                                            "bank_id": null,
+                                            "bank_name": null,
+                                            "has_buyer_transaction_fee": true
+                                        },
+                                        "name": null,
+                                        "option_info": "3000501-106",
+                                        "disabled_reason_key": null,
+                                        "disabled_reason": null,
+                                        "disabled_reason_data": null
+                                    },
+                                    {
+                                        "data": {
+                                            "name": "12x @ 0.00%",
+                                            "channel_id": 3000501,
+                                            "tenure": 12,
+                                            "total_amount": 39200000,
+                                            "down_payment": null,
+                                            "interest_rate": 0,
+                                            "installment_amount": null,
+                                            "monthly_installment": 3266000,
+                                            "bank_id": null,
+                                            "bank_name": null,
+                                            "has_buyer_transaction_fee": true
+                                        },
+                                        "name": null,
+                                        "option_info": "3000501-107",
+                                        "disabled_reason_key": null,
+                                        "disabled_reason": null,
+                                        "disabled_reason_data": null
+                                    },
+                                    {
+                                        "data": {
+                                            "name": "24x @ 0.00%",
+                                            "channel_id": 3000501,
+                                            "tenure": 24,
+                                            "total_amount": 39200000,
+                                            "down_payment": null,
+                                            "interest_rate": 0,
+                                            "installment_amount": null,
+                                            "monthly_installment": 1633000,
+                                            "bank_id": null,
+                                            "bank_name": null,
+                                            "has_buyer_transaction_fee": true
+                                        },
+                                        "name": null,
+                                        "option_info": "3000501-108",
+                                        "disabled_reason_key": null,
+                                        "disabled_reason": null,
+                                        "disabled_reason_data": null
+                                    }
+                                ]
+                            },
+                            {
+                                "bank_id": 4187,
+                                "bank_name": "安泰商業銀行",
+                                "bank_logo": "",
+                                "sub_options": [
+                                    {
+                                        "data": {
+                                            "name": "3x @ 0.00%",
+                                            "channel_id": 3000501,
+                                            "tenure": 3,
+                                            "total_amount": 39200000,
+                                            "down_payment": null,
+                                            "interest_rate": 0,
+                                            "installment_amount": null,
+                                            "monthly_installment": 13066000,
+                                            "bank_id": null,
+                                            "bank_name": null,
+                                            "has_buyer_transaction_fee": true
+                                        },
+                                        "name": null,
+                                        "option_info": "3000501-39005155",
+                                        "disabled_reason_key": null,
+                                        "disabled_reason": null,
+                                        "disabled_reason_data": null
+                                    },
+                                    {
+                                        "data": {
+                                            "name": "6x @ 0.00%",
+                                            "channel_id": 3000501,
+                                            "tenure": 6,
+                                            "total_amount": 39200000,
+                                            "down_payment": null,
+                                            "interest_rate": 0,
+                                            "installment_amount": null,
+                                            "monthly_installment": 6533000,
+                                            "bank_id": null,
+                                            "bank_name": null,
+                                            "has_buyer_transaction_fee": true
+                                        },
+                                        "name": null,
+                                        "option_info": "3000501-39005156",
+                                        "disabled_reason_key": null,
+                                        "disabled_reason": null,
+                                        "disabled_reason_data": null
+                                    },
+                                    {
+                                        "data": {
+                                            "name": "12x @ 0.00%",
+                                            "channel_id": 3000501,
+                                            "tenure": 12,
+                                            "total_amount": 39200000,
+                                            "down_payment": null,
+                                            "interest_rate": 0,
+                                            "installment_amount": null,
+                                            "monthly_installment": 3266000,
+                                            "bank_id": null,
+                                            "bank_name": null,
+                                            "has_buyer_transaction_fee": true
+                                        },
+                                        "name": null,
+                                        "option_info": "3000501-39005157",
+                                        "disabled_reason_key": null,
+                                        "disabled_reason": null,
+                                        "disabled_reason_data": null
+                                    },
+                                    {
+                                        "data": {
+                                            "name": "24x @ 0.00%",
+                                            "channel_id": 3000501,
+                                            "tenure": 24,
+                                            "total_amount": 39200000,
+                                            "down_payment": null,
+                                            "interest_rate": 0,
+                                            "installment_amount": null,
+                                            "monthly_installment": 1633000,
+                                            "bank_id": null,
+                                            "bank_name": null,
+                                            "has_buyer_transaction_fee": true
+                                        },
+                                        "name": null,
+                                        "option_info": "3000501-39005158",
+                                        "disabled_reason_key": null,
+                                        "disabled_reason": null,
+                                        "disabled_reason_data": null
+                                    }
+                                ]
+                            },
+                            {
+                                "bank_id": 4203,
+                                "bank_name": "華南商業銀行",
+                                "bank_logo": "",
+                                "sub_options": [
+                                    {
+                                        "data": {
+                                            "name": "3x @ 0.00%",
+                                            "channel_id": 3000501,
+                                            "tenure": 3,
+                                            "total_amount": 39200000,
+                                            "down_payment": null,
+                                            "interest_rate": 0,
+                                            "installment_amount": null,
+                                            "monthly_installment": 13066000,
+                                            "bank_id": null,
+                                            "bank_name": null,
+                                            "has_buyer_transaction_fee": true
+                                        },
+                                        "name": null,
+                                        "option_info": "3000501-75",
+                                        "disabled_reason_key": null,
+                                        "disabled_reason": null,
+                                        "disabled_reason_data": null
+                                    },
+                                    {
+                                        "data": {
+                                            "name": "6x @ 0.00%",
+                                            "channel_id": 3000501,
+                                            "tenure": 6,
+                                            "total_amount": 39200000,
+                                            "down_payment": null,
+                                            "interest_rate": 0,
+                                            "installment_amount": null,
+                                            "monthly_installment": 6533000,
+                                            "bank_id": null,
+                                            "bank_name": null,
+                                            "has_buyer_transaction_fee": true
+                                        },
+                                        "name": null,
+                                        "option_info": "3000501-76",
+                                        "disabled_reason_key": null,
+                                        "disabled_reason": null,
+                                        "disabled_reason_data": null
+                                    },
+                                    {
+                                        "data": {
+                                            "name": "12x @ 0.00%",
+                                            "channel_id": 3000501,
+                                            "tenure": 12,
+                                            "total_amount": 39200000,
+                                            "down_payment": null,
+                                            "interest_rate": 0,
+                                            "installment_amount": null,
+                                            "monthly_installment": 3266000,
+                                            "bank_id": null,
+                                            "bank_name": null,
+                                            "has_buyer_transaction_fee": true
+                                        },
+                                        "name": null,
+                                        "option_info": "3000501-77",
+                                        "disabled_reason_key": null,
+                                        "disabled_reason": null,
+                                        "disabled_reason_data": null
+                                    },
+                                    {
+                                        "data": {
+                                            "name": "24x @ 0.00%",
+                                            "channel_id": 3000501,
+                                            "tenure": 24,
+                                            "total_amount": 39200000,
+                                            "down_payment": null,
+                                            "interest_rate": 0,
+                                            "installment_amount": null,
+                                            "monthly_installment": 1633000,
+                                            "bank_id": null,
+                                            "bank_name": null,
+                                            "has_buyer_transaction_fee": true
+                                        },
+                                        "name": null,
+                                        "option_info": "3000501-78",
+                                        "disabled_reason_key": null,
+                                        "disabled_reason": null,
+                                        "disabled_reason_data": null
+                                    }
+                                ]
+                            },
+                            {
+                                "bank_id": 4243,
+                                "bank_name": "台北富邦商業銀行",
+                                "bank_logo": "",
+                                "sub_options": [
+                                    {
+                                        "data": {
+                                            "name": "3x @ 0.00%",
+                                            "channel_id": 3000501,
+                                            "tenure": 3,
+                                            "total_amount": 39200000,
+                                            "down_payment": null,
+                                            "interest_rate": 0,
+                                            "installment_amount": null,
+                                            "monthly_installment": 13066000,
+                                            "bank_id": null,
+                                            "bank_name": null,
+                                            "has_buyer_transaction_fee": true
+                                        },
+                                        "name": null,
+                                        "option_info": "3000501-41",
+                                        "disabled_reason_key": null,
+                                        "disabled_reason": null,
+                                        "disabled_reason_data": null
+                                    },
+                                    {
+                                        "data": {
+                                            "name": "6x @ 0.00%",
+                                            "channel_id": 3000501,
+                                            "tenure": 6,
+                                            "total_amount": 39200000,
+                                            "down_payment": null,
+                                            "interest_rate": 0,
+                                            "installment_amount": null,
+                                            "monthly_installment": 6533000,
+                                            "bank_id": null,
+                                            "bank_name": null,
+                                            "has_buyer_transaction_fee": true
+                                        },
+                                        "name": null,
+                                        "option_info": "3000501-42",
+                                        "disabled_reason_key": null,
+                                        "disabled_reason": null,
+                                        "disabled_reason_data": null
+                                    },
+                                    {
+                                        "data": {
+                                            "name": "12x @ 0.00%",
+                                            "channel_id": 3000501,
+                                            "tenure": 12,
+                                            "total_amount": 39200000,
+                                            "down_payment": null,
+                                            "interest_rate": 0,
+                                            "installment_amount": null,
+                                            "monthly_installment": 3266000,
+                                            "bank_id": null,
+                                            "bank_name": null,
+                                            "has_buyer_transaction_fee": true
+                                        },
+                                        "name": null,
+                                        "option_info": "3000501-43",
+                                        "disabled_reason_key": null,
+                                        "disabled_reason": null,
+                                        "disabled_reason_data": null
+                                    },
+                                    {
+                                        "data": {
+                                            "name": "24x @ 0.00%",
+                                            "channel_id": 3000501,
+                                            "tenure": 24,
+                                            "total_amount": 39200000,
+                                            "down_payment": null,
+                                            "interest_rate": 0,
+                                            "installment_amount": null,
+                                            "monthly_installment": 1633000,
+                                            "bank_id": null,
+                                            "bank_name": null,
+                                            "has_buyer_transaction_fee": true
+                                        },
+                                        "name": null,
+                                        "option_info": "3000501-44",
+                                        "disabled_reason_key": null,
+                                        "disabled_reason": null,
+                                        "disabled_reason_data": null
+                                    }
+                                ]
+                            },
+                            {
+                                "bank_id": 4629,
+                                "bank_name": "彰化商業銀行",
+                                "bank_logo": "",
+                                "sub_options": [
+                                    {
+                                        "data": {
+                                            "name": "3x @ 0.00%",
+                                            "channel_id": 3000501,
+                                            "tenure": 3,
+                                            "total_amount": 39200000,
+                                            "down_payment": null,
+                                            "interest_rate": 0,
+                                            "installment_amount": null,
+                                            "monthly_installment": 13066000,
+                                            "bank_id": null,
+                                            "bank_name": null,
+                                            "has_buyer_transaction_fee": true
+                                        },
+                                        "name": null,
+                                        "option_info": "3000501-125",
+                                        "disabled_reason_key": null,
+                                        "disabled_reason": null,
+                                        "disabled_reason_data": null
+                                    },
+                                    {
+                                        "data": {
+                                            "name": "6x @ 0.00%",
+                                            "channel_id": 3000501,
+                                            "tenure": 6,
+                                            "total_amount": 39200000,
+                                            "down_payment": null,
+                                            "interest_rate": 0,
+                                            "installment_amount": null,
+                                            "monthly_installment": 6533000,
+                                            "bank_id": null,
+                                            "bank_name": null,
+                                            "has_buyer_transaction_fee": true
+                                        },
+                                        "name": null,
+                                        "option_info": "3000501-126",
+                                        "disabled_reason_key": null,
+                                        "disabled_reason": null,
+                                        "disabled_reason_data": null
+                                    },
+                                    {
+                                        "data": {
+                                            "name": "12x @ 0.00%",
+                                            "channel_id": 3000501,
+                                            "tenure": 12,
+                                            "total_amount": 39200000,
+                                            "down_payment": null,
+                                            "interest_rate": 0,
+                                            "installment_amount": null,
+                                            "monthly_installment": 3266000,
+                                            "bank_id": null,
+                                            "bank_name": null,
+                                            "has_buyer_transaction_fee": true
+                                        },
+                                        "name": null,
+                                        "option_info": "3000501-127",
+                                        "disabled_reason_key": null,
+                                        "disabled_reason": null,
+                                        "disabled_reason_data": null
+                                    },
+                                    {
+                                        "data": {
+                                            "name": "24x @ 0.00%",
+                                            "channel_id": 3000501,
+                                            "tenure": 24,
+                                            "total_amount": 39200000,
+                                            "down_payment": null,
+                                            "interest_rate": 0,
+                                            "installment_amount": null,
+                                            "monthly_installment": 1633000,
+                                            "bank_id": null,
+                                            "bank_name": null,
+                                            "has_buyer_transaction_fee": true
+                                        },
+                                        "name": null,
+                                        "option_info": "3000501-128",
+                                        "disabled_reason_key": null,
+                                        "disabled_reason": null,
+                                        "disabled_reason_data": null
+                                    }
+                                ]
+                            },
+                            {
+                                "bank_id": 5791,
+                                "bank_name": "臺灣新光商業銀行",
+                                "bank_logo": "",
+                                "sub_options": [
+                                    {
+                                        "data": {
+                                            "name": "3x @ 0.00%",
+                                            "channel_id": 3000501,
+                                            "tenure": 3,
+                                            "total_amount": 39200000,
+                                            "down_payment": null,
+                                            "interest_rate": 0,
+                                            "installment_amount": null,
+                                            "monthly_installment": 13066000,
+                                            "bank_id": null,
+                                            "bank_name": null,
+                                            "has_buyer_transaction_fee": true
+                                        },
+                                        "name": null,
+                                        "option_info": "3000501-56",
+                                        "disabled_reason_key": null,
+                                        "disabled_reason": null,
+                                        "disabled_reason_data": null
+                                    },
+                                    {
+                                        "data": {
+                                            "name": "6x @ 0.00%",
+                                            "channel_id": 3000501,
+                                            "tenure": 6,
+                                            "total_amount": 39200000,
+                                            "down_payment": null,
+                                            "interest_rate": 0,
+                                            "installment_amount": null,
+                                            "monthly_installment": 6533000,
+                                            "bank_id": null,
+                                            "bank_name": null,
+                                            "has_buyer_transaction_fee": true
+                                        },
+                                        "name": null,
+                                        "option_info": "3000501-57",
+                                        "disabled_reason_key": null,
+                                        "disabled_reason": null,
+                                        "disabled_reason_data": null
+                                    },
+                                    {
+                                        "data": {
+                                            "name": "12x @ 0.00%",
+                                            "channel_id": 3000501,
+                                            "tenure": 12,
+                                            "total_amount": 39200000,
+                                            "down_payment": null,
+                                            "interest_rate": 0,
+                                            "installment_amount": null,
+                                            "monthly_installment": 3266000,
+                                            "bank_id": null,
+                                            "bank_name": null,
+                                            "has_buyer_transaction_fee": true
+                                        },
+                                        "name": null,
+                                        "option_info": "3000501-58",
+                                        "disabled_reason_key": null,
+                                        "disabled_reason": null,
+                                        "disabled_reason_data": null
+                                    },
+                                    {
+                                        "data": {
+                                            "name": "24x @ 0.00%",
+                                            "channel_id": 3000501,
+                                            "tenure": 24,
+                                            "total_amount": 39200000,
+                                            "down_payment": null,
+                                            "interest_rate": 0,
+                                            "installment_amount": null,
+                                            "monthly_installment": 1633000,
+                                            "bank_id": null,
+                                            "bank_name": null,
+                                            "has_buyer_transaction_fee": true
+                                        },
+                                        "name": null,
+                                        "option_info": "3000501-39005001",
+                                        "disabled_reason_key": null,
+                                        "disabled_reason": null,
+                                        "disabled_reason_data": null
+                                    }
+                                ]
+                            },
+                            {
+                                "bank_id": 6016,
+                                "bank_name": "花旗（台灣）商業銀行",
+                                "bank_logo": "",
+                                "sub_options": [
+                                    {
+                                        "data": {
+                                            "name": "3x @ 0.00%",
+                                            "channel_id": 3000501,
+                                            "tenure": 3,
+                                            "total_amount": 39200000,
+                                            "down_payment": null,
+                                            "interest_rate": 0,
+                                            "installment_amount": null,
+                                            "monthly_installment": 13066000,
+                                            "bank_id": null,
+                                            "bank_name": null,
+                                            "has_buyer_transaction_fee": true
+                                        },
+                                        "name": null,
+                                        "option_info": "3000501-90",
+                                        "disabled_reason_key": null,
+                                        "disabled_reason": null,
+                                        "disabled_reason_data": null
+                                    },
+                                    {
+                                        "data": {
+                                            "name": "6x @ 0.00%",
+                                            "channel_id": 3000501,
+                                            "tenure": 6,
+                                            "total_amount": 39200000,
+                                            "down_payment": null,
+                                            "interest_rate": 0,
+                                            "installment_amount": null,
+                                            "monthly_installment": 6533000,
+                                            "bank_id": null,
+                                            "bank_name": null,
+                                            "has_buyer_transaction_fee": true
+                                        },
+                                        "name": null,
+                                        "option_info": "3000501-91",
+                                        "disabled_reason_key": null,
+                                        "disabled_reason": null,
+                                        "disabled_reason_data": null
+                                    },
+                                    {
+                                        "data": {
+                                            "name": "12x @ 0.00%",
+                                            "channel_id": 3000501,
+                                            "tenure": 12,
+                                            "total_amount": 39200000,
+                                            "down_payment": null,
+                                            "interest_rate": 0,
+                                            "installment_amount": null,
+                                            "monthly_installment": 3266000,
+                                            "bank_id": null,
+                                            "bank_name": null,
+                                            "has_buyer_transaction_fee": true
+                                        },
+                                        "name": null,
+                                        "option_info": "3000501-92",
+                                        "disabled_reason_key": null,
+                                        "disabled_reason": null,
+                                        "disabled_reason_data": null
+                                    },
+                                    {
+                                        "data": {
+                                            "name": "24x @ 0.00%",
+                                            "channel_id": 3000501,
+                                            "tenure": 24,
+                                            "total_amount": 39200000,
+                                            "down_payment": null,
+                                            "interest_rate": 0,
+                                            "installment_amount": null,
+                                            "monthly_installment": 1633000,
+                                            "bank_id": null,
+                                            "bank_name": null,
+                                            "has_buyer_transaction_fee": true
+                                        },
+                                        "name": null,
+                                        "option_info": "3000501-93",
+                                        "disabled_reason_key": null,
+                                        "disabled_reason": null,
+                                        "disabled_reason_data": null
+                                    }
+                                ]
+                            },
+                            {
+                                "bank_id": 10204,
+                                "bank_name": "凱基商業銀行",
+                                "bank_logo": "",
+                                "sub_options": [
+                                    {
+                                        "data": {
+                                            "name": "3x @ 0.00%",
+                                            "channel_id": 3000501,
+                                            "tenure": 3,
+                                            "total_amount": 39200000,
+                                            "down_payment": null,
+                                            "interest_rate": 0,
+                                            "installment_amount": null,
+                                            "monthly_installment": 13066000,
+                                            "bank_id": null,
+                                            "bank_name": null,
+                                            "has_buyer_transaction_fee": true
+                                        },
+                                        "name": null,
+                                        "option_info": "3000501-46",
+                                        "disabled_reason_key": null,
+                                        "disabled_reason": null,
+                                        "disabled_reason_data": null
+                                    },
+                                    {
+                                        "data": {
+                                            "name": "6x @ 0.00%",
+                                            "channel_id": 3000501,
+                                            "tenure": 6,
+                                            "total_amount": 39200000,
+                                            "down_payment": null,
+                                            "interest_rate": 0,
+                                            "installment_amount": null,
+                                            "monthly_installment": 6533000,
+                                            "bank_id": null,
+                                            "bank_name": null,
+                                            "has_buyer_transaction_fee": true
+                                        },
+                                        "name": null,
+                                        "option_info": "3000501-47",
+                                        "disabled_reason_key": null,
+                                        "disabled_reason": null,
+                                        "disabled_reason_data": null
+                                    },
+                                    {
+                                        "data": {
+                                            "name": "12x @ 0.00%",
+                                            "channel_id": 3000501,
+                                            "tenure": 12,
+                                            "total_amount": 39200000,
+                                            "down_payment": null,
+                                            "interest_rate": 0,
+                                            "installment_amount": null,
+                                            "monthly_installment": 3266000,
+                                            "bank_id": null,
+                                            "bank_name": null,
+                                            "has_buyer_transaction_fee": true
+                                        },
+                                        "name": null,
+                                        "option_info": "3000501-48",
+                                        "disabled_reason_key": null,
+                                        "disabled_reason": null,
+                                        "disabled_reason_data": null
+                                    },
+                                    {
+                                        "data": {
+                                            "name": "24x @ 0.00%",
+                                            "channel_id": 3000501,
+                                            "tenure": 24,
+                                            "total_amount": 39200000,
+                                            "down_payment": null,
+                                            "interest_rate": 0,
+                                            "installment_amount": null,
+                                            "monthly_installment": 1633000,
+                                            "bank_id": null,
+                                            "bank_name": null,
+                                            "has_buyer_transaction_fee": true
+                                        },
+                                        "name": null,
+                                        "option_info": "3000501-49",
+                                        "disabled_reason_key": null,
+                                        "disabled_reason": null,
+                                        "disabled_reason_data": null
+                                    }
+                                ]
+                            },
+                            {
+                                "bank_id": 13922,
+                                "bank_name": "元大商業銀行",
+                                "bank_logo": "https://mall.shopee.tw/static/images/bank_logo/ic_yuanta_bank.png",
+                                "sub_options": [
+                                    {
+                                        "data": {
+                                            "name": "3x @ 0.00%",
+                                            "channel_id": 3000501,
+                                            "tenure": 3,
+                                            "total_amount": 39200000,
+                                            "down_payment": null,
+                                            "interest_rate": 0,
+                                            "installment_amount": null,
+                                            "monthly_installment": 13066000,
+                                            "bank_id": null,
+                                            "bank_name": null,
+                                            "has_buyer_transaction_fee": true
+                                        },
+                                        "name": null,
+                                        "option_info": "3000501-60",
+                                        "disabled_reason_key": null,
+                                        "disabled_reason": null,
+                                        "disabled_reason_data": null
+                                    },
+                                    {
+                                        "data": {
+                                            "name": "6x @ 0.00%",
+                                            "channel_id": 3000501,
+                                            "tenure": 6,
+                                            "total_amount": 39200000,
+                                            "down_payment": null,
+                                            "interest_rate": 0,
+                                            "installment_amount": null,
+                                            "monthly_installment": 6533000,
+                                            "bank_id": null,
+                                            "bank_name": null,
+                                            "has_buyer_transaction_fee": true
+                                        },
+                                        "name": null,
+                                        "option_info": "3000501-61",
+                                        "disabled_reason_key": null,
+                                        "disabled_reason": null,
+                                        "disabled_reason_data": null
+                                    },
+                                    {
+                                        "data": {
+                                            "name": "12x @ 0.00%",
+                                            "channel_id": 3000501,
+                                            "tenure": 12,
+                                            "total_amount": 39200000,
+                                            "down_payment": null,
+                                            "interest_rate": 0,
+                                            "installment_amount": null,
+                                            "monthly_installment": 3266000,
+                                            "bank_id": null,
+                                            "bank_name": null,
+                                            "has_buyer_transaction_fee": true
+                                        },
+                                        "name": null,
+                                        "option_info": "3000501-62",
+                                        "disabled_reason_key": null,
+                                        "disabled_reason": null,
+                                        "disabled_reason_data": null
+                                    },
+                                    {
+                                        "data": {
+                                            "name": "24x @ 0.00%",
+                                            "channel_id": 3000501,
+                                            "tenure": 24,
+                                            "total_amount": 39200000,
+                                            "down_payment": null,
+                                            "interest_rate": 0,
+                                            "installment_amount": null,
+                                            "monthly_installment": 1633000,
+                                            "bank_id": null,
+                                            "bank_name": null,
+                                            "has_buyer_transaction_fee": true
+                                        },
+                                        "name": null,
+                                        "option_info": "3000501-63",
+                                        "disabled_reason_key": null,
+                                        "disabled_reason": null,
+                                        "disabled_reason_data": null
+                                    }
+                                ]
+                            },
+                            {
+                                "bank_id": 13928,
+                                "bank_name": "星展（台灣）銀行",
+                                "bank_logo": "https://mall.shopee.tw/static/images/bank_logo/ic_dbs_bank_taiwan.png",
+                                "sub_options": [
+                                    {
+                                        "data": {
+                                            "name": "3x @ 0.00%",
+                                            "channel_id": 3000501,
+                                            "tenure": 3,
+                                            "total_amount": 39200000,
+                                            "down_payment": null,
+                                            "interest_rate": 0,
+                                            "installment_amount": null,
+                                            "monthly_installment": 13066000,
+                                            "bank_id": null,
+                                            "bank_name": null,
+                                            "has_buyer_transaction_fee": true
+                                        },
+                                        "name": null,
+                                        "option_info": "3000501-110",
+                                        "disabled_reason_key": null,
+                                        "disabled_reason": null,
+                                        "disabled_reason_data": null
+                                    },
+                                    {
+                                        "data": {
+                                            "name": "6x @ 0.00%",
+                                            "channel_id": 3000501,
+                                            "tenure": 6,
+                                            "total_amount": 39200000,
+                                            "down_payment": null,
+                                            "interest_rate": 0,
+                                            "installment_amount": null,
+                                            "monthly_installment": 6533000,
+                                            "bank_id": null,
+                                            "bank_name": null,
+                                            "has_buyer_transaction_fee": true
+                                        },
+                                        "name": null,
+                                        "option_info": "3000501-111",
+                                        "disabled_reason_key": null,
+                                        "disabled_reason": null,
+                                        "disabled_reason_data": null
+                                    },
+                                    {
+                                        "data": {
+                                            "name": "12x @ 0.00%",
+                                            "channel_id": 3000501,
+                                            "tenure": 12,
+                                            "total_amount": 39200000,
+                                            "down_payment": null,
+                                            "interest_rate": 0,
+                                            "installment_amount": null,
+                                            "monthly_installment": 3266000,
+                                            "bank_id": null,
+                                            "bank_name": null,
+                                            "has_buyer_transaction_fee": true
+                                        },
+                                        "name": null,
+                                        "option_info": "3000501-112",
+                                        "disabled_reason_key": null,
+                                        "disabled_reason": null,
+                                        "disabled_reason_data": null
+                                    },
+                                    {
+                                        "data": {
+                                            "name": "24x @ 0.00%",
+                                            "channel_id": 3000501,
+                                            "tenure": 24,
+                                            "total_amount": 39200000,
+                                            "down_payment": null,
+                                            "interest_rate": 0,
+                                            "installment_amount": null,
+                                            "monthly_installment": 1633000,
+                                            "bank_id": null,
+                                            "bank_name": null,
+                                            "has_buyer_transaction_fee": true
+                                        },
+                                        "name": null,
+                                        "option_info": "3000501-113",
+                                        "disabled_reason_key": null,
+                                        "disabled_reason": null,
+                                        "disabled_reason_data": null
+                                    }
+                                ]
+                            },
+                            {
+                                "bank_id": 13941,
+                                "bank_name": "樂天信用卡",
+                                "bank_logo": "https://mall.shopee.tw/static/images/bank_logo/ic_taiwan_rakuten_card.png",
+                                "sub_options": [
+                                    {
+                                        "data": {
+                                            "name": "3x @ 0.00%",
+                                            "channel_id": 3000501,
+                                            "tenure": 3,
+                                            "total_amount": 39200000,
+                                            "down_payment": null,
+                                            "interest_rate": 0,
+                                            "installment_amount": null,
+                                            "monthly_installment": 13066000,
+                                            "bank_id": null,
+                                            "bank_name": null,
+                                            "has_buyer_transaction_fee": true
+                                        },
+                                        "name": null,
+                                        "option_info": "3000501-120",
+                                        "disabled_reason_key": null,
+                                        "disabled_reason": null,
+                                        "disabled_reason_data": null
+                                    },
+                                    {
+                                        "data": {
+                                            "name": "6x @ 0.00%",
+                                            "channel_id": 3000501,
+                                            "tenure": 6,
+                                            "total_amount": 39200000,
+                                            "down_payment": null,
+                                            "interest_rate": 0,
+                                            "installment_amount": null,
+                                            "monthly_installment": 6533000,
+                                            "bank_id": null,
+                                            "bank_name": null,
+                                            "has_buyer_transaction_fee": true
+                                        },
+                                        "name": null,
+                                        "option_info": "3000501-121",
+                                        "disabled_reason_key": null,
+                                        "disabled_reason": null,
+                                        "disabled_reason_data": null
+                                    }
+                                ]
+                            },
+                            {
+                                "bank_id": 13944,
+                                "bank_name": "滙豐（台灣）銀行",
+                                "bank_logo": "https://mall.shopee.tw/static/images/bank_logo/ic_hsbc_taiwan.png",
+                                "sub_options": [
+                                    {
+                                        "data": {
+                                            "name": "3x @ 0.00%",
+                                            "channel_id": 3000501,
+                                            "tenure": 3,
+                                            "total_amount": 39200000,
+                                            "down_payment": null,
+                                            "interest_rate": 0,
+                                            "installment_amount": null,
+                                            "monthly_installment": 13066000,
+                                            "bank_id": null,
+                                            "bank_name": null,
+                                            "has_buyer_transaction_fee": true
+                                        },
+                                        "name": null,
+                                        "option_info": "3000501-100",
+                                        "disabled_reason_key": null,
+                                        "disabled_reason": null,
+                                        "disabled_reason_data": null
+                                    },
+                                    {
+                                        "data": {
+                                            "name": "6x @ 0.00%",
+                                            "channel_id": 3000501,
+                                            "tenure": 6,
+                                            "total_amount": 39200000,
+                                            "down_payment": null,
+                                            "interest_rate": 0,
+                                            "installment_amount": null,
+                                            "monthly_installment": 6533000,
+                                            "bank_id": null,
+                                            "bank_name": null,
+                                            "has_buyer_transaction_fee": true
+                                        },
+                                        "name": null,
+                                        "option_info": "3000501-101",
+                                        "disabled_reason_key": null,
+                                        "disabled_reason": null,
+                                        "disabled_reason_data": null
+                                    },
+                                    {
+                                        "data": {
+                                            "name": "12x @ 0.00%",
+                                            "channel_id": 3000501,
+                                            "tenure": 12,
+                                            "total_amount": 39200000,
+                                            "down_payment": null,
+                                            "interest_rate": 0,
+                                            "installment_amount": null,
+                                            "monthly_installment": 3266000,
+                                            "bank_id": null,
+                                            "bank_name": null,
+                                            "has_buyer_transaction_fee": true
+                                        },
+                                        "name": null,
+                                        "option_info": "3000501-102",
+                                        "disabled_reason_key": null,
+                                        "disabled_reason": null,
+                                        "disabled_reason_data": null
+                                    },
+                                    {
+                                        "data": {
+                                            "name": "24x @ 0.00%",
+                                            "channel_id": 3000501,
+                                            "tenure": 24,
+                                            "total_amount": 39200000,
+                                            "down_payment": null,
+                                            "interest_rate": 0,
+                                            "installment_amount": null,
+                                            "monthly_installment": 1633000,
+                                            "bank_id": null,
+                                            "bank_name": null,
+                                            "has_buyer_transaction_fee": true
+                                        },
+                                        "name": null,
+                                        "option_info": "3000501-103",
+                                        "disabled_reason_key": null,
+                                        "disabled_reason": null,
+                                        "disabled_reason_data": null
+                                    }
+                                ]
+                            }
+                        ],
+                        "plan_groups": null
+                    }
+                ]
+            },
+            "credit_card": null
+        },
+        "ongoing_banner": null,
+        "teaser_banner": null,
+        "price_breakdown": {
+            "price": {
+                "single_value": 39200000,
+                "range_min": -1,
+                "range_max": -1,
+                "price_mask": null
+            },
+            "price_before_discount": {
+                "single_value": 49500000,
+                "range_min": -1,
+                "range_max": -1,
+                "price_mask": null
+            },
+            "discount_breakdown": [
+                {
+                    "type": 0,
+                    "price_source": "商品折扣",
+                    "discount_amount": 4900000,
+                    "exclusive_price": null,
+                    "shop_voucher": null,
+                    "platform_voucher": null
+                },
+                {
+                    "type": 2,
+                    "price_source": "賣場優惠券",
+                    "discount_amount": 5400000,
+                    "exclusive_price": null,
+                    "shop_voucher": {
+                        "min_spend": 39900000,
+                        "discount_type": 1,
+                        "discount_value": null,
+                        "discount_percentage": "8.8"
+                    },
+                    "platform_voucher": null
+                }
+            ]
+        },
+        "membership_exclusive": null,
+        "membership_exclusive_teaser": null,
+        "service_entrance": {
+            "services": [
+                {
+                    "text": "蝦皮放心買",
+                    "type": null,
+                    "id": 52
+                },
+                {
+                    "text": "蝦皮安心退",
+                    "type": null,
+                    "id": 51
+                }
+            ]
+        },
+        "service_drawer": {
+            "services": [
+                {
+                    "title": "蝦皮放心買",
+                    "description": "除了賣家實名認證跟商品合規檢驗外，蝦皮也實行賣家計分管理，針對營運表現不佳的賣家進行取締。管理項目包含訂單未完成率、延遲出貨率、違反上架規範等。",
+                    "type": null,
+                    "free_return": null,
+                    "insurance": null,
+                    "id": 52,
+                    "redirection_url": "https://shopee.tw/m/worry-free#anchorId-1737101390274",
+                    "icon": "tw-11134258-7rbkc-m8vjh2lirw12cc",
+                    "insurance_drawer": null
+                },
+                {
+                    "title": "蝦皮安心退",
+                    "description": "蝦皮安心退由蝦皮協助審核，您無須先與賣家溝通，一鍵即可申請退貨。除特殊退貨物流，您也無須負擔退貨運費。        ",
+                    "type": null,
+                    "free_return": null,
+                    "insurance": null,
+                    "id": 51,
+                    "redirection_url": "https://shopee.tw/m/newrr",
+                    "icon": "tw-11134258-7rasm-m2rus0ffw963d1",
+                    "insurance_drawer": null
+                }
+            ]
+        },
+        "trade_in": null,
+        "product_description": {
+            "paragraph_list": [
+                {
+                    "type": 0,
+                    "text": "🥇提亮膚色：通過10%的菸鹼醯胺（Niacinamide）和4%的傳明酸（TXA），幫助淡化色斑並均勻膚色。",
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 0,
+                    "text": "🥈保濕修護：含有神經醯胺和透明質酸，提供深層保濕並增強皮膚屏障功能。",
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 0,
+                    "text": "🥉改善肌膚質地：有效縮小毛孔與減少細紋，使肌膚更加平滑細緻。",
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 0,
+                    "text": "適合敏感肌：質地輕盈不油膩，無香料及人工色素添加，適用於多種膚質。",
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 0,
+                    "text": "此產品特別適合追求玻璃肌效果的人群使用。",
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                }
+            ],
+            "source_language": ""
+        },
+        "selected_tiers": null,
+        "size_info": null,
+        "size_recommendation": null
+    }
+}

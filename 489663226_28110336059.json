@@ -1,0 +1,2138 @@
+{
+    "bff_meta": null,
+    "error": null,
+    "error_msg": null,
+    "data": {
+        "item": {
+            "item_id": 28110336059,
+            "shop_id": 489663226,
+            "item_status": "normal",
+            "status": 1,
+            "item_type": 0,
+            "reference_item_id": "",
+            "title": "🌾台灣出貨🌾新店開幕💞限時特惠瑧悦修护补水保湿面部精华胶囊 夜间精华液 精华油",
+            "image": "tw-11134201-7r98s-lzt8mrygmfq6f1",
+            "label_ids": [
+                844931086908638,
+                844931064601283,
+                822059780857868,
+                822120594705943,
+                840902217783839,
+                840902217782303,
+                1948020501544471,
+                822120594703895,
+                1400285049,
+                1853606,
+                1853605,
+                1010987,
+                997921057,
+                1016186,
+                1007681,
+                1016184,
+                1400635031,
+                298843331,
+                1718088130,
+                2013670,
+                2048592,
+                700750012,
+                998101039,
+                700695035,
+                23,
+                2103622,
+                298928346,
+                298923365,
+                298928357,
+                2113635,
+                700815074,
+                700810059,
+                700810068,
+                2103670,
+                298933322,
+                2143620,
+                998156045,
+                2158586,
+                2158594,
+                2158615,
+                2158622,
+                700810039,
+                1400705016,
+                2158642,
+                2158664,
+                298983331,
+                298983332,
+                700830009,
+                298983333,
+                298973395,
+                2153584,
+                2158579,
+                700815090,
+                1400705021,
+                997921062,
+                298983308,
+                700805071,
+                298983309,
+                1400705023
+            ],
+            "is_adult": false,
+            "is_preview": false,
+            "flag": 196608,
+            "is_service_by_shopee": false,
+            "condition": 1,
+            "cat_id": 100630,
+            "has_low_fulfillment_rate": false,
+            "is_live_streaming_price": null,
+            "currency": "TWD",
+            "brand": null,
+            "brand_id": 0,
+            "show_discount": 51,
+            "ctime": 1725549057,
+            "item_rating": {
+                "rating_star": 5
+            },
+            "cb_option": 0,
+            "has_model_with_available_shopee_stock": false,
+            "shop_location": "桃園市大園區",
+            "attributes": null,
+            "rich_text_description": {
+                "paragraph_list": [
+                    {
+                        "type": 0,
+                        "text": "*✩‧₊歡迎光臨 💋钱多多▪️美妆全球购 💄₊‧✩*\r",
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "\r",
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "1️⃣ 關注賣場，全場下單無門檻立減$20元\r",
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "\r",
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "2️⃣賣場內商品均是薄利多銷...需要購滿99元（不含運費）才能安排出貨的了๑′ᴗ‵๑\r",
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "\r",
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "3️⃣有現貨的訂單1-3天安排訂單，訂單有預售的商品需等商品到齊後才能出貨！\r",
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "\r",
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "4️⃣下單前請三思不要隨意取消訂單，損失很大，壓力會很大的唷❗✔️我們的商品都是精心挑選的，請放心購買，祝您購物愉快✔️\r",
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "\r",
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "📢如果您收到的商品有問題，少發貨、有瑕疵，首先聯繫客服！\r",
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "\r",
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "【聊聊諮詢】\r",
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "\r",
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "⏲客服時間：每日早10:00—晚01:30\r",
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "\r",
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "🔍線上快速諮詢，有任何問題歡迎詢問，善用聊聊，有專人在線為您服務。\r",
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "\r",
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "⚠如收到產品時發現產品異常，請拍商品照片和貨單，傳至聊聊，客服人員上班時間會馬上為您處理\r",
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "\r",
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "🎊聊聊訊息大量，客服人員依序處理，如我們在忙沒有即時回覆您的聊聊，請您稍微等待，請勿用評價作溝通管道哦!\r",
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "\r",
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "💖喜歡我們商品與服務，歡迎給我們滿滿⭐️⭐️⭐️⭐️⭐️顆星哦!好評後截圖聊聊客服領取內部優惠券唷！👍",
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    }
+                ],
+                "source_language": null
+            },
+            "invoice_option": null,
+            "is_category_failed": null,
+            "is_prescription_item": false,
+            "preview_info": null,
+            "show_prescription_feed": false,
+            "is_alcohol_product": false,
+            "is_infant_milk_formula_product": false,
+            "is_unavailable": false,
+            "is_partial_fulfilled": false,
+            "is_presale": false,
+            "is_presale_deposit_item": null,
+            "is_presale_deposit_made": null,
+            "description": "*✩‧₊歡迎光臨 💋钱多多▪️美妆全球购 💄₊‧✩*\r\n\r\n1️⃣ 關注賣場，全場下單無門檻立減$20元\r\n\r\n2️⃣賣場內商品均是薄利多銷...需要購滿99元（不含運費）才能安排出貨的了๑′ᴗ‵๑\r\n\r\n3️⃣有現貨的訂單1-3天安排訂單，訂單有預售的商品需等商品到齊後才能出貨！\r\n\r\n4️⃣下單前請三思不要隨意取消訂單，損失很大，壓力會很大的唷❗✔️我們的商品都是精心挑選的，請放心購買，祝您購物愉快✔️\r\n\r\n📢如果您收到的商品有問題，少發貨、有瑕疵，首先聯繫客服！\r\n\r\n【聊聊諮詢】\r\n\r\n⏲客服時間：每日早10:00—晚01:30\r\n\r\n🔍線上快速諮詢，有任何問題歡迎詢問，善用聊聊，有專人在線為您服務。\r\n\r\n⚠如收到產品時發現產品異常，請拍商品照片和貨單，傳至聊聊，客服人員上班時間會馬上為您處理\r\n\r\n🎊聊聊訊息大量，客服人員依序處理，如我們在忙沒有即時回覆您的聊聊，請您稍微等待，請勿用評價作溝通管道哦!\r\n\r\n💖喜歡我們商品與服務，歡迎給我們滿滿⭐️⭐️⭐️⭐️⭐️顆星哦!好評後截圖聊聊客服領取內部優惠券唷！👍",
+            "categories": [
+                {
+                    "catid": 100630,
+                    "display_name": "美妝保養",
+                    "no_sub": false,
+                    "is_default_subcat": false
+                },
+                {
+                    "catid": 100664,
+                    "display_name": "肌膚保養",
+                    "no_sub": false,
+                    "is_default_subcat": false
+                },
+                {
+                    "catid": 100896,
+                    "display_name": "精華液",
+                    "no_sub": true,
+                    "is_default_subcat": false
+                }
+            ],
+            "fe_categories": [
+                {
+                    "catid": 11041691,
+                    "display_name": "美妝保養",
+                    "no_sub": false,
+                    "is_default_subcat": false
+                },
+                {
+                    "catid": 11041752,
+                    "display_name": "醫美清潔保養",
+                    "no_sub": false,
+                    "is_default_subcat": false
+                },
+                {
+                    "catid": 11046882,
+                    "display_name": "精華液",
+                    "no_sub": true,
+                    "is_default_subcat": false
+                }
+            ],
+            "item_has_video": false,
+            "presale_dday_start_time": null,
+            "is_lowest_price_at_shopee": null,
+            "display_description_disclosure_rsku_redirection": null,
+            "display_similar_sold": null,
+            "title_type": 1,
+            "authorized_brand_name": null,
+            "models": [
+                {
+                    "item_id": 28110336059,
+                    "status": 1,
+                    "current_promotion_reserved_stock": 0,
+                    "name": "精華油膠囊1盒【28顆】",
+                    "promotion_id": 732557365805056,
+                    "price": 97100000,
+                    "price_stocks": [
+                        {
+                            "allocated_stock": 0,
+                            "stock_breakdown_by_location": null,
+                            "promotion_type": 301
+                        },
+                        {
+                            "allocated_stock": 0,
+                            "stock_breakdown_by_location": [
+                                {
+                                    "location_id": "TWZ",
+                                    "available_stock": 32,
+                                    "fulfilment_type": 2,
+                                    "address_id": 0,
+                                    "allocated_stock": null
+                                }
+                            ],
+                            "promotion_type": 0
+                        }
+                    ],
+                    "current_promotion_has_reserve_stock": false,
+                    "normal_stock": 32,
+                    "extinfo": {
+                        "tier_index": [
+                            0
+                        ],
+                        "is_pre_order": true,
+                        "estimated_days": 7
+                    },
+                    "price_before_discount": 198000000,
+                    "model_id": 256537006504,
+                    "stock": 32,
+                    "has_gimmick_tag": false,
+                    "key_measurement": null,
+                    "sold": 22,
+                    "is_lowest_price_at_shopee": false,
+                    "name_tr": null,
+                    "is_clickable": true,
+                    "is_grayout": false,
+                    "has_stock": true
+                }
+            ],
+            "tier_variations": [
+                {
+                    "name": "數量",
+                    "options": [
+                        "精華油膠囊1盒【28顆】"
+                    ],
+                    "images": [
+                        "tw-11134207-7r98z-lz1iic1r1l9w3a"
+                    ],
+                    "properties": null,
+                    "type": 0,
+                    "summed_stocks": null,
+                    "display_indicators": [
+                        0
+                    ],
+                    "name_tr": null,
+                    "options_tr": null,
+                    "selling_points": null,
+                    "selling_points_tr": null
+                }
+            ],
+            "size_chart": null,
+            "size_chart_info": null,
+            "welcome_package_type": 0,
+            "is_free_gift": false,
+            "deep_discount": null,
+            "is_low_price_eligible": null,
+            "bundle_deal_info": {
+                "bundle_deal_id": 371812454645930,
+                "bundle_deal_label": "2 件 9.9折",
+                "bundle_deal_rule": {
+                    "rule_type": 2,
+                    "min_amount": 2,
+                    "fix_price": 0,
+                    "discount_percentage": 1,
+                    "discount_value": 0,
+                    "additional_tiers": []
+                }
+            },
+            "add_on_deal_info": null,
+            "shipping_icon_type": 0,
+            "badge_icon_type": 0,
+            "spl_info": {
+                "installment_info": null,
+                "user_credit_info": null,
+                "channel_id": null,
+                "show_spl": true,
+                "show_spl_lite": null,
+                "spl_xtra": null,
+                "spl_motorcycle_loan": null
+            },
+            "estimated_days": 7,
+            "is_pre_order": true,
+            "is_free_shipping": false,
+            "overall_purchase_limit": null,
+            "min_purchase_limit": 1,
+            "is_hide_stock": false,
+            "stock": 32,
+            "normal_stock": 32,
+            "current_promotion_reserved_stock": 0,
+            "can_use_wholesale": false,
+            "wholesale_tier_list": [],
+            "price": 97100000,
+            "raw_discount": 51,
+            "hidden_price_display": null,
+            "price_min": 97100000,
+            "price_max": 97100000,
+            "price_before_discount": 198000000,
+            "price_min_before_discount": 198000000,
+            "price_max_before_discount": 198000000,
+            "other_stock": 0,
+            "discount_stock": 32,
+            "current_promotion_has_reserve_stock": false,
+            "complaint_policy": null,
+            "show_recycling_info": null,
+            "should_show_amp_tag": true,
+            "all_models_has_pre_order": true,
+            "is_item_inherited": false,
+            "max_quantity": 32,
+            "drug_details": null,
+            "selected_real_models": null,
+            "size_tier_variation_idx": null,
+            "is_fashion_item": false,
+            "social_proof_label": null,
+            "title_tr": null,
+            "description_tr": null,
+            "rich_text_description_tr": null,
+            "stock_display": "32",
+            "max_quantity_display": "還剩 32 件"
+        },
+        "account": {
+            "user_id": 1637295006,
+            "is_new_user": true,
+            "default_address": {
+                "state": "臺北市",
+                "city": "中正區",
+                "district": "",
+                "town": "",
+                "zip_code": null,
+                "address": null,
+                "region": null,
+                "longitude": null,
+                "latitude": null
+            },
+            "adult_consent": 0,
+            "birth_timestamp": 0
+        },
+        "product_images": {
+            "video": null,
+            "images": [
+                "tw-11134201-7r98s-lzt8mrygmfq6f1",
+                "tw-11134201-7r98v-lzt8msb83rbyaf",
+                "tw-11134201-7r98v-lzt8mspdj1tgf0",
+                "tw-11134201-7r98w-lzt8mt1v0s1g2c",
+                "tw-11134201-7r98o-lzt8mtecjwtweb",
+                "tw-11134201-7r990-lzt8mtrnz0nyef"
+            ],
+            "first_tier_variations": [
+                {
+                    "name": "精華油膠囊1盒【28顆】",
+                    "image": "tw-11134207-7r98z-lz1iic1r1l9w3a",
+                    "summed_stock": 32,
+                    "display_indicator": 0,
+                    "show_find_similar": false,
+                    "name_tr": null,
+                    "selling_point": "",
+                    "selling_point_tr": null
+                }
+            ],
+            "sorted_variation_image_index_list": [],
+            "overlay": {
+                "type": 0,
+                "image": "tw-11134258-81zth-megjmixgqxhe23",
+                "preview_end_time": null,
+                "is_pre_order": null,
+                "description": ""
+            },
+            "makeup_preview": null,
+            "abnormal_status": "",
+            "promotion_images": [],
+            "long_images": null,
+            "shopee_video_info_list": [],
+            "shopee_video_rcmd_info": null,
+            "shopee_video_req_id": null,
+            "skincam": null,
+            "pdp_top_info_list": null,
+            "has_long_image": null,
+            "show_find_similar": false,
+            "try_it_on": null,
+            "show_find_similar_for_selection": false
+        },
+        "product_price": {
+            "discount": 52,
+            "installment_info": null,
+            "spl_installment_info": null,
+            "pack_size": "",
+            "hide_price": false,
+            "price": {
+                "single_value": 94100000,
+                "range_min": -1,
+                "range_max": -1,
+                "price_mask": null
+            },
+            "price_before_discount": {
+                "single_value": 198000000,
+                "range_min": -1,
+                "range_max": -1,
+                "price_mask": null
+            },
+            "presale_price": null,
+            "lowest_past_price": null,
+            "labels": [
+                {
+                    "type": 0,
+                    "text": "2 件 9.9折",
+                    "color": "primary",
+                    "display": "bundle_deal",
+                    "exclusive_price": null,
+                    "promotion_id": 371812454645930
+                }
+            ],
+            "hide_discount": true,
+            "discount_text": null,
+            "show_final_price_indicator": true,
+            "final_price_vouchers": [
+                {
+                    "promotion_id": 1228097450180608,
+                    "voucher_code": "COOL5555",
+                    "is_auto_claimed_just_now": false,
+                    "groups": null,
+                    "voucher_type": 1
+                }
+            ],
+            "has_final_price": true,
+            "final_price_info": {
+                "model_id": 256537006504,
+                "hint_text": "券後價 >"
+            }
+        },
+        "flash_sale": null,
+        "flash_sale_preview": null,
+        "deep_discount": null,
+        "exclusive_price": null,
+        "exclusive_price_cta": null,
+        "product_meta": {
+            "show_lowest_price_guarantee": null,
+            "show_original_guarantee": null,
+            "show_best_price_guarantee": false,
+            "show_official_shop_label_in_title": false,
+            "show_shopee_verified_label": false,
+            "show_lowest_installment_guarantee": null,
+            "hide_sharing_button": false,
+            "hide_sold_count": false,
+            "show_description_translation_button": null
+        },
+        "product_review": {
+            "rating_star": 5,
+            "rating_count": [
+                6,
+                0,
+                0,
+                0,
+                0,
+                6
+            ],
+            "total_rating_count": 6,
+            "historical_sold": 22,
+            "global_sold": 22,
+            "liked": false,
+            "liked_count": 3,
+            "cmt_count": 8,
+            "should_move_ratings_above": null,
+            "review_rcmd_exp_group": null,
+            "display_global_sold": false,
+            "hide_rating": false,
+            "hide_buyer_gallery": false,
+            "hide_reviews": false,
+            "hide_other_product_reviews_in_shop": false,
+            "sold_count_disclosure": null,
+            "historical_sold_display": "22",
+            "global_sold_display": "22"
+        },
+        "promotion_info": {
+            "spl": null,
+            "spl_lite": null,
+            "installment": null,
+            "wholesale": null,
+            "insurance": null,
+            "item_installment_eligibility": {
+                "is_cc_installment_payment_eligible": false,
+                "is_non_cc_installment_payment_eligible": false
+            }
+        },
+        "age_gate": {
+            "kyc": null
+        },
+        "shipping_meta": null,
+        "product_shipping": {
+            "free_shipping": {
+                "min_spend": {
+                    "single_value": 14900000,
+                    "range_min": -1,
+                    "range_max": -1,
+                    "price_mask": null
+                },
+                "has_fss": false
+            },
+            "shipping_fee_info": {
+                "ship_from_location": "桃園市大園區",
+                "price": {
+                    "single_value": 0,
+                    "range_min": -1,
+                    "range_max": -1,
+                    "price_mask": null
+                },
+                "shipping_icon_type": 0,
+                "warning": null
+            },
+            "show_shipping_to": true,
+            "ungrouped_channel_infos": [
+                {
+                    "channel_id": 30014,
+                    "name": "OK Mart",
+                    "price": {
+                        "single_value": 0,
+                        "range_min": -1,
+                        "range_max": -1,
+                        "price_mask": null
+                    },
+                    "price_before_discount": {
+                        "single_value": 4500000,
+                        "range_min": -1,
+                        "range_max": -1,
+                        "price_mask": null
+                    },
+                    "channel_delivery_info": {
+                        "has_edt": true,
+                        "display_mode": "edt_by_date",
+                        "estimated_delivery_date_from": 1759085492,
+                        "estimated_delivery_date_to": 1759702466,
+                        "estimated_delivery_time_min": 9,
+                        "estimated_delivery_time_max": 16,
+                        "delay_message": null,
+                        "is_fastest_edt_channel": false,
+                        "sla_message": "",
+                        "show_edt": true,
+                        "edt_text": "預計配達時間 9月29日 - 10月6日",
+                        "formatted_edt_text": [
+                            {
+                                "template": "預計配達時間 9月29日 - 10月6日",
+                                "format": null,
+                                "attributes": null,
+                                "text_color": null,
+                                "text_hex_color": null
+                            }
+                        ],
+                        "formatted_pre_order_text": null,
+                        "formatted_fbs_description_text": null,
+                        "show_edt_as_header": false
+                    },
+                    "channel_promotion_infos": [],
+                    "warning": null,
+                    "shipping_icon_type": null,
+                    "lowest_bpsf_promotion_rule": null,
+                    "service_type_info": "",
+                    "is_integrated_channel": true,
+                    "late_delivery_compensation": null,
+                    "is_sst_included": false,
+                    "display_text": {
+                        "late_delivery_compensation": null,
+                        "direct_delivery": null,
+                        "fulfilled_by_shopee": null,
+                        "spx_instant_delivery": null
+                    },
+                    "rule_type": 0,
+                    "is_xdd_channel": false,
+                    "show_shopee_plus_icon": false,
+                    "xdd_value": null,
+                    "hide_shipping_fee": null,
+                    "edt_tracking_info": "{\"edt_min\":9,\"edt_max\":16,\"edt_min_hours\":199,\"edt_max_hours\":370,\"edt_display_identifier\":65545,\"buyer_address_hash\":\"1AXnLtm\"}"
+                },
+                {
+                    "channel_id": 30015,
+                    "name": "蝦皮店到店",
+                    "price": {
+                        "single_value": 0,
+                        "range_min": -1,
+                        "range_max": -1,
+                        "price_mask": null
+                    },
+                    "price_before_discount": {
+                        "single_value": 4500000,
+                        "range_min": -1,
+                        "range_max": -1,
+                        "price_mask": null
+                    },
+                    "channel_delivery_info": {
+                        "has_edt": true,
+                        "display_mode": "edt_by_date",
+                        "estimated_delivery_date_from": 1759097839,
+                        "estimated_delivery_date_to": 1759965787,
+                        "estimated_delivery_time_min": 9,
+                        "estimated_delivery_time_max": 19,
+                        "delay_message": "免運店家滿$199無限免運; 週三週六$149無限免運",
+                        "is_fastest_edt_channel": false,
+                        "sla_message": "",
+                        "show_edt": true,
+                        "edt_text": "預計配達時間 9月29日 - 10月9日",
+                        "formatted_edt_text": [
+                            {
+                                "template": "預計配達時間 9月29日 - 10月9日",
+                                "format": null,
+                                "attributes": null,
+                                "text_color": null,
+                                "text_hex_color": null
+                            }
+                        ],
+                        "formatted_pre_order_text": null,
+                        "formatted_fbs_description_text": null,
+                        "show_edt_as_header": false
+                    },
+                    "channel_promotion_infos": [],
+                    "warning": null,
+                    "shipping_icon_type": null,
+                    "lowest_bpsf_promotion_rule": null,
+                    "service_type_info": "",
+                    "is_integrated_channel": true,
+                    "late_delivery_compensation": {
+                        "type": 1,
+                        "amount": 1000000,
+                        "is_guaranteed_edt": true,
+                        "compensation_amount": null,
+                        "text": null
+                    },
+                    "is_sst_included": false,
+                    "display_text": {
+                        "late_delivery_compensation": {
+                            "text": "如果訂單未能準時配達，您可以領取 {compensation_amount} 優惠券作為補償",
+                            "gdt_max": null,
+                            "compensation_amount": {
+                                "value": 1000000
+                            }
+                        },
+                        "direct_delivery": null,
+                        "fulfilled_by_shopee": null,
+                        "spx_instant_delivery": null
+                    },
+                    "rule_type": 0,
+                    "is_xdd_channel": false,
+                    "show_shopee_plus_icon": false,
+                    "xdd_value": null,
+                    "hide_shipping_fee": null,
+                    "edt_tracking_info": "{\"edt_min\":9,\"edt_max\":19,\"edt_min_hours\":202,\"edt_max_hours\":443,\"edt_display_identifier\":327689,\"buyer_address_hash\":\"1AXnLtm\"}"
+                },
+                {
+                    "channel_id": 30017,
+                    "name": "店到家宅配 - 標準包裹",
+                    "price": {
+                        "single_value": 0,
+                        "range_min": -1,
+                        "range_max": -1,
+                        "price_mask": null
+                    },
+                    "price_before_discount": {
+                        "single_value": 6500000,
+                        "range_min": -1,
+                        "range_max": -1,
+                        "price_mask": null
+                    },
+                    "channel_delivery_info": {
+                        "has_edt": true,
+                        "display_mode": "edt_by_date",
+                        "estimated_delivery_date_from": 1759207722,
+                        "estimated_delivery_date_to": 1760243425,
+                        "estimated_delivery_time_min": 10,
+                        "estimated_delivery_time_max": 22,
+                        "delay_message": "免運店家滿$490免運；配送範圍限台北、新北、桃園、新竹、台中、彰化、雲林、嘉義、台南、高雄、宜蘭，部分行政區及區域除外",
+                        "is_fastest_edt_channel": false,
+                        "sla_message": "",
+                        "show_edt": true,
+                        "edt_text": "預計配達時間 9月30日 - 10月12日",
+                        "formatted_edt_text": [
+                            {
+                                "template": "預計配達時間 9月30日 - 10月12日",
+                                "format": null,
+                                "attributes": null,
+                                "text_color": null,
+                                "text_hex_color": null
+                            }
+                        ],
+                        "formatted_pre_order_text": null,
+                        "formatted_fbs_description_text": null,
+                        "show_edt_as_header": false
+                    },
+                    "channel_promotion_infos": [],
+                    "warning": null,
+                    "shipping_icon_type": null,
+                    "lowest_bpsf_promotion_rule": null,
+                    "service_type_info": "",
+                    "is_integrated_channel": true,
+                    "late_delivery_compensation": {
+                        "type": 1,
+                        "amount": 1000000,
+                        "is_guaranteed_edt": true,
+                        "compensation_amount": null,
+                        "text": null
+                    },
+                    "is_sst_included": false,
+                    "display_text": {
+                        "late_delivery_compensation": {
+                            "text": "如果訂單未能準時配達，您可以領取 {compensation_amount} 優惠券作為補償",
+                            "gdt_max": null,
+                            "compensation_amount": {
+                                "value": 1000000
+                            }
+                        },
+                        "direct_delivery": null,
+                        "fulfilled_by_shopee": null,
+                        "spx_instant_delivery": null
+                    },
+                    "rule_type": 0,
+                    "is_xdd_channel": false,
+                    "show_shopee_plus_icon": false,
+                    "xdd_value": null,
+                    "hide_shipping_fee": null,
+                    "edt_tracking_info": "{\"edt_min\":10,\"edt_max\":22,\"edt_min_hours\":232,\"edt_max_hours\":520,\"edt_display_identifier\":327689,\"buyer_address_hash\":\"1AXnLtm\"}"
+                },
+                {
+                    "channel_id": 30005,
+                    "name": "7-ELEVEN",
+                    "price": {
+                        "single_value": 0,
+                        "range_min": -1,
+                        "range_max": -1,
+                        "price_mask": null
+                    },
+                    "price_before_discount": {
+                        "single_value": 6000000,
+                        "range_min": -1,
+                        "range_max": -1,
+                        "price_mask": null
+                    },
+                    "channel_delivery_info": {
+                        "has_edt": true,
+                        "display_mode": "edt_by_date",
+                        "estimated_delivery_date_from": 1759077241,
+                        "estimated_delivery_date_to": 1759776580,
+                        "estimated_delivery_time_min": 9,
+                        "estimated_delivery_time_max": 17,
+                        "delay_message": null,
+                        "is_fastest_edt_channel": false,
+                        "sla_message": "",
+                        "show_edt": true,
+                        "edt_text": "預計配達時間 9月29日 - 10月7日",
+                        "formatted_edt_text": [
+                            {
+                                "template": "預計配達時間 9月29日 - 10月7日",
+                                "format": null,
+                                "attributes": null,
+                                "text_color": null,
+                                "text_hex_color": null
+                            }
+                        ],
+                        "formatted_pre_order_text": null,
+                        "formatted_fbs_description_text": null,
+                        "show_edt_as_header": false
+                    },
+                    "channel_promotion_infos": [],
+                    "warning": null,
+                    "shipping_icon_type": null,
+                    "lowest_bpsf_promotion_rule": null,
+                    "service_type_info": "",
+                    "is_integrated_channel": true,
+                    "late_delivery_compensation": null,
+                    "is_sst_included": false,
+                    "display_text": {
+                        "late_delivery_compensation": null,
+                        "direct_delivery": null,
+                        "fulfilled_by_shopee": null,
+                        "spx_instant_delivery": null
+                    },
+                    "rule_type": 0,
+                    "is_xdd_channel": false,
+                    "show_shopee_plus_icon": false,
+                    "xdd_value": null,
+                    "hide_shipping_fee": null,
+                    "edt_tracking_info": "{\"edt_min\":9,\"edt_max\":17,\"edt_min_hours\":196,\"edt_max_hours\":391,\"edt_display_identifier\":65545,\"buyer_address_hash\":\"1AXnLtm\"}"
+                },
+                {
+                    "channel_id": 30006,
+                    "name": "全家",
+                    "price": {
+                        "single_value": 0,
+                        "range_min": -1,
+                        "range_max": -1,
+                        "price_mask": null
+                    },
+                    "price_before_discount": {
+                        "single_value": 6000000,
+                        "range_min": -1,
+                        "range_max": -1,
+                        "price_mask": null
+                    },
+                    "channel_delivery_info": {
+                        "has_edt": true,
+                        "display_mode": "edt_by_date",
+                        "estimated_delivery_date_from": 1759070752,
+                        "estimated_delivery_date_to": 1759761080,
+                        "estimated_delivery_time_min": 8,
+                        "estimated_delivery_time_max": 16,
+                        "delay_message": null,
+                        "is_fastest_edt_channel": false,
+                        "sla_message": "",
+                        "show_edt": true,
+                        "edt_text": "預計配達時間 9月28日 - 10月6日",
+                        "formatted_edt_text": [
+                            {
+                                "template": "預計配達時間 9月28日 - 10月6日",
+                                "format": null,
+                                "attributes": null,
+                                "text_color": null,
+                                "text_hex_color": null
+                            }
+                        ],
+                        "formatted_pre_order_text": null,
+                        "formatted_fbs_description_text": null,
+                        "show_edt_as_header": false
+                    },
+                    "channel_promotion_infos": [],
+                    "warning": null,
+                    "shipping_icon_type": null,
+                    "lowest_bpsf_promotion_rule": null,
+                    "service_type_info": "",
+                    "is_integrated_channel": true,
+                    "late_delivery_compensation": null,
+                    "is_sst_included": false,
+                    "display_text": {
+                        "late_delivery_compensation": null,
+                        "direct_delivery": null,
+                        "fulfilled_by_shopee": null,
+                        "spx_instant_delivery": null
+                    },
+                    "rule_type": 0,
+                    "is_xdd_channel": false,
+                    "show_shopee_plus_icon": false,
+                    "xdd_value": null,
+                    "hide_shipping_fee": null,
+                    "edt_tracking_info": "{\"edt_min\":8,\"edt_max\":16,\"edt_min_hours\":194,\"edt_max_hours\":386,\"edt_display_identifier\":65545,\"buyer_address_hash\":\"1AXnLtm\"}"
+                },
+                {
+                    "channel_id": 30007,
+                    "name": "萊爾富",
+                    "price": {
+                        "single_value": 0,
+                        "range_min": -1,
+                        "range_max": -1,
+                        "price_mask": null
+                    },
+                    "price_before_discount": {
+                        "single_value": 5000000,
+                        "range_min": -1,
+                        "range_max": -1,
+                        "price_mask": null
+                    },
+                    "channel_delivery_info": {
+                        "has_edt": true,
+                        "display_mode": "edt_by_date",
+                        "estimated_delivery_date_from": 1759070415,
+                        "estimated_delivery_date_to": 1759685868,
+                        "estimated_delivery_time_min": 8,
+                        "estimated_delivery_time_max": 16,
+                        "delay_message": null,
+                        "is_fastest_edt_channel": false,
+                        "sla_message": "",
+                        "show_edt": true,
+                        "edt_text": "預計配達時間 9月28日 - 10月6日",
+                        "formatted_edt_text": [
+                            {
+                                "template": "預計配達時間 9月28日 - 10月6日",
+                                "format": null,
+                                "attributes": null,
+                                "text_color": null,
+                                "text_hex_color": null
+                            }
+                        ],
+                        "formatted_pre_order_text": null,
+                        "formatted_fbs_description_text": null,
+                        "show_edt_as_header": false
+                    },
+                    "channel_promotion_infos": [],
+                    "warning": null,
+                    "shipping_icon_type": null,
+                    "lowest_bpsf_promotion_rule": null,
+                    "service_type_info": "",
+                    "is_integrated_channel": true,
+                    "late_delivery_compensation": null,
+                    "is_sst_included": false,
+                    "display_text": {
+                        "late_delivery_compensation": null,
+                        "direct_delivery": null,
+                        "fulfilled_by_shopee": null,
+                        "spx_instant_delivery": null
+                    },
+                    "rule_type": 0,
+                    "is_xdd_channel": false,
+                    "show_shopee_plus_icon": false,
+                    "xdd_value": null,
+                    "hide_shipping_fee": null,
+                    "edt_tracking_info": "{\"edt_min\":8,\"edt_max\":16,\"edt_min_hours\":194,\"edt_max_hours\":365,\"edt_display_identifier\":65545,\"buyer_address_hash\":\"1AXnLtm\"}"
+                }
+            ],
+            "grouped_channel_infos_by_service_type": [],
+            "also_available_channel_name": "",
+            "pre_selected_shipping_channel": {
+                "channel_id": 30014,
+                "name": "OK Mart",
+                "price": {
+                    "single_value": 0,
+                    "range_min": -1,
+                    "range_max": -1,
+                    "price_mask": null
+                },
+                "price_before_discount": {
+                    "single_value": 4500000,
+                    "range_min": -1,
+                    "range_max": -1,
+                    "price_mask": null
+                },
+                "channel_delivery_info": {
+                    "has_edt": true,
+                    "display_mode": "edt_by_date",
+                    "estimated_delivery_date_from": 1759085492,
+                    "estimated_delivery_date_to": 1759702466,
+                    "estimated_delivery_time_min": 9,
+                    "estimated_delivery_time_max": 16,
+                    "delay_message": "",
+                    "is_fastest_edt_channel": false,
+                    "sla_message": "",
+                    "show_edt": true,
+                    "edt_text": "預計配達時間 9月29日 - 10月6日",
+                    "formatted_edt_text": [
+                        {
+                            "template": "預計配達時間 9月29日 - 10月6日",
+                            "format": [],
+                            "attributes": null,
+                            "text_color": null,
+                            "text_hex_color": null
+                        }
+                    ],
+                    "formatted_pre_order_text": null,
+                    "formatted_fbs_description_text": null,
+                    "show_edt_as_header": false
+                },
+                "channel_promotion_infos": [],
+                "warning": {
+                    "type": "",
+                    "warning_msg": ""
+                },
+                "shipping_icon_type": null,
+                "lowest_bpsf_promotion_rule": null,
+                "service_type_info": "",
+                "is_integrated_channel": true,
+                "late_delivery_compensation": null,
+                "is_sst_included": false,
+                "display_text": {
+                    "late_delivery_compensation": null,
+                    "direct_delivery": null,
+                    "fulfilled_by_shopee": null,
+                    "spx_instant_delivery": null
+                },
+                "rule_type": 0,
+                "is_xdd_channel": false,
+                "show_shopee_plus_icon": false,
+                "xdd_value": 0,
+                "hide_shipping_fee": null,
+                "edt_tracking_info": null
+            },
+            "show_grouped_channel_first": false,
+            "is_item_with_price_range": false,
+            "also_available_channel_icon_type": null,
+            "pre_order_text": "較長備貨( 7 個工作日寄出)",
+            "selected_late_delivery_compensation_for_drawer": null,
+            "shipping_info_text": {
+                "text_template": "(較長備貨) 預計配達時間 9月29日 - 10月6日, 運費：{shipping_fee} 起",
+                "shipping_fee": 0,
+                "edt_from": 1759085492,
+                "edt_to": 1759702466,
+                "show_shipping_fee_suffix": true,
+                "formatted_text": {
+                    "edt": {
+                        "template": "{label_pre_order_ships_in_n_days}{+opc_label_receive_by_date_range}",
+                        "format": null,
+                        "attributes": [
+                            {
+                                "type": 1,
+                                "key": "label_pre_order_ships_in_n_days",
+                                "value": {
+                                    "value_str": "較長備貨( 7 個工作日寄出)",
+                                    "value_int": null
+                                },
+                                "format": [
+                                    1,
+                                    5
+                                ],
+                                "text_color": null,
+                                "text_hex_color": "#dc720e"
+                            },
+                            {
+                                "type": 1,
+                                "key": "+opc_label_receive_by_date_range",
+                                "value": {
+                                    "value_str": " 預計配達時間 9月29日 - 10月6日",
+                                    "value_int": null
+                                },
+                                "format": null,
+                                "text_color": null,
+                                "text_hex_color": "#000000de"
+                            }
+                        ],
+                        "text_color": null,
+                        "text_hex_color": null
+                    },
+                    "shipping_fee": {
+                        "template": "運費：$0 起",
+                        "format": null,
+                        "attributes": null,
+                        "text_color": null,
+                        "text_hex_color": null
+                    },
+                    "late_delivery_compensation": null,
+                    "fbs_description": null,
+                    "display_edt_text_first_line": true
+                },
+                "highlight_free_shipping": false
+            },
+            "formatted_pre_order_text": {
+                "template": "{label_pre_order_ships_in_n_days}",
+                "format": null,
+                "attributes": [
+                    {
+                        "type": 1,
+                        "key": "label_pre_order_ships_in_n_days",
+                        "value": {
+                            "value_str": "較長備貨( 7 個工作日寄出)",
+                            "value_int": null
+                        },
+                        "format": [
+                            1,
+                            5
+                        ],
+                        "text_color": null,
+                        "text_hex_color": "#dc720e"
+                    }
+                ],
+                "text_color": null,
+                "text_hex_color": null
+            },
+            "has_free_return": null,
+            "model_id": 256537006504,
+            "delivery_address": {
+                "state": "臺北市",
+                "city": "中正區",
+                "district": null,
+                "town": null,
+                "zip_code": null,
+                "address": null,
+                "region": null,
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        "shop_vouchers": [
+            {
+                "promotionid": 1228097450180608,
+                "voucher_code": "COOL5555",
+                "signature": "9e0109271f9b7a28bda60c5b2ee0dc1a481d36f8520644efa686abd8ebc0ee95",
+                "use_type": 0,
+                "platform_type": null,
+                "voucher_market_type": 1,
+                "min_spend": 69900000,
+                "used_price": 3000000,
+                "current_spend": null,
+                "product_limit": false,
+                "quota_type": 1,
+                "percentage_claimed": 0,
+                "percentage_used": 10,
+                "start_time": 1755860400,
+                "end_time": 1763899200,
+                "collect_time": 0,
+                "claim_start_time": 0,
+                "valid_days": 0,
+                "reward_type": 0,
+                "reward_percentage": 0,
+                "reward_value": 3000000,
+                "reward_cap": 0,
+                "coin_earned": null,
+                "title": null,
+                "use_link": null,
+                "icon_hash": "tw-11134216-7r98s-lztdq5sjob1w1b",
+                "icon_text": "💋钱多多▪️美妆全球购 💄₊‧✩*",
+                "icon_url": null,
+                "customised_labels": [],
+                "customised_product_scope_tags": null,
+                "shop_id": 489663226,
+                "shop_name": "💋钱多多▪️美妆全球购 💄₊‧✩*",
+                "is_shop_preferred": false,
+                "is_shop_official": false,
+                "shop_count": null,
+                "ui_display_type": null,
+                "customised_mall_name": null,
+                "small_icon_list": null,
+                "dp_category_name": null,
+                "invalid_message_code": null,
+                "invalid_message": null,
+                "display_labels": null,
+                "wallet_redeemable": false,
+                "customer_reference_id": "SHOP-45E8B218422202280000001011505504",
+                "fully_redeemed": null,
+                "has_expired": null,
+                "disabled": null,
+                "voucher_external_market_type": null,
+                "now_food_extra_info": null,
+                "airpay_opv_extra_info": null,
+                "partner_extra_info": null,
+                "discount_value": 3000000,
+                "discount_percentage": 0,
+                "discount_cap": 0,
+                "coin_percentage": null,
+                "coin_cap": null,
+                "usage_limit": null,
+                "used_count": null,
+                "left_count": null,
+                "shopee_wallet_only": false,
+                "new_user_only": null,
+                "description": "這個頁面不支援你現在的蝦皮購物APP版本，請更新APP以繼續瀏覽。",
+                "shop_logo": "tw-11134216-7r98s-lztdq5sjob1w1b",
+                "error_code": 0,
+                "is_claimed_before": false,
+                "customised_product_scope_tag_image_hash": null,
+                "usage_limit_per_user": 1,
+                "remaining_usage_limit": 1,
+                "action": null,
+                "sub_icon_text": null,
+                "is_customised_icon": null,
+                "fixed_flag": null,
+                "customised_flag": null,
+                "fsv_voucher_card_ui_info": null
+            },
+            {
+                "promotionid": 1228096695205888,
+                "voucher_code": "COOL1111",
+                "signature": "1b21d926202919e3baf32d2699df78d467123d8ba72c33ffc8a1b1be428aa08e",
+                "use_type": 0,
+                "platform_type": null,
+                "voucher_market_type": 1,
+                "min_spend": 29900000,
+                "used_price": 1500000,
+                "current_spend": null,
+                "product_limit": false,
+                "quota_type": 1,
+                "percentage_claimed": 0,
+                "percentage_used": 10,
+                "start_time": 1755860280,
+                "end_time": 1763899080,
+                "collect_time": 0,
+                "claim_start_time": 0,
+                "valid_days": 0,
+                "reward_type": 0,
+                "reward_percentage": 0,
+                "reward_value": 1500000,
+                "reward_cap": 0,
+                "coin_earned": null,
+                "title": null,
+                "use_link": null,
+                "icon_hash": "tw-11134216-7r98s-lztdq5sjob1w1b",
+                "icon_text": "💋钱多多▪️美妆全球购 💄₊‧✩*",
+                "icon_url": null,
+                "customised_labels": [],
+                "customised_product_scope_tags": null,
+                "shop_id": 489663226,
+                "shop_name": "💋钱多多▪️美妆全球购 💄₊‧✩*",
+                "is_shop_preferred": false,
+                "is_shop_official": false,
+                "shop_count": null,
+                "ui_display_type": null,
+                "customised_mall_name": null,
+                "small_icon_list": null,
+                "dp_category_name": null,
+                "invalid_message_code": null,
+                "invalid_message": null,
+                "display_labels": null,
+                "wallet_redeemable": false,
+                "customer_reference_id": "SHOP-68C5B218422202280000001011505504",
+                "fully_redeemed": null,
+                "has_expired": null,
+                "disabled": null,
+                "voucher_external_market_type": null,
+                "now_food_extra_info": null,
+                "airpay_opv_extra_info": null,
+                "partner_extra_info": null,
+                "discount_value": 1500000,
+                "discount_percentage": 0,
+                "discount_cap": 0,
+                "coin_percentage": null,
+                "coin_cap": null,
+                "usage_limit": null,
+                "used_count": null,
+                "left_count": null,
+                "shopee_wallet_only": false,
+                "new_user_only": null,
+                "description": "這個頁面不支援你現在的蝦皮購物APP版本，請更新APP以繼續瀏覽。",
+                "shop_logo": "tw-11134216-7r98s-lztdq5sjob1w1b",
+                "error_code": 0,
+                "is_claimed_before": false,
+                "customised_product_scope_tag_image_hash": null,
+                "usage_limit_per_user": 1,
+                "remaining_usage_limit": 1,
+                "action": null,
+                "sub_icon_text": null,
+                "is_customised_icon": null,
+                "fixed_flag": null,
+                "customised_flag": null,
+                "fsv_voucher_card_ui_info": null
+            },
+            {
+                "promotionid": 1212680387985408,
+                "voucher_code": "COOL1010",
+                "signature": "3cd40dc1e7aa0c1341b6fbbe29a6ffb9802c461b0f60146d6b924e1d8209bf94",
+                "use_type": 0,
+                "platform_type": null,
+                "voucher_market_type": 1,
+                "min_spend": 14800000,
+                "used_price": 1000000,
+                "current_spend": null,
+                "product_limit": false,
+                "quota_type": 1,
+                "percentage_claimed": 0,
+                "percentage_used": 10,
+                "start_time": 1754022540,
+                "end_time": 1762061340,
+                "collect_time": 0,
+                "claim_start_time": 0,
+                "valid_days": 0,
+                "reward_type": 0,
+                "reward_percentage": 0,
+                "reward_value": 1000000,
+                "reward_cap": 0,
+                "coin_earned": null,
+                "title": null,
+                "use_link": null,
+                "icon_hash": "tw-11134216-7r98s-lztdq5sjob1w1b",
+                "icon_text": "💋钱多多▪️美妆全球购 💄₊‧✩*",
+                "icon_url": null,
+                "customised_labels": [
+                    {
+                        "content": "新客折價券"
+                    }
+                ],
+                "customised_product_scope_tags": null,
+                "shop_id": 489663226,
+                "shop_name": "💋钱多多▪️美妆全球购 💄₊‧✩*",
+                "is_shop_preferred": false,
+                "is_shop_official": false,
+                "shop_count": null,
+                "ui_display_type": null,
+                "customised_mall_name": null,
+                "small_icon_list": null,
+                "dp_category_name": null,
+                "invalid_message_code": null,
+                "invalid_message": null,
+                "display_labels": null,
+                "wallet_redeemable": false,
+                "customer_reference_id": "SHOP-AE1D50084A0202280000001010545451",
+                "fully_redeemed": null,
+                "has_expired": null,
+                "disabled": null,
+                "voucher_external_market_type": null,
+                "now_food_extra_info": null,
+                "airpay_opv_extra_info": null,
+                "partner_extra_info": null,
+                "discount_value": 1000000,
+                "discount_percentage": 0,
+                "discount_cap": 0,
+                "coin_percentage": null,
+                "coin_cap": null,
+                "usage_limit": null,
+                "used_count": null,
+                "left_count": null,
+                "shopee_wallet_only": false,
+                "new_user_only": null,
+                "description": "這個頁面不支援你現在的蝦皮購物APP版本，請更新APP以繼續瀏覽。",
+                "shop_logo": "tw-11134216-7r98s-lztdq5sjob1w1b",
+                "error_code": 0,
+                "is_claimed_before": false,
+                "customised_product_scope_tag_image_hash": null,
+                "usage_limit_per_user": 1,
+                "remaining_usage_limit": 1,
+                "action": null,
+                "sub_icon_text": null,
+                "is_customised_icon": null,
+                "fixed_flag": null,
+                "customised_flag": null,
+                "fsv_voucher_card_ui_info": null
+            },
+            {
+                "promotionid": 1228095965396992,
+                "voucher_code": "COOL8585",
+                "signature": "fbb1a8a018ac5556bfe548e59ec7ecb4ceebd70337755b24c2e9f43b5ed4f9a7",
+                "use_type": 0,
+                "platform_type": null,
+                "voucher_market_type": 1,
+                "min_spend": 19900000,
+                "used_price": 1000000,
+                "current_spend": null,
+                "product_limit": false,
+                "quota_type": 1,
+                "percentage_claimed": 0,
+                "percentage_used": 10,
+                "start_time": 1755860160,
+                "end_time": 1763898960,
+                "collect_time": 0,
+                "claim_start_time": 0,
+                "valid_days": 0,
+                "reward_type": 0,
+                "reward_percentage": 0,
+                "reward_value": 1000000,
+                "reward_cap": 0,
+                "coin_earned": null,
+                "title": null,
+                "use_link": null,
+                "icon_hash": "tw-11134216-7r98s-lztdq5sjob1w1b",
+                "icon_text": "💋钱多多▪️美妆全球购 💄₊‧✩*",
+                "icon_url": null,
+                "customised_labels": [],
+                "customised_product_scope_tags": null,
+                "shop_id": 489663226,
+                "shop_name": "💋钱多多▪️美妆全球购 💄₊‧✩*",
+                "is_shop_preferred": false,
+                "is_shop_official": false,
+                "shop_count": null,
+                "ui_display_type": null,
+                "customised_mall_name": null,
+                "small_icon_list": null,
+                "dp_category_name": null,
+                "invalid_message_code": null,
+                "invalid_message": null,
+                "display_labels": null,
+                "wallet_redeemable": false,
+                "customer_reference_id": "SHOP-BBF77218422202280000001011505504",
+                "fully_redeemed": null,
+                "has_expired": null,
+                "disabled": null,
+                "voucher_external_market_type": null,
+                "now_food_extra_info": null,
+                "airpay_opv_extra_info": null,
+                "partner_extra_info": null,
+                "discount_value": 1000000,
+                "discount_percentage": 0,
+                "discount_cap": 0,
+                "coin_percentage": null,
+                "coin_cap": null,
+                "usage_limit": null,
+                "used_count": null,
+                "left_count": null,
+                "shopee_wallet_only": false,
+                "new_user_only": null,
+                "description": "這個頁面不支援你現在的蝦皮購物APP版本，請更新APP以繼續瀏覽。",
+                "shop_logo": "tw-11134216-7r98s-lztdq5sjob1w1b",
+                "error_code": 0,
+                "is_claimed_before": false,
+                "customised_product_scope_tag_image_hash": null,
+                "usage_limit_per_user": 1,
+                "remaining_usage_limit": 1,
+                "action": null,
+                "sub_icon_text": null,
+                "is_customised_icon": null,
+                "fixed_flag": null,
+                "customised_flag": null,
+                "fsv_voucher_card_ui_info": null
+            },
+            {
+                "promotionid": 1228097240465408,
+                "voucher_code": "COOL4444",
+                "signature": "575020b6e15e685a9ec4e711bf106777f54d6c3c3dc8b9db5cab935b0d60e2d0",
+                "use_type": 0,
+                "platform_type": null,
+                "voucher_market_type": 1,
+                "min_spend": 99600000,
+                "used_price": 5000000,
+                "current_spend": null,
+                "product_limit": false,
+                "quota_type": 1,
+                "percentage_claimed": 0,
+                "percentage_used": 10,
+                "start_time": 1755860340,
+                "end_time": 1763899140,
+                "collect_time": 0,
+                "claim_start_time": 0,
+                "valid_days": 0,
+                "reward_type": 0,
+                "reward_percentage": 0,
+                "reward_value": 5000000,
+                "reward_cap": 0,
+                "coin_earned": null,
+                "title": null,
+                "use_link": null,
+                "icon_hash": "tw-11134216-7r98s-lztdq5sjob1w1b",
+                "icon_text": "💋钱多多▪️美妆全球购 💄₊‧✩*",
+                "icon_url": null,
+                "customised_labels": [],
+                "customised_product_scope_tags": null,
+                "shop_id": 489663226,
+                "shop_name": "💋钱多多▪️美妆全球购 💄₊‧✩*",
+                "is_shop_preferred": false,
+                "is_shop_official": false,
+                "shop_count": null,
+                "ui_display_type": null,
+                "customised_mall_name": null,
+                "small_icon_list": null,
+                "dp_category_name": null,
+                "invalid_message_code": null,
+                "invalid_message": null,
+                "display_labels": null,
+                "wallet_redeemable": false,
+                "customer_reference_id": "SHOP-ECCDF218422202280000001011505504",
+                "fully_redeemed": null,
+                "has_expired": null,
+                "disabled": null,
+                "voucher_external_market_type": null,
+                "now_food_extra_info": null,
+                "airpay_opv_extra_info": null,
+                "partner_extra_info": null,
+                "discount_value": 5000000,
+                "discount_percentage": 0,
+                "discount_cap": 0,
+                "coin_percentage": null,
+                "coin_cap": null,
+                "usage_limit": null,
+                "used_count": null,
+                "left_count": null,
+                "shopee_wallet_only": false,
+                "new_user_only": null,
+                "description": "這個頁面不支援你現在的蝦皮購物APP版本，請更新APP以繼續瀏覽。",
+                "shop_logo": "tw-11134216-7r98s-lztdq5sjob1w1b",
+                "error_code": 9,
+                "is_claimed_before": false,
+                "customised_product_scope_tag_image_hash": null,
+                "usage_limit_per_user": 1,
+                "remaining_usage_limit": 1,
+                "action": null,
+                "sub_icon_text": null,
+                "is_customised_icon": null,
+                "fixed_flag": null,
+                "customised_flag": null,
+                "fsv_voucher_card_ui_info": null
+            },
+            {
+                "promotionid": 1228096972161024,
+                "voucher_code": "COOL3333",
+                "signature": "d48f146574ec0278fc79f432e2edb6902a2e40a9a694d1e7daef12f90b8fc9c7",
+                "use_type": 0,
+                "platform_type": null,
+                "voucher_market_type": 1,
+                "min_spend": 159900000,
+                "used_price": 10000000,
+                "current_spend": null,
+                "product_limit": false,
+                "quota_type": 1,
+                "percentage_claimed": 0,
+                "percentage_used": 10,
+                "start_time": 1755860340,
+                "end_time": 1763899140,
+                "collect_time": 0,
+                "claim_start_time": 0,
+                "valid_days": 0,
+                "reward_type": 0,
+                "reward_percentage": 0,
+                "reward_value": 10000000,
+                "reward_cap": 0,
+                "coin_earned": null,
+                "title": null,
+                "use_link": null,
+                "icon_hash": "tw-11134216-7r98s-lztdq5sjob1w1b",
+                "icon_text": "💋钱多多▪️美妆全球购 💄₊‧✩*",
+                "icon_url": null,
+                "customised_labels": [],
+                "customised_product_scope_tags": null,
+                "shop_id": 489663226,
+                "shop_name": "💋钱多多▪️美妆全球购 💄₊‧✩*",
+                "is_shop_preferred": false,
+                "is_shop_official": false,
+                "shop_count": null,
+                "ui_display_type": null,
+                "customised_mall_name": null,
+                "small_icon_list": null,
+                "dp_category_name": null,
+                "invalid_message_code": null,
+                "invalid_message": null,
+                "display_labels": null,
+                "wallet_redeemable": false,
+                "customer_reference_id": "SHOP-E9E5F21C422202280000001011505504",
+                "fully_redeemed": null,
+                "has_expired": null,
+                "disabled": null,
+                "voucher_external_market_type": null,
+                "now_food_extra_info": null,
+                "airpay_opv_extra_info": null,
+                "partner_extra_info": null,
+                "discount_value": 10000000,
+                "discount_percentage": 0,
+                "discount_cap": 0,
+                "coin_percentage": null,
+                "coin_cap": null,
+                "usage_limit": null,
+                "used_count": null,
+                "left_count": null,
+                "shopee_wallet_only": false,
+                "new_user_only": null,
+                "description": "這個頁面不支援你現在的蝦皮購物APP版本，請更新APP以繼續瀏覽。",
+                "shop_logo": "tw-11134216-7r98s-lztdq5sjob1w1b",
+                "error_code": 9,
+                "is_claimed_before": false,
+                "customised_product_scope_tag_image_hash": null,
+                "usage_limit_per_user": 1,
+                "remaining_usage_limit": 1,
+                "action": null,
+                "sub_icon_text": null,
+                "is_customised_icon": null,
+                "fixed_flag": null,
+                "customised_flag": null,
+                "fsv_voucher_card_ui_info": null
+            }
+        ],
+        "free_return": null,
+        "coin_info": {
+            "spend_cash_unit": 100000,
+            "coin_earn_items": [],
+            "coin_earn_label": null
+        },
+        "product_attributes": {
+            "attrs": [
+                {
+                    "name": "商品數量",
+                    "value": "32",
+                    "id": null,
+                    "is_timestamp": null,
+                    "brand_option": null,
+                    "val_id": null,
+                    "url": null,
+                    "brand_id": null,
+                    "full_url": null,
+                    "type": 7,
+                    "item_attribute_type": null,
+                    "name_tr": null,
+                    "value_tr": null
+                },
+                {
+                    "name": "出貨地",
+                    "value": "桃園市大園區",
+                    "id": null,
+                    "is_timestamp": null,
+                    "brand_option": null,
+                    "val_id": null,
+                    "url": null,
+                    "brand_id": null,
+                    "full_url": null,
+                    "type": 6,
+                    "item_attribute_type": null,
+                    "name_tr": null,
+                    "value_tr": null
+                }
+            ],
+            "categories": [
+                {
+                    "catid": 11041691,
+                    "display_name": "美妝保養",
+                    "no_sub": false,
+                    "is_default_subcat": false
+                },
+                {
+                    "catid": 11041752,
+                    "display_name": "醫美清潔保養",
+                    "no_sub": false,
+                    "is_default_subcat": false
+                },
+                {
+                    "catid": 11046882,
+                    "display_name": "精華液",
+                    "no_sub": true,
+                    "is_default_subcat": false
+                }
+            ],
+            "related_items": []
+        },
+        "shop_detailed": {
+            "shopid": 489663226,
+            "userid": 489682804,
+            "last_active_time": 1758372262,
+            "vacation": false,
+            "place": "桃園市大園區",
+            "account": {
+                "portrait": "tw-11134216-7r98s-lztdq5sjob1w1b",
+                "username": "cool7421",
+                "status": 1
+            },
+            "is_shopee_verified": false,
+            "is_preferred_plus_seller": false,
+            "is_official_shop": false,
+            "shop_location": "桃園市大園區",
+            "item_count": 2178,
+            "rating_star": 4.866313,
+            "response_rate": 100,
+            "session_info": null,
+            "name": "💋钱多多▪️美妆全球购 💄₊‧✩*",
+            "ctime": 1626276882,
+            "response_time": 3310,
+            "follower_count": 878,
+            "show_official_shop_label": false,
+            "rating_bad": 15,
+            "rating_good": 1684,
+            "rating_normal": 30,
+            "session_infos": null,
+            "status": 1,
+            "is_individual_seller": null,
+            "is_mart": false,
+            "favorite_shop_info": null,
+            "is_3pf": false,
+            "sold_total": 46227,
+            "is_shopee_choice": false,
+            "is_high_end": false,
+            "banner": {
+                "shopee_choice": null
+            },
+            "authorized_brand": null,
+            "is_scs": false,
+            "shop_location_tr": null,
+            "sold_total_display": null,
+            "is_outlet": false,
+            "display_fbs_logo": false
+        },
+        "age_gate_control": null,
+        "abnormal_popup": null,
+        "return_on_spot": null,
+        "display_sections": {
+            "add_on_deal": null,
+            "bundle_deal": {
+                "type": 0,
+                "text": "2 件 9.9折",
+                "color": "primary",
+                "display": "bundle_deal",
+                "background_color": "",
+                "exclusive_price": null
+            },
+            "exclusive_price_label": null,
+            "free_return": null,
+            "coin": null,
+            "wholesale": null
+        },
+        "ineligible_ep": null,
+        "tax_disclaimer": null,
+        "alcohol_disclaimer": null,
+        "design_control": {
+            "use_new_revamp_first_screen": null,
+            "display_on_time_delivery_guarantee": true,
+            "disable_price_with_variation": false,
+            "display_direct_delivery": false,
+            "use_new_featured_video_revamp": null,
+            "first_screen_revamp_abtest_group": null,
+            "display_choice_customised_section": false,
+            "is_support_fbs_enabled": false,
+            "top_section_featured_video_ab_test_group": null,
+            "enable_ksp_config": null,
+            "disable_main_page_select_variation": null,
+            "support_shop_review_preview": null,
+            "pdp_revamp_phase1_improvement_ui_review_down": null,
+            "display_fashion_attributes": null,
+            "display_fashion_review_section": null,
+            "display_fashion_first_screen": null,
+            "enable_fashion_review_improvements": null,
+            "display_fbs_floating_counter": null,
+            "display_shipping_drawer_new_free_shipping_text": false,
+            "display_shipping_drawer_new_free_shipping_ui": false
+        },
+        "shopee_free_return": null,
+        "detail_level": 0,
+        "removed_fields": null,
+        "size_guide": null,
+        "designer_info": null,
+        "shipping_info": null,
+        "vehicle_compatibility_info": null,
+        "nea": null,
+        "button_group": {
+            "buy_with_voucher": null,
+            "ineligible_user_platform_exclusive_sku": null
+        },
+        "installment_drawer": {
+            "priority": [
+                0,
+                1
+            ],
+            "spl": null,
+            "bank": {
+                "channels": null
+            },
+            "credit_card": null
+        },
+        "ongoing_banner": null,
+        "teaser_banner": null,
+        "price_breakdown": {
+            "price": {
+                "single_value": 94100000,
+                "range_min": -1,
+                "range_max": -1,
+                "price_mask": null
+            },
+            "price_before_discount": {
+                "single_value": 198000000,
+                "range_min": -1,
+                "range_max": -1,
+                "price_mask": null
+            },
+            "discount_breakdown": [
+                {
+                    "type": 0,
+                    "price_source": "商品折扣",
+                    "discount_amount": 100900000,
+                    "exclusive_price": null,
+                    "shop_voucher": null,
+                    "platform_voucher": null
+                },
+                {
+                    "type": 2,
+                    "price_source": "賣場優惠券",
+                    "discount_amount": 3000000,
+                    "exclusive_price": null,
+                    "shop_voucher": {
+                        "min_spend": 69900000,
+                        "discount_type": 0,
+                        "discount_value": 3000000,
+                        "discount_percentage": null
+                    },
+                    "platform_voucher": null
+                }
+            ]
+        },
+        "membership_exclusive": null,
+        "membership_exclusive_teaser": null,
+        "service_entrance": {
+            "services": [
+                {
+                    "text": "蝦皮放心買",
+                    "type": null,
+                    "id": 52
+                },
+                {
+                    "text": "蝦皮安心退",
+                    "type": null,
+                    "id": 51
+                }
+            ]
+        },
+        "service_drawer": {
+            "services": [
+                {
+                    "title": "蝦皮放心買",
+                    "description": "除了賣家實名認證跟商品合規檢驗外，蝦皮也實行賣家計分管理，針對營運表現不佳的賣家進行取締。管理項目包含訂單未完成率、延遲出貨率、違反上架規範等。",
+                    "type": null,
+                    "free_return": null,
+                    "insurance": null,
+                    "id": 52,
+                    "redirection_url": "https://shopee.tw/m/worry-free#anchorId-1737101390274",
+                    "icon": "tw-11134258-7rbkc-m8vjh2lirw12cc",
+                    "insurance_drawer": null
+                },
+                {
+                    "title": "蝦皮安心退",
+                    "description": "蝦皮安心退由蝦皮協助審核，您無須先與賣家溝通，一鍵即可申請退貨。除特殊退貨物流，您也無須負擔退貨運費。        ",
+                    "type": null,
+                    "free_return": null,
+                    "insurance": null,
+                    "id": 51,
+                    "redirection_url": "https://shopee.tw/m/newrr",
+                    "icon": "tw-11134258-7rasm-m2rus0ffw963d1",
+                    "insurance_drawer": null
+                }
+            ]
+        },
+        "trade_in": null,
+        "product_description": {
+            "paragraph_list": [
+                {
+                    "type": 0,
+                    "text": "*✩‧₊歡迎光臨 💋钱多多▪️美妆全球购 💄₊‧✩*\r",
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 0,
+                    "text": "\r",
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 0,
+                    "text": "1️⃣ 關注賣場，全場下單無門檻立減$20元\r",
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 0,
+                    "text": "\r",
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 0,
+                    "text": "2️⃣賣場內商品均是薄利多銷...需要購滿99元（不含運費）才能安排出貨的了๑′ᴗ‵๑\r",
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 0,
+                    "text": "\r",
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 0,
+                    "text": "3️⃣有現貨的訂單1-3天安排訂單，訂單有預售的商品需等商品到齊後才能出貨！\r",
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 0,
+                    "text": "\r",
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 0,
+                    "text": "4️⃣下單前請三思不要隨意取消訂單，損失很大，壓力會很大的唷❗✔️我們的商品都是精心挑選的，請放心購買，祝您購物愉快✔️\r",
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 0,
+                    "text": "\r",
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 0,
+                    "text": "📢如果您收到的商品有問題，少發貨、有瑕疵，首先聯繫客服！\r",
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 0,
+                    "text": "\r",
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 0,
+                    "text": "【聊聊諮詢】\r",
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 0,
+                    "text": "\r",
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 0,
+                    "text": "⏲客服時間：每日早10:00—晚01:30\r",
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 0,
+                    "text": "\r",
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 0,
+                    "text": "🔍線上快速諮詢，有任何問題歡迎詢問，善用聊聊，有專人在線為您服務。\r",
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 0,
+                    "text": "\r",
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 0,
+                    "text": "⚠如收到產品時發現產品異常，請拍商品照片和貨單，傳至聊聊，客服人員上班時間會馬上為您處理\r",
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 0,
+                    "text": "\r",
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 0,
+                    "text": "🎊聊聊訊息大量，客服人員依序處理，如我們在忙沒有即時回覆您的聊聊，請您稍微等待，請勿用評價作溝通管道哦!\r",
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 0,
+                    "text": "\r",
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 0,
+                    "text": "💖喜歡我們商品與服務，歡迎給我們滿滿⭐️⭐️⭐️⭐️⭐️顆星哦!好評後截圖聊聊客服領取內部優惠券唷！👍",
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                }
+            ],
+            "source_language": ""
+        },
+        "selected_tiers": {
+            "0": 0
+        },
+        "size_info": null,
+        "size_recommendation": null
+    }
+}

@@ -1,0 +1,2029 @@
+{
+    "bff_meta": null,
+    "error": null,
+    "error_msg": null,
+    "data": {
+        "item": {
+            "item_id": 42203575102,
+            "shop_id": 1111381674,
+            "item_status": "normal",
+            "status": 1,
+            "item_type": 0,
+            "reference_item_id": "",
+            "title": "🔥免運🔥台灣現貨🔥美寇傳奇黃金玻尿酸精華液 收敛毛孔緊膚撫紋補水保濕減少痘痘臉部保濕精華 保濕 精華液膠原蛋白",
+            "image": "tw-11134207-7rbk0-mapo5gvck5zs4a",
+            "label_ids": [
+                298843331,
+                23,
+                998021028,
+                1400635031,
+                844931086908638,
+                844931064601283,
+                822059780857868,
+                840902217782303,
+                1400285049,
+                1948020501544471,
+                822120594703895,
+                822120594705943,
+                840902217783839,
+                298938379,
+                1428713,
+                1718087960,
+                1718088130,
+                298928346,
+                298928357,
+                2113635,
+                997936212,
+                4199820315223063,
+                829091185487422,
+                2103670,
+                298933322,
+                2143620,
+                2158586,
+                2158594,
+                1007681,
+                2103622,
+                700810068,
+                1016184,
+                700810059,
+                700815074,
+                998156045,
+                2158615,
+                2158622,
+                700810039,
+                1400705016,
+                2158642,
+                2158664,
+                298983331,
+                298983332,
+                700830009,
+                298983333,
+                700805071,
+                2153584,
+                298983308
+            ],
+            "is_adult": false,
+            "is_preview": false,
+            "flag": 196608,
+            "is_service_by_shopee": false,
+            "condition": 1,
+            "cat_id": 100630,
+            "has_low_fulfillment_rate": false,
+            "is_live_streaming_price": null,
+            "currency": "TWD",
+            "brand": null,
+            "brand_id": 0,
+            "show_discount": 54,
+            "ctime": 1749305127,
+            "item_rating": {
+                "rating_star": 5
+            },
+            "cb_option": 0,
+            "has_model_with_available_shopee_stock": false,
+            "shop_location": "苗栗縣竹南鎮",
+            "attributes": [
+                {
+                    "name": "容量",
+                    "value": "100ml",
+                    "id": 100248,
+                    "is_timestamp": false,
+                    "brand_option": null,
+                    "val_id": 533,
+                    "url": null,
+                    "brand_id": null,
+                    "full_url": null,
+                    "type": null,
+                    "item_attribute_type": null,
+                    "name_tr": null,
+                    "value_tr": null
+                }
+            ],
+            "rich_text_description": {
+                "paragraph_list": [
+                    {
+                        "type": 0,
+                        "text": "是否進口：否",
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "品牌類型：精品國貨",
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "適用膚質：通用",
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "規格：正常規格",
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "特殊用途化妝品：否",
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "保質期：3年",
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "淨含量：100g/ml",
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "産地：廣州",
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "化妝品功效：保濕,控油,收縮毛孔,補水,補水保濕,提亮膚色,滋潤,柔潤肌膚",
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "包裝種類：基礎包裝",
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "質地：原液",
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "適用人群：通用",
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "産品名稱：美寇傳奇黃金玻尿酸精華液",
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 1,
+                        "text": null,
+                        "img_id": "tw-11134208-7rbk8-mazi7nzk87w941",
+                        "ratio": 2.086,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 1,
+                        "text": null,
+                        "img_id": "tw-11134208-7rbk5-mapoadp87xsm7e",
+                        "ratio": 0.818,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 1,
+                        "text": null,
+                        "img_id": "tw-11134208-7rbke-mapoadp7shjqe8",
+                        "ratio": 0.876,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 1,
+                        "text": null,
+                        "img_id": "tw-11134208-7rbke-mapoadphs2xi60",
+                        "ratio": 1.157,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 1,
+                        "text": null,
+                        "img_id": "tw-11134208-7rbk5-mapoadphs31422",
+                        "ratio": 0.861,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 1,
+                        "text": null,
+                        "img_id": "tw-11134208-7rbk1-mapoadp8ne1i45",
+                        "ratio": 1.158,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 1,
+                        "text": null,
+                        "img_id": "tw-11134208-7rbk7-mapoadp87xw883",
+                        "ratio": 0.898,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 1,
+                        "text": null,
+                        "img_id": "tw-11134208-7rbk0-mapoadp7shncf8",
+                        "ratio": 0.63,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 1,
+                        "text": null,
+                        "img_id": "tw-11134208-7rbk3-mapoadsjnm8o25",
+                        "ratio": 0.666,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 1,
+                        "text": null,
+                        "img_id": "tw-11134208-7rbk2-mapoadp7tw46f4",
+                        "ratio": 0.783,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 1,
+                        "text": null,
+                        "img_id": "tw-11134208-7rbka-mapoadp7vaomae",
+                        "ratio": 0.87,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    }
+                ],
+                "source_language": null
+            },
+            "invoice_option": null,
+            "is_category_failed": null,
+            "is_prescription_item": false,
+            "preview_info": null,
+            "show_prescription_feed": false,
+            "is_alcohol_product": false,
+            "is_infant_milk_formula_product": false,
+            "is_unavailable": false,
+            "is_partial_fulfilled": false,
+            "is_presale": false,
+            "is_presale_deposit_item": null,
+            "is_presale_deposit_made": null,
+            "description": "是否進口：否\n品牌類型：精品國貨\n適用膚質：通用\n規格：正常規格\n特殊用途化妝品：否\n保質期：3年\n淨含量：100g/ml\n産地：廣州\n化妝品功效：保濕,控油,收縮毛孔,補水,補水保濕,提亮膚色,滋潤,柔潤肌膚\n包裝種類：基礎包裝\n質地：原液\n適用人群：通用\n産品名稱：美寇傳奇黃金玻尿酸精華液\n\n",
+            "categories": [
+                {
+                    "catid": 100630,
+                    "display_name": "美妝保養",
+                    "no_sub": false,
+                    "is_default_subcat": false
+                },
+                {
+                    "catid": 100664,
+                    "display_name": "肌膚保養",
+                    "no_sub": false,
+                    "is_default_subcat": false
+                },
+                {
+                    "catid": 100896,
+                    "display_name": "精華液",
+                    "no_sub": true,
+                    "is_default_subcat": false
+                }
+            ],
+            "fe_categories": [
+                {
+                    "catid": 11041691,
+                    "display_name": "美妝保養",
+                    "no_sub": false,
+                    "is_default_subcat": false
+                },
+                {
+                    "catid": 11041752,
+                    "display_name": "醫美清潔保養",
+                    "no_sub": false,
+                    "is_default_subcat": false
+                },
+                {
+                    "catid": 11046882,
+                    "display_name": "精華液",
+                    "no_sub": true,
+                    "is_default_subcat": false
+                }
+            ],
+            "item_has_video": false,
+            "presale_dday_start_time": null,
+            "is_lowest_price_at_shopee": null,
+            "display_description_disclosure_rsku_redirection": null,
+            "display_similar_sold": null,
+            "title_type": 1,
+            "authorized_brand_name": null,
+            "models": [
+                {
+                    "item_id": 42203575102,
+                    "status": 1,
+                    "current_promotion_reserved_stock": 0,
+                    "name": "美寇傳奇黃金玻尿酸精華液100ml",
+                    "promotion_id": 666696458190848,
+                    "price": 13800000,
+                    "price_stocks": [
+                        {
+                            "allocated_stock": 0,
+                            "stock_breakdown_by_location": null,
+                            "promotion_type": 301
+                        },
+                        {
+                            "allocated_stock": 0,
+                            "stock_breakdown_by_location": [
+                                {
+                                    "location_id": "TWZ",
+                                    "available_stock": 976,
+                                    "fulfilment_type": 2,
+                                    "address_id": 0,
+                                    "allocated_stock": null
+                                }
+                            ],
+                            "promotion_type": 0
+                        }
+                    ],
+                    "current_promotion_has_reserve_stock": false,
+                    "normal_stock": 976,
+                    "extinfo": {
+                        "tier_index": [
+                            0
+                        ],
+                        "is_pre_order": false,
+                        "estimated_days": 1
+                    },
+                    "price_before_discount": 29900000,
+                    "model_id": 227861662854,
+                    "stock": 976,
+                    "has_gimmick_tag": false,
+                    "key_measurement": null,
+                    "sold": 18,
+                    "is_lowest_price_at_shopee": false,
+                    "name_tr": null,
+                    "is_clickable": true,
+                    "is_grayout": false,
+                    "has_stock": true
+                },
+                {
+                    "item_id": 42203575102,
+                    "status": 1,
+                    "current_promotion_reserved_stock": 0,
+                    "name": "買3送1（下訂3發4）單瓶價",
+                    "promotion_id": 666696458190848,
+                    "price": 13800000,
+                    "price_stocks": [
+                        {
+                            "allocated_stock": 0,
+                            "stock_breakdown_by_location": null,
+                            "promotion_type": 301
+                        },
+                        {
+                            "allocated_stock": 0,
+                            "stock_breakdown_by_location": [
+                                {
+                                    "location_id": "TWZ",
+                                    "available_stock": 986,
+                                    "fulfilment_type": 2,
+                                    "address_id": 0,
+                                    "allocated_stock": null
+                                }
+                            ],
+                            "promotion_type": 0
+                        }
+                    ],
+                    "current_promotion_has_reserve_stock": false,
+                    "normal_stock": 986,
+                    "extinfo": {
+                        "tier_index": [
+                            1
+                        ],
+                        "is_pre_order": false,
+                        "estimated_days": 1
+                    },
+                    "price_before_discount": 29900000,
+                    "model_id": 306203762079,
+                    "stock": 986,
+                    "has_gimmick_tag": false,
+                    "key_measurement": null,
+                    "sold": 3,
+                    "is_lowest_price_at_shopee": false,
+                    "name_tr": null,
+                    "is_clickable": true,
+                    "is_grayout": false,
+                    "has_stock": true
+                }
+            ],
+            "tier_variations": [
+                {
+                    "name": "規格",
+                    "options": [
+                        "美寇傳奇黃金玻尿酸精華液100ml",
+                        "買3送1（下訂3發4）單瓶價"
+                    ],
+                    "images": [
+                        "tw-11134207-7rbkd-mapo60ldtc2g36",
+                        "tw-11134207-7ra0o-md36ct0gtohr85"
+                    ],
+                    "properties": null,
+                    "type": 0,
+                    "summed_stocks": null,
+                    "display_indicators": [
+                        0,
+                        0
+                    ],
+                    "name_tr": null,
+                    "options_tr": null,
+                    "selling_points": [
+                        "",
+                        ""
+                    ],
+                    "selling_points_tr": null
+                }
+            ],
+            "size_chart": null,
+            "size_chart_info": null,
+            "welcome_package_type": 0,
+            "is_free_gift": false,
+            "deep_discount": null,
+            "is_low_price_eligible": null,
+            "bundle_deal_info": {
+                "bundle_deal_id": 372394607263803,
+                "bundle_deal_label": "2 件 9.5折",
+                "bundle_deal_rule": {
+                    "rule_type": 2,
+                    "min_amount": 2,
+                    "fix_price": 0,
+                    "discount_percentage": 5,
+                    "discount_value": 0,
+                    "additional_tiers": []
+                }
+            },
+            "add_on_deal_info": null,
+            "shipping_icon_type": 0,
+            "badge_icon_type": 0,
+            "spl_info": {
+                "installment_info": null,
+                "user_credit_info": null,
+                "channel_id": null,
+                "show_spl": true,
+                "show_spl_lite": null,
+                "spl_xtra": null,
+                "spl_motorcycle_loan": null
+            },
+            "estimated_days": 1,
+            "is_pre_order": false,
+            "is_free_shipping": false,
+            "overall_purchase_limit": null,
+            "min_purchase_limit": 1,
+            "is_hide_stock": false,
+            "stock": 1962,
+            "normal_stock": 1962,
+            "current_promotion_reserved_stock": 0,
+            "can_use_wholesale": false,
+            "wholesale_tier_list": [],
+            "price": 13800000,
+            "raw_discount": 54,
+            "hidden_price_display": null,
+            "price_min": 13800000,
+            "price_max": 13800000,
+            "price_before_discount": 29900000,
+            "price_min_before_discount": 29900000,
+            "price_max_before_discount": 29900000,
+            "other_stock": 0,
+            "discount_stock": 1962,
+            "current_promotion_has_reserve_stock": false,
+            "complaint_policy": null,
+            "show_recycling_info": null,
+            "should_show_amp_tag": true,
+            "all_models_has_pre_order": false,
+            "is_item_inherited": false,
+            "max_quantity": 1962,
+            "drug_details": null,
+            "selected_real_models": null,
+            "size_tier_variation_idx": null,
+            "is_fashion_item": false,
+            "social_proof_label": null,
+            "title_tr": null,
+            "description_tr": null,
+            "rich_text_description_tr": null,
+            "stock_display": "尚有庫存",
+            "max_quantity_display": "尚有庫存"
+        },
+        "account": {
+            "user_id": 1637295006,
+            "is_new_user": true,
+            "default_address": {
+                "state": "臺北市",
+                "city": "中正區",
+                "district": "",
+                "town": "",
+                "zip_code": null,
+                "address": null,
+                "region": null,
+                "longitude": null,
+                "latitude": null
+            },
+            "adult_consent": 0,
+            "birth_timestamp": 0
+        },
+        "product_images": {
+            "video": {
+                "video_id": "api/v4/11110105/mms/tw-11110105-6kfko-mapo6bglsn7a24.16000081749304697.mp4",
+                "thumb_url": "tw-11110105-6kfko-mapo6bglsn7a24_cover",
+                "duration": 27,
+                "version": 2,
+                "vid": "tw-11110105-6kfko-mapo6bglsn7a24",
+                "formats": [
+                    {
+                        "format": 1600008,
+                        "defn": "V720P",
+                        "profile": "MP4",
+                        "path": "api/v4/11110105/mms/tw-11110105-6kfko-mapo6bglsn7a24.16000081749304697.mp4",
+                        "url": "https://down-tx-sg.vod.susercontent.com/api/v4/11110105/mms/tw-11110105-6kfko-mapo6bglsn7a24.16000081749304697.mp4",
+                        "width": 1278,
+                        "height": 720
+                    }
+                ],
+                "default_format": {
+                    "format": 1600323,
+                    "defn": "V540P",
+                    "profile": "MP4",
+                    "path": "",
+                    "url": "https://mms.vod.susercontent.com/api/v4/11110105/mms/tw-11110105-6kfko-mapo6bglsn7a24.default.mp4",
+                    "width": 958,
+                    "height": 540
+                },
+                "mms_data": "{\"vid\":\"tw-11110105-6kfko-mapo6bglsn7a24\",\"biz\":107,\"duration\":27479,\"create_time\":1749304696,\"update_time\":1749304698,\"serviceID\":6,\"cover\":\"https://down-bs-sg.img.susercontent.com/tw-11110105-6kfko-mapo6bglsn7a24_cover\",\"formats\":[{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/tw-11110105-6kfko-mapo6bglsn7a24.16000081749304697.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/api/v4/11110105/mms/tw-11110105-6kfko-mapo6bglsn7a24.16000081749304697.mp4\",\"width\":1278,\"height\":720,\"bitrate\":624148,\"abitrate\":48492,\"duration\":27040,\"size\":2297397,\"fps\":25,\"update_time\":1749304718,\"codec\":\"H264\"}],\"extend_formats\":{\"H265\":[{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110105/mms/tw-11110105-6kfko-mapo6bglsn7a24.16003091749304894.mp4\",\"url\":\"https://down-tx-sg.vod.susercontent.com/api/v4/11110105/mms/tw-11110105-6kfko-mapo6bglsn7a24.16003091749304894.mp4\",\"width\":1278,\"height\":720,\"bitrate\":273227,\"abitrate\":48492,\"duration\":27040,\"size\":1114262,\"fps\":25,\"update_time\":1749304909,\"codec\":\"H265\"}]},\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110105/mms/tw-11110105-6kfko-mapo6bglsn7a24.default.mp4\",\"width\":958,\"height\":540,\"bitrate\":334666,\"abitrate\":32481,\"duration\":27040,\"size\":1264898,\"fps\":25,\"update_time\":1749304902,\"codec\":\"H264\"}}",
+                "item_cover": null
+            },
+            "images": [
+                "tw-11134207-7rbk0-mapo5gvck5zs4a",
+                "tw-11134207-7rbk6-mapo60ldrxi06c",
+                "tw-11134207-7rbka-mapo60ldqixkf0",
+                "tw-11134207-7rbk4-mapo60ldp4d4bc",
+                "tw-11134207-7rbkc-mapo60lnq47q72",
+                "tw-11134207-7rbkb-mapo60lnopna01",
+                "tw-11134207-7rbk9-mapo60ldp49i7f",
+                "tw-11134207-7rbkd-mapo60ldtc2g36",
+                "tw-11134207-7rbk5-mapo60lxob4o18"
+            ],
+            "first_tier_variations": [
+                {
+                    "name": "美寇傳奇黃金玻尿酸精華液100ml",
+                    "image": "tw-11134207-7rbkd-mapo60ldtc2g36",
+                    "summed_stock": 976,
+                    "display_indicator": 0,
+                    "show_find_similar": false,
+                    "name_tr": null,
+                    "selling_point": "",
+                    "selling_point_tr": null
+                },
+                {
+                    "name": "買3送1（下訂3發4）單瓶價",
+                    "image": "tw-11134207-7ra0o-md36ct0gtohr85",
+                    "summed_stock": 986,
+                    "display_indicator": 0,
+                    "show_find_similar": false,
+                    "name_tr": null,
+                    "selling_point": "",
+                    "selling_point_tr": null
+                }
+            ],
+            "sorted_variation_image_index_list": [
+                0,
+                1
+            ],
+            "overlay": {
+                "type": 0,
+                "image": "tw-11134258-81ztl-megjvsmfz4e83b",
+                "preview_end_time": null,
+                "is_pre_order": null,
+                "description": ""
+            },
+            "makeup_preview": null,
+            "abnormal_status": "",
+            "promotion_images": [],
+            "long_images": null,
+            "shopee_video_info_list": [],
+            "shopee_video_rcmd_info": null,
+            "shopee_video_req_id": null,
+            "skincam": null,
+            "pdp_top_info_list": null,
+            "has_long_image": null,
+            "show_find_similar": false,
+            "try_it_on": null,
+            "show_find_similar_for_selection": false
+        },
+        "product_price": {
+            "discount": 54,
+            "installment_info": null,
+            "spl_installment_info": null,
+            "pack_size": "",
+            "hide_price": false,
+            "price": {
+                "single_value": 13800000,
+                "range_min": -1,
+                "range_max": -1,
+                "price_mask": null
+            },
+            "price_before_discount": {
+                "single_value": 29900000,
+                "range_min": -1,
+                "range_max": -1,
+                "price_mask": null
+            },
+            "presale_price": null,
+            "lowest_past_price": null,
+            "labels": [
+                {
+                    "type": 0,
+                    "text": "2 件 9.5折",
+                    "color": "primary",
+                    "display": "bundle_deal",
+                    "exclusive_price": null,
+                    "promotion_id": 372394607263803
+                }
+            ],
+            "hide_discount": false,
+            "discount_text": null,
+            "show_final_price_indicator": null,
+            "final_price_vouchers": null,
+            "has_final_price": true,
+            "final_price_info": null
+        },
+        "flash_sale": null,
+        "flash_sale_preview": null,
+        "deep_discount": null,
+        "exclusive_price": null,
+        "exclusive_price_cta": null,
+        "product_meta": {
+            "show_lowest_price_guarantee": null,
+            "show_original_guarantee": null,
+            "show_best_price_guarantee": false,
+            "show_official_shop_label_in_title": false,
+            "show_shopee_verified_label": false,
+            "show_lowest_installment_guarantee": null,
+            "hide_sharing_button": false,
+            "hide_sold_count": false,
+            "show_description_translation_button": null
+        },
+        "product_review": {
+            "rating_star": 5,
+            "rating_count": [
+                10,
+                0,
+                0,
+                0,
+                0,
+                10
+            ],
+            "total_rating_count": 10,
+            "historical_sold": 31,
+            "global_sold": 31,
+            "liked": false,
+            "liked_count": 15,
+            "cmt_count": 10,
+            "should_move_ratings_above": null,
+            "review_rcmd_exp_group": null,
+            "display_global_sold": false,
+            "hide_rating": false,
+            "hide_buyer_gallery": false,
+            "hide_reviews": false,
+            "hide_other_product_reviews_in_shop": false,
+            "sold_count_disclosure": null,
+            "historical_sold_display": "31",
+            "global_sold_display": "31"
+        },
+        "promotion_info": {
+            "spl": null,
+            "spl_lite": null,
+            "installment": null,
+            "wholesale": null,
+            "insurance": null,
+            "item_installment_eligibility": {
+                "is_cc_installment_payment_eligible": false,
+                "is_non_cc_installment_payment_eligible": false
+            }
+        },
+        "age_gate": {
+            "kyc": null
+        },
+        "shipping_meta": null,
+        "product_shipping": {
+            "free_shipping": {
+                "min_spend": {
+                    "single_value": 14900000,
+                    "range_min": -1,
+                    "range_max": -1,
+                    "price_mask": null
+                },
+                "has_fss": false
+            },
+            "shipping_fee_info": {
+                "ship_from_location": "苗栗縣竹南鎮",
+                "price": {
+                    "single_value": -1,
+                    "range_min": 4500000,
+                    "range_max": 9000000,
+                    "price_mask": null
+                },
+                "shipping_icon_type": 0,
+                "warning": null
+            },
+            "show_shipping_to": true,
+            "ungrouped_channel_infos": [
+                {
+                    "channel_id": 30014,
+                    "name": "OK Mart",
+                    "price": {
+                        "single_value": 4500000,
+                        "range_min": -1,
+                        "range_max": -1,
+                        "price_mask": null
+                    },
+                    "price_before_discount": null,
+                    "channel_delivery_info": {
+                        "has_edt": true,
+                        "display_mode": "edt_by_date",
+                        "estimated_delivery_date_from": 1758631721,
+                        "estimated_delivery_date_to": 1758890921,
+                        "estimated_delivery_time_min": 3,
+                        "estimated_delivery_time_max": 6,
+                        "delay_message": null,
+                        "is_fastest_edt_channel": false,
+                        "sla_message": "",
+                        "show_edt": true,
+                        "edt_text": "預計配達時間 9月23日 - 9月26日",
+                        "formatted_edt_text": [
+                            {
+                                "template": "預計配達時間 9月23日 - 9月26日",
+                                "format": null,
+                                "attributes": null,
+                                "text_color": null,
+                                "text_hex_color": null
+                            }
+                        ],
+                        "formatted_pre_order_text": null,
+                        "formatted_fbs_description_text": null,
+                        "show_edt_as_header": false
+                    },
+                    "channel_promotion_infos": [
+                        {
+                            "rule_id": 359367447162880,
+                            "type": 1,
+                            "display_mode": null,
+                            "discount_off": null,
+                            "min_spend": {
+                                "single_value": 14900000,
+                                "range_min": -1,
+                                "range_max": -1,
+                                "price_mask": null
+                            },
+                            "cap": null
+                        }
+                    ],
+                    "warning": null,
+                    "shipping_icon_type": null,
+                    "lowest_bpsf_promotion_rule": null,
+                    "service_type_info": "",
+                    "is_integrated_channel": true,
+                    "late_delivery_compensation": null,
+                    "is_sst_included": false,
+                    "display_text": {
+                        "late_delivery_compensation": null,
+                        "direct_delivery": null,
+                        "fulfilled_by_shopee": null,
+                        "spx_instant_delivery": null
+                    },
+                    "rule_type": 0,
+                    "is_xdd_channel": false,
+                    "show_shopee_plus_icon": false,
+                    "xdd_value": null,
+                    "hide_shipping_fee": null,
+                    "edt_tracking_info": "{\"edt_min\":3,\"edt_max\":6,\"edt_min_hours\":72,\"edt_max_hours\":144,\"edt_display_identifier\":65545,\"buyer_address_hash\":\"1AXnLtm\"}"
+                },
+                {
+                    "channel_id": 30015,
+                    "name": "蝦皮店到店",
+                    "price": {
+                        "single_value": 4500000,
+                        "range_min": -1,
+                        "range_max": -1,
+                        "price_mask": null
+                    },
+                    "price_before_discount": null,
+                    "channel_delivery_info": {
+                        "has_edt": true,
+                        "display_mode": "edt_by_date",
+                        "estimated_delivery_date_from": 1758718121,
+                        "estimated_delivery_date_to": 1759063721,
+                        "estimated_delivery_time_min": 4,
+                        "estimated_delivery_time_max": 8,
+                        "delay_message": "免運店家滿$199無限免運; 週三週六$149無限免運",
+                        "is_fastest_edt_channel": false,
+                        "sla_message": "",
+                        "show_edt": true,
+                        "edt_text": "預計配達時間 9月24日 - 9月28日",
+                        "formatted_edt_text": [
+                            {
+                                "template": "預計配達時間 9月24日 - 9月28日",
+                                "format": null,
+                                "attributes": null,
+                                "text_color": null,
+                                "text_hex_color": null
+                            }
+                        ],
+                        "formatted_pre_order_text": null,
+                        "formatted_fbs_description_text": null,
+                        "show_edt_as_header": false
+                    },
+                    "channel_promotion_infos": [
+                        {
+                            "rule_id": 359366436339712,
+                            "type": 1,
+                            "display_mode": null,
+                            "discount_off": null,
+                            "min_spend": {
+                                "single_value": 14900000,
+                                "range_min": -1,
+                                "range_max": -1,
+                                "price_mask": null
+                            },
+                            "cap": null
+                        }
+                    ],
+                    "warning": null,
+                    "shipping_icon_type": null,
+                    "lowest_bpsf_promotion_rule": null,
+                    "service_type_info": "",
+                    "is_integrated_channel": true,
+                    "late_delivery_compensation": {
+                        "type": 1,
+                        "amount": 1000000,
+                        "is_guaranteed_edt": true,
+                        "compensation_amount": null,
+                        "text": null
+                    },
+                    "is_sst_included": false,
+                    "display_text": {
+                        "late_delivery_compensation": {
+                            "text": "如果訂單未能準時配達，您可以領取 {compensation_amount} 優惠券作為補償",
+                            "gdt_max": null,
+                            "compensation_amount": {
+                                "value": 1000000
+                            }
+                        },
+                        "direct_delivery": null,
+                        "fulfilled_by_shopee": null,
+                        "spx_instant_delivery": null
+                    },
+                    "rule_type": 0,
+                    "is_xdd_channel": false,
+                    "show_shopee_plus_icon": false,
+                    "xdd_value": null,
+                    "hide_shipping_fee": null,
+                    "edt_tracking_info": "{\"edt_min\":4,\"edt_max\":8,\"edt_min_hours\":96,\"edt_max_hours\":192,\"edt_display_identifier\":327689,\"buyer_address_hash\":\"1AXnLtm\"}"
+                },
+                {
+                    "channel_id": 30017,
+                    "name": "店到家宅配 - 標準包裹",
+                    "price": {
+                        "single_value": 6500000,
+                        "range_min": -1,
+                        "range_max": -1,
+                        "price_mask": null
+                    },
+                    "price_before_discount": null,
+                    "channel_delivery_info": {
+                        "has_edt": true,
+                        "display_mode": "edt_by_date",
+                        "estimated_delivery_date_from": 1758626356,
+                        "estimated_delivery_date_to": 1759827826,
+                        "estimated_delivery_time_min": 3,
+                        "estimated_delivery_time_max": 17,
+                        "delay_message": "免運店家滿$490免運；配送範圍限台北、新北、桃園、新竹、台中、彰化、雲林、嘉義、台南、高雄、宜蘭，部分行政區及區域除外",
+                        "is_fastest_edt_channel": false,
+                        "sla_message": "",
+                        "show_edt": true,
+                        "edt_text": "預計配達時間 9月23日 - 10月7日",
+                        "formatted_edt_text": [
+                            {
+                                "template": "預計配達時間 9月23日 - 10月7日",
+                                "format": null,
+                                "attributes": null,
+                                "text_color": null,
+                                "text_hex_color": null
+                            }
+                        ],
+                        "formatted_pre_order_text": null,
+                        "formatted_fbs_description_text": null,
+                        "show_edt_as_header": false
+                    },
+                    "channel_promotion_infos": [
+                        {
+                            "rule_id": 336316743553024,
+                            "type": 0,
+                            "display_mode": 0,
+                            "discount_off": 5000000,
+                            "min_spend": {
+                                "single_value": 29900000,
+                                "range_min": -1,
+                                "range_max": -1,
+                                "price_mask": null
+                            },
+                            "cap": 0
+                        },
+                        {
+                            "rule_id": 359367447162882,
+                            "type": 1,
+                            "display_mode": null,
+                            "discount_off": null,
+                            "min_spend": {
+                                "single_value": 49000000,
+                                "range_min": -1,
+                                "range_max": -1,
+                                "price_mask": null
+                            },
+                            "cap": null
+                        }
+                    ],
+                    "warning": null,
+                    "shipping_icon_type": null,
+                    "lowest_bpsf_promotion_rule": null,
+                    "service_type_info": "",
+                    "is_integrated_channel": true,
+                    "late_delivery_compensation": {
+                        "type": 1,
+                        "amount": 1000000,
+                        "is_guaranteed_edt": true,
+                        "compensation_amount": null,
+                        "text": null
+                    },
+                    "is_sst_included": false,
+                    "display_text": {
+                        "late_delivery_compensation": {
+                            "text": "如果訂單未能準時配達，您可以領取 {compensation_amount} 優惠券作為補償",
+                            "gdt_max": null,
+                            "compensation_amount": {
+                                "value": 1000000
+                            }
+                        },
+                        "direct_delivery": null,
+                        "fulfilled_by_shopee": null,
+                        "spx_instant_delivery": null
+                    },
+                    "rule_type": 0,
+                    "is_xdd_channel": false,
+                    "show_shopee_plus_icon": false,
+                    "xdd_value": null,
+                    "hide_shipping_fee": null,
+                    "edt_tracking_info": "{\"edt_min\":3,\"edt_max\":17,\"edt_min_hours\":71,\"edt_max_hours\":405,\"edt_display_identifier\":327689,\"buyer_address_hash\":\"1AXnLtm\"}"
+                },
+                {
+                    "channel_id": 30005,
+                    "name": "7-ELEVEN",
+                    "price": {
+                        "single_value": 6000000,
+                        "range_min": -1,
+                        "range_max": -1,
+                        "price_mask": null
+                    },
+                    "price_before_discount": null,
+                    "channel_delivery_info": {
+                        "has_edt": true,
+                        "display_mode": "edt_by_date",
+                        "estimated_delivery_date_from": 1758545321,
+                        "estimated_delivery_date_to": 1758804521,
+                        "estimated_delivery_time_min": 2,
+                        "estimated_delivery_time_max": 5,
+                        "delay_message": null,
+                        "is_fastest_edt_channel": false,
+                        "sla_message": "",
+                        "show_edt": true,
+                        "edt_text": "預計配達時間 9月22日 - 9月25日",
+                        "formatted_edt_text": [
+                            {
+                                "template": "預計配達時間 9月22日 - 9月25日",
+                                "format": null,
+                                "attributes": null,
+                                "text_color": null,
+                                "text_hex_color": null
+                            }
+                        ],
+                        "formatted_pre_order_text": null,
+                        "formatted_fbs_description_text": null,
+                        "show_edt_as_header": false
+                    },
+                    "channel_promotion_infos": [
+                        {
+                            "rule_id": 336316139573248,
+                            "type": 0,
+                            "display_mode": 0,
+                            "discount_off": 4000000,
+                            "min_spend": {
+                                "single_value": 29900000,
+                                "range_min": -1,
+                                "range_max": -1,
+                                "price_mask": null
+                            },
+                            "cap": 0
+                        },
+                        {
+                            "rule_id": 336316139569152,
+                            "type": 0,
+                            "display_mode": 0,
+                            "discount_off": 2000000,
+                            "min_spend": {
+                                "single_value": 49900000,
+                                "range_min": -1,
+                                "range_max": -1,
+                                "price_mask": null
+                            },
+                            "cap": 0
+                        },
+                        {
+                            "rule_id": 336316139569153,
+                            "type": 1,
+                            "display_mode": null,
+                            "discount_off": null,
+                            "min_spend": {
+                                "single_value": 69900000,
+                                "range_min": -1,
+                                "range_max": -1,
+                                "price_mask": null
+                            },
+                            "cap": null
+                        }
+                    ],
+                    "warning": null,
+                    "shipping_icon_type": null,
+                    "lowest_bpsf_promotion_rule": null,
+                    "service_type_info": "",
+                    "is_integrated_channel": true,
+                    "late_delivery_compensation": null,
+                    "is_sst_included": false,
+                    "display_text": {
+                        "late_delivery_compensation": null,
+                        "direct_delivery": null,
+                        "fulfilled_by_shopee": null,
+                        "spx_instant_delivery": null
+                    },
+                    "rule_type": 0,
+                    "is_xdd_channel": false,
+                    "show_shopee_plus_icon": false,
+                    "xdd_value": null,
+                    "hide_shipping_fee": null,
+                    "edt_tracking_info": "{\"edt_min\":2,\"edt_max\":5,\"edt_min_hours\":48,\"edt_max_hours\":120,\"edt_display_identifier\":65545,\"buyer_address_hash\":\"1AXnLtm\"}"
+                },
+                {
+                    "channel_id": 30006,
+                    "name": "全家",
+                    "price": {
+                        "single_value": 6000000,
+                        "range_min": -1,
+                        "range_max": -1,
+                        "price_mask": null
+                    },
+                    "price_before_discount": null,
+                    "channel_delivery_info": {
+                        "has_edt": true,
+                        "display_mode": "edt_by_date",
+                        "estimated_delivery_date_from": 1758545321,
+                        "estimated_delivery_date_to": 1758804521,
+                        "estimated_delivery_time_min": 2,
+                        "estimated_delivery_time_max": 5,
+                        "delay_message": null,
+                        "is_fastest_edt_channel": false,
+                        "sla_message": "",
+                        "show_edt": true,
+                        "edt_text": "預計配達時間 9月22日 - 9月25日",
+                        "formatted_edt_text": [
+                            {
+                                "template": "預計配達時間 9月22日 - 9月25日",
+                                "format": null,
+                                "attributes": null,
+                                "text_color": null,
+                                "text_hex_color": null
+                            }
+                        ],
+                        "formatted_pre_order_text": null,
+                        "formatted_fbs_description_text": null,
+                        "show_edt_as_header": false
+                    },
+                    "channel_promotion_infos": [
+                        {
+                            "rule_id": 336316139573248,
+                            "type": 0,
+                            "display_mode": 0,
+                            "discount_off": 4000000,
+                            "min_spend": {
+                                "single_value": 29900000,
+                                "range_min": -1,
+                                "range_max": -1,
+                                "price_mask": null
+                            },
+                            "cap": 0
+                        },
+                        {
+                            "rule_id": 336316139569152,
+                            "type": 0,
+                            "display_mode": 0,
+                            "discount_off": 2000000,
+                            "min_spend": {
+                                "single_value": 49900000,
+                                "range_min": -1,
+                                "range_max": -1,
+                                "price_mask": null
+                            },
+                            "cap": 0
+                        },
+                        {
+                            "rule_id": 336316139569153,
+                            "type": 1,
+                            "display_mode": null,
+                            "discount_off": null,
+                            "min_spend": {
+                                "single_value": 69900000,
+                                "range_min": -1,
+                                "range_max": -1,
+                                "price_mask": null
+                            },
+                            "cap": null
+                        }
+                    ],
+                    "warning": null,
+                    "shipping_icon_type": null,
+                    "lowest_bpsf_promotion_rule": null,
+                    "service_type_info": "",
+                    "is_integrated_channel": true,
+                    "late_delivery_compensation": null,
+                    "is_sst_included": false,
+                    "display_text": {
+                        "late_delivery_compensation": null,
+                        "direct_delivery": null,
+                        "fulfilled_by_shopee": null,
+                        "spx_instant_delivery": null
+                    },
+                    "rule_type": 0,
+                    "is_xdd_channel": false,
+                    "show_shopee_plus_icon": false,
+                    "xdd_value": null,
+                    "hide_shipping_fee": null,
+                    "edt_tracking_info": "{\"edt_min\":2,\"edt_max\":5,\"edt_min_hours\":48,\"edt_max_hours\":120,\"edt_display_identifier\":65545,\"buyer_address_hash\":\"1AXnLtm\"}"
+                },
+                {
+                    "channel_id": 30007,
+                    "name": "萊爾富",
+                    "price": {
+                        "single_value": 5000000,
+                        "range_min": -1,
+                        "range_max": -1,
+                        "price_mask": null
+                    },
+                    "price_before_discount": null,
+                    "channel_delivery_info": {
+                        "has_edt": true,
+                        "display_mode": "edt_by_date",
+                        "estimated_delivery_date_from": 1758631721,
+                        "estimated_delivery_date_to": 1758804521,
+                        "estimated_delivery_time_min": 3,
+                        "estimated_delivery_time_max": 5,
+                        "delay_message": null,
+                        "is_fastest_edt_channel": false,
+                        "sla_message": "",
+                        "show_edt": true,
+                        "edt_text": "預計配達時間 9月23日 - 9月25日",
+                        "formatted_edt_text": [
+                            {
+                                "template": "預計配達時間 9月23日 - 9月25日",
+                                "format": null,
+                                "attributes": null,
+                                "text_color": null,
+                                "text_hex_color": null
+                            }
+                        ],
+                        "formatted_pre_order_text": null,
+                        "formatted_fbs_description_text": null,
+                        "show_edt_as_header": false
+                    },
+                    "channel_promotion_infos": [
+                        {
+                            "rule_id": 336316454146048,
+                            "type": 0,
+                            "display_mode": 0,
+                            "discount_off": 4000000,
+                            "min_spend": {
+                                "single_value": 19900000,
+                                "range_min": -1,
+                                "range_max": -1,
+                                "price_mask": null
+                            },
+                            "cap": 0
+                        },
+                        {
+                            "rule_id": 360477985615872,
+                            "type": 1,
+                            "display_mode": null,
+                            "discount_off": null,
+                            "min_spend": {
+                                "single_value": 29900000,
+                                "range_min": -1,
+                                "range_max": -1,
+                                "price_mask": null
+                            },
+                            "cap": null
+                        }
+                    ],
+                    "warning": null,
+                    "shipping_icon_type": null,
+                    "lowest_bpsf_promotion_rule": null,
+                    "service_type_info": "",
+                    "is_integrated_channel": true,
+                    "late_delivery_compensation": null,
+                    "is_sst_included": false,
+                    "display_text": {
+                        "late_delivery_compensation": null,
+                        "direct_delivery": null,
+                        "fulfilled_by_shopee": null,
+                        "spx_instant_delivery": null
+                    },
+                    "rule_type": 0,
+                    "is_xdd_channel": false,
+                    "show_shopee_plus_icon": false,
+                    "xdd_value": null,
+                    "hide_shipping_fee": null,
+                    "edt_tracking_info": "{\"edt_min\":3,\"edt_max\":5,\"edt_min_hours\":72,\"edt_max_hours\":120,\"edt_display_identifier\":65545,\"buyer_address_hash\":\"1AXnLtm\"}"
+                },
+                {
+                    "channel_id": 30020,
+                    "name": "新竹物流",
+                    "price": {
+                        "single_value": 6500000,
+                        "range_min": -1,
+                        "range_max": -1,
+                        "price_mask": null
+                    },
+                    "price_before_discount": null,
+                    "channel_delivery_info": {
+                        "has_edt": true,
+                        "display_mode": "edt_by_date",
+                        "estimated_delivery_date_from": 1758553608,
+                        "estimated_delivery_date_to": 1758726408,
+                        "estimated_delivery_time_min": 2,
+                        "estimated_delivery_time_max": 4,
+                        "delay_message": null,
+                        "is_fastest_edt_channel": false,
+                        "sla_message": "",
+                        "show_edt": true,
+                        "edt_text": "預計配達時間 9月22日 - 9月24日",
+                        "formatted_edt_text": [
+                            {
+                                "template": "預計配達時間 9月22日 - 9月24日",
+                                "format": null,
+                                "attributes": null,
+                                "text_color": null,
+                                "text_hex_color": null
+                            }
+                        ],
+                        "formatted_pre_order_text": null,
+                        "formatted_fbs_description_text": null,
+                        "show_edt_as_header": false
+                    },
+                    "channel_promotion_infos": [],
+                    "warning": null,
+                    "shipping_icon_type": null,
+                    "lowest_bpsf_promotion_rule": null,
+                    "service_type_info": "",
+                    "is_integrated_channel": true,
+                    "late_delivery_compensation": null,
+                    "is_sst_included": false,
+                    "display_text": {
+                        "late_delivery_compensation": null,
+                        "direct_delivery": null,
+                        "fulfilled_by_shopee": null,
+                        "spx_instant_delivery": null
+                    },
+                    "rule_type": 0,
+                    "is_xdd_channel": false,
+                    "show_shopee_plus_icon": false,
+                    "xdd_value": null,
+                    "hide_shipping_fee": null,
+                    "edt_tracking_info": "{\"edt_min\":2,\"edt_max\":4,\"edt_min_hours\":51,\"edt_max_hours\":99,\"edt_display_identifier\":65545,\"buyer_address_hash\":\"1AXnLtm\"}"
+                },
+                {
+                    "channel_id": 30012,
+                    "name": "宅配通",
+                    "price": {
+                        "single_value": 7000000,
+                        "range_min": -1,
+                        "range_max": -1,
+                        "price_mask": null
+                    },
+                    "price_before_discount": null,
+                    "channel_delivery_info": {
+                        "has_edt": true,
+                        "display_mode": "edt_by_date",
+                        "estimated_delivery_date_from": 1758533606,
+                        "estimated_delivery_date_to": 1758728015,
+                        "estimated_delivery_time_min": 2,
+                        "estimated_delivery_time_max": 4,
+                        "delay_message": "請留意:為避免無法正常配送，您的地址請勿輸入異常符號，例如：\"/\" \"*\"....等。",
+                        "is_fastest_edt_channel": false,
+                        "sla_message": "",
+                        "show_edt": true,
+                        "edt_text": "預計配達時間 9月22日 - 9月24日",
+                        "formatted_edt_text": [
+                            {
+                                "template": "預計配達時間 9月22日 - 9月24日",
+                                "format": null,
+                                "attributes": null,
+                                "text_color": null,
+                                "text_hex_color": null
+                            }
+                        ],
+                        "formatted_pre_order_text": null,
+                        "formatted_fbs_description_text": null,
+                        "show_edt_as_header": false
+                    },
+                    "channel_promotion_infos": [],
+                    "warning": null,
+                    "shipping_icon_type": null,
+                    "lowest_bpsf_promotion_rule": null,
+                    "service_type_info": "",
+                    "is_integrated_channel": true,
+                    "late_delivery_compensation": null,
+                    "is_sst_included": false,
+                    "display_text": {
+                        "late_delivery_compensation": null,
+                        "direct_delivery": null,
+                        "fulfilled_by_shopee": null,
+                        "spx_instant_delivery": null
+                    },
+                    "rule_type": 0,
+                    "is_xdd_channel": false,
+                    "show_shopee_plus_icon": false,
+                    "xdd_value": null,
+                    "hide_shipping_fee": null,
+                    "edt_tracking_info": "{\"edt_min\":2,\"edt_max\":4,\"edt_min_hours\":45,\"edt_max_hours\":99,\"edt_display_identifier\":65545,\"buyer_address_hash\":\"1AXnLtm\"}"
+                },
+                {
+                    "channel_id": 30001,
+                    "name": "黑貓宅急便",
+                    "price": {
+                        "single_value": 9000000,
+                        "range_min": -1,
+                        "range_max": -1,
+                        "price_mask": null
+                    },
+                    "price_before_discount": null,
+                    "channel_delivery_info": {
+                        "has_edt": true,
+                        "display_mode": "edt_by_date",
+                        "estimated_delivery_date_from": 1758525536,
+                        "estimated_delivery_date_to": 1758703805,
+                        "estimated_delivery_time_min": 2,
+                        "estimated_delivery_time_max": 4,
+                        "delay_message": null,
+                        "is_fastest_edt_channel": false,
+                        "sla_message": "",
+                        "show_edt": true,
+                        "edt_text": "預計配達時間 9月22日 - 9月24日",
+                        "formatted_edt_text": [
+                            {
+                                "template": "預計配達時間 9月22日 - 9月24日",
+                                "format": null,
+                                "attributes": null,
+                                "text_color": null,
+                                "text_hex_color": null
+                            }
+                        ],
+                        "formatted_pre_order_text": null,
+                        "formatted_fbs_description_text": null,
+                        "show_edt_as_header": false
+                    },
+                    "channel_promotion_infos": [],
+                    "warning": null,
+                    "shipping_icon_type": null,
+                    "lowest_bpsf_promotion_rule": null,
+                    "service_type_info": "",
+                    "is_integrated_channel": true,
+                    "late_delivery_compensation": null,
+                    "is_sst_included": false,
+                    "display_text": {
+                        "late_delivery_compensation": null,
+                        "direct_delivery": null,
+                        "fulfilled_by_shopee": null,
+                        "spx_instant_delivery": null
+                    },
+                    "rule_type": 0,
+                    "is_xdd_channel": false,
+                    "show_shopee_plus_icon": false,
+                    "xdd_value": null,
+                    "hide_shipping_fee": null,
+                    "edt_tracking_info": "{\"edt_min\":2,\"edt_max\":4,\"edt_min_hours\":43,\"edt_max_hours\":93,\"edt_display_identifier\":65545,\"buyer_address_hash\":\"1AXnLtm\"}"
+                }
+            ],
+            "grouped_channel_infos_by_service_type": [],
+            "also_available_channel_name": "",
+            "pre_selected_shipping_channel": {
+                "channel_id": 30014,
+                "name": "OK Mart",
+                "price": {
+                    "single_value": 0,
+                    "range_min": -1,
+                    "range_max": -1,
+                    "price_mask": null
+                },
+                "price_before_discount": {
+                    "single_value": 4500000,
+                    "range_min": -1,
+                    "range_max": -1,
+                    "price_mask": null
+                },
+                "channel_delivery_info": {
+                    "has_edt": true,
+                    "display_mode": "edt_by_date",
+                    "estimated_delivery_date_from": 1758631721,
+                    "estimated_delivery_date_to": 1758890921,
+                    "estimated_delivery_time_min": 3,
+                    "estimated_delivery_time_max": 6,
+                    "delay_message": "",
+                    "is_fastest_edt_channel": false,
+                    "sla_message": "",
+                    "show_edt": true,
+                    "edt_text": "預計配達時間 9月23日 - 9月26日",
+                    "formatted_edt_text": [
+                        {
+                            "template": "預計配達時間 9月23日 - 9月26日",
+                            "format": [],
+                            "attributes": null,
+                            "text_color": null,
+                            "text_hex_color": null
+                        }
+                    ],
+                    "formatted_pre_order_text": null,
+                    "formatted_fbs_description_text": null,
+                    "show_edt_as_header": false
+                },
+                "channel_promotion_infos": [
+                    {
+                        "rule_id": 359367447162880,
+                        "type": 1,
+                        "display_mode": 0,
+                        "discount_off": 0,
+                        "min_spend": {
+                            "single_value": 14900000,
+                            "range_min": -1,
+                            "range_max": -1,
+                            "price_mask": ""
+                        },
+                        "cap": 0
+                    }
+                ],
+                "warning": {
+                    "type": "",
+                    "warning_msg": ""
+                },
+                "shipping_icon_type": null,
+                "lowest_bpsf_promotion_rule": null,
+                "service_type_info": "",
+                "is_integrated_channel": true,
+                "late_delivery_compensation": null,
+                "is_sst_included": false,
+                "display_text": {
+                    "late_delivery_compensation": null,
+                    "direct_delivery": null,
+                    "fulfilled_by_shopee": null,
+                    "spx_instant_delivery": null
+                },
+                "rule_type": 0,
+                "is_xdd_channel": false,
+                "show_shopee_plus_icon": false,
+                "xdd_value": 0,
+                "hide_shipping_fee": null,
+                "edt_tracking_info": null
+            },
+            "show_grouped_channel_first": false,
+            "is_item_with_price_range": false,
+            "also_available_channel_icon_type": null,
+            "pre_order_text": "",
+            "selected_late_delivery_compensation_for_drawer": null,
+            "shipping_info_text": {
+                "text_template": null,
+                "shipping_fee": null,
+                "edt_from": null,
+                "edt_to": null,
+                "show_shipping_fee_suffix": true,
+                "formatted_text": {
+                    "edt": {
+                        "template": "預計配達時間 9月23日 - 9月26日",
+                        "format": null,
+                        "attributes": null,
+                        "text_color": null,
+                        "text_hex_color": null
+                    },
+                    "shipping_fee": {
+                        "template": "運費：$0 起",
+                        "format": null,
+                        "attributes": null,
+                        "text_color": null,
+                        "text_hex_color": null
+                    },
+                    "late_delivery_compensation": null,
+                    "fbs_description": null,
+                    "display_edt_text_first_line": true
+                },
+                "highlight_free_shipping": false
+            },
+            "formatted_pre_order_text": null,
+            "has_free_return": null,
+            "model_id": 227861662854,
+            "delivery_address": {
+                "state": "臺北市",
+                "city": "中正區",
+                "district": null,
+                "town": null,
+                "zip_code": null,
+                "address": null,
+                "region": null,
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        "shop_vouchers": [],
+        "free_return": null,
+        "coin_info": {
+            "spend_cash_unit": 100000,
+            "coin_earn_items": [],
+            "coin_earn_label": null
+        },
+        "product_attributes": {
+            "attrs": [
+                {
+                    "name": "商品數量",
+                    "value": "尚有庫存",
+                    "id": null,
+                    "is_timestamp": null,
+                    "brand_option": null,
+                    "val_id": null,
+                    "url": null,
+                    "brand_id": null,
+                    "full_url": null,
+                    "type": 7,
+                    "item_attribute_type": null,
+                    "name_tr": null,
+                    "value_tr": null
+                },
+                {
+                    "name": "容量",
+                    "value": "100ml",
+                    "id": 100248,
+                    "is_timestamp": null,
+                    "brand_option": null,
+                    "val_id": null,
+                    "url": null,
+                    "brand_id": null,
+                    "full_url": null,
+                    "type": 5,
+                    "item_attribute_type": null,
+                    "name_tr": null,
+                    "value_tr": null
+                },
+                {
+                    "name": "出貨地",
+                    "value": "苗栗縣竹南鎮",
+                    "id": null,
+                    "is_timestamp": null,
+                    "brand_option": null,
+                    "val_id": null,
+                    "url": null,
+                    "brand_id": null,
+                    "full_url": null,
+                    "type": 6,
+                    "item_attribute_type": null,
+                    "name_tr": null,
+                    "value_tr": null
+                }
+            ],
+            "categories": [
+                {
+                    "catid": 11041691,
+                    "display_name": "美妝保養",
+                    "no_sub": false,
+                    "is_default_subcat": false
+                },
+                {
+                    "catid": 11041752,
+                    "display_name": "醫美清潔保養",
+                    "no_sub": false,
+                    "is_default_subcat": false
+                },
+                {
+                    "catid": 11046882,
+                    "display_name": "精華液",
+                    "no_sub": true,
+                    "is_default_subcat": false
+                }
+            ],
+            "related_items": []
+        },
+        "shop_detailed": {
+            "shopid": 1111381674,
+            "userid": 1111659911,
+            "last_active_time": 1758372324,
+            "vacation": false,
+            "place": "苗栗縣竹南鎮",
+            "account": {
+                "portrait": "tw-11134216-7rbke-m94qho1eywo72f",
+                "username": "gyuv2hjj38",
+                "status": 1
+            },
+            "is_shopee_verified": false,
+            "is_preferred_plus_seller": false,
+            "is_official_shop": false,
+            "shop_location": "苗栗縣竹南鎮",
+            "item_count": 201,
+            "rating_star": 4.922314,
+            "response_rate": 100,
+            "session_info": null,
+            "name": "vtoor潮顔美妆",
+            "ctime": 1699274446,
+            "response_time": 4179,
+            "follower_count": 525,
+            "show_official_shop_label": false,
+            "rating_bad": 5,
+            "rating_good": 1212,
+            "rating_normal": 15,
+            "session_infos": null,
+            "status": 1,
+            "is_individual_seller": null,
+            "is_mart": false,
+            "favorite_shop_info": null,
+            "is_3pf": false,
+            "sold_total": 3245,
+            "is_shopee_choice": false,
+            "is_high_end": false,
+            "banner": {
+                "shopee_choice": null
+            },
+            "authorized_brand": null,
+            "is_scs": false,
+            "shop_location_tr": null,
+            "sold_total_display": null,
+            "is_outlet": false,
+            "display_fbs_logo": false
+        },
+        "age_gate_control": null,
+        "abnormal_popup": null,
+        "return_on_spot": null,
+        "display_sections": {
+            "add_on_deal": null,
+            "bundle_deal": {
+                "type": 0,
+                "text": "2 件 9.5折",
+                "color": "primary",
+                "display": "bundle_deal",
+                "background_color": "",
+                "exclusive_price": null
+            },
+            "exclusive_price_label": null,
+            "free_return": null,
+            "coin": null,
+            "wholesale": null
+        },
+        "ineligible_ep": null,
+        "tax_disclaimer": null,
+        "alcohol_disclaimer": null,
+        "design_control": {
+            "use_new_revamp_first_screen": null,
+            "display_on_time_delivery_guarantee": true,
+            "disable_price_with_variation": false,
+            "display_direct_delivery": false,
+            "use_new_featured_video_revamp": null,
+            "first_screen_revamp_abtest_group": null,
+            "display_choice_customised_section": false,
+            "is_support_fbs_enabled": false,
+            "top_section_featured_video_ab_test_group": null,
+            "enable_ksp_config": null,
+            "disable_main_page_select_variation": null,
+            "support_shop_review_preview": null,
+            "pdp_revamp_phase1_improvement_ui_review_down": null,
+            "display_fashion_attributes": null,
+            "display_fashion_review_section": null,
+            "display_fashion_first_screen": null,
+            "enable_fashion_review_improvements": null,
+            "display_fbs_floating_counter": null,
+            "display_shipping_drawer_new_free_shipping_text": false,
+            "display_shipping_drawer_new_free_shipping_ui": false
+        },
+        "shopee_free_return": null,
+        "detail_level": 0,
+        "removed_fields": null,
+        "size_guide": null,
+        "designer_info": null,
+        "shipping_info": null,
+        "vehicle_compatibility_info": null,
+        "nea": null,
+        "button_group": {
+            "buy_with_voucher": null,
+            "ineligible_user_platform_exclusive_sku": null
+        },
+        "installment_drawer": {
+            "priority": [
+                0,
+                1
+            ],
+            "spl": null,
+            "bank": {
+                "channels": null
+            },
+            "credit_card": null
+        },
+        "ongoing_banner": null,
+        "teaser_banner": null,
+        "price_breakdown": null,
+        "membership_exclusive": null,
+        "membership_exclusive_teaser": null,
+        "service_entrance": {
+            "services": [
+                {
+                    "text": "蝦皮放心買",
+                    "type": null,
+                    "id": 52
+                },
+                {
+                    "text": "蝦皮安心退",
+                    "type": null,
+                    "id": 51
+                }
+            ]
+        },
+        "service_drawer": {
+            "services": [
+                {
+                    "title": "蝦皮放心買",
+                    "description": "除了賣家實名認證跟商品合規檢驗外，蝦皮也實行賣家計分管理，針對營運表現不佳的賣家進行取締。管理項目包含訂單未完成率、延遲出貨率、違反上架規範等。",
+                    "type": null,
+                    "free_return": null,
+                    "insurance": null,
+                    "id": 52,
+                    "redirection_url": "https://shopee.tw/m/worry-free#anchorId-1737101390274",
+                    "icon": "tw-11134258-7rbkc-m8vjh2lirw12cc",
+                    "insurance_drawer": null
+                },
+                {
+                    "title": "蝦皮安心退",
+                    "description": "蝦皮安心退由蝦皮協助審核，您無須先與賣家溝通，一鍵即可申請退貨。除特殊退貨物流，您也無須負擔退貨運費。        ",
+                    "type": null,
+                    "free_return": null,
+                    "insurance": null,
+                    "id": 51,
+                    "redirection_url": "https://shopee.tw/m/newrr",
+                    "icon": "tw-11134258-7rasm-m2rus0ffw963d1",
+                    "insurance_drawer": null
+                }
+            ]
+        },
+        "trade_in": null,
+        "product_description": {
+            "paragraph_list": [
+                {
+                    "type": 0,
+                    "text": "是否進口：否",
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 0,
+                    "text": "品牌類型：精品國貨",
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 0,
+                    "text": "適用膚質：通用",
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 0,
+                    "text": "規格：正常規格",
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 0,
+                    "text": "特殊用途化妝品：否",
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 0,
+                    "text": "保質期：3年",
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 0,
+                    "text": "淨含量：100g/ml",
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 0,
+                    "text": "産地：廣州",
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 0,
+                    "text": "化妝品功效：保濕,控油,收縮毛孔,補水,補水保濕,提亮膚色,滋潤,柔潤肌膚",
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 0,
+                    "text": "包裝種類：基礎包裝",
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 0,
+                    "text": "質地：原液",
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 0,
+                    "text": "適用人群：通用",
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 0,
+                    "text": "産品名稱：美寇傳奇黃金玻尿酸精華液",
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 1,
+                    "text": null,
+                    "img_id": "tw-11134208-7rbk8-mazi7nzk87w941",
+                    "ratio": 2.086,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 1,
+                    "text": null,
+                    "img_id": "tw-11134208-7rbk5-mapoadp87xsm7e",
+                    "ratio": 0.818,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 1,
+                    "text": null,
+                    "img_id": "tw-11134208-7rbke-mapoadp7shjqe8",
+                    "ratio": 0.876,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 1,
+                    "text": null,
+                    "img_id": "tw-11134208-7rbke-mapoadphs2xi60",
+                    "ratio": 1.157,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 1,
+                    "text": null,
+                    "img_id": "tw-11134208-7rbk5-mapoadphs31422",
+                    "ratio": 0.861,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 1,
+                    "text": null,
+                    "img_id": "tw-11134208-7rbk1-mapoadp8ne1i45",
+                    "ratio": 1.158,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 1,
+                    "text": null,
+                    "img_id": "tw-11134208-7rbk7-mapoadp87xw883",
+                    "ratio": 0.898,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 1,
+                    "text": null,
+                    "img_id": "tw-11134208-7rbk0-mapoadp7shncf8",
+                    "ratio": 0.63,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 1,
+                    "text": null,
+                    "img_id": "tw-11134208-7rbk3-mapoadsjnm8o25",
+                    "ratio": 0.666,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 1,
+                    "text": null,
+                    "img_id": "tw-11134208-7rbk2-mapoadp7tw46f4",
+                    "ratio": 0.783,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 1,
+                    "text": null,
+                    "img_id": "tw-11134208-7rbka-mapoadp7vaomae",
+                    "ratio": 0.87,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                }
+            ],
+            "source_language": ""
+        },
+        "selected_tiers": null,
+        "size_info": null,
+        "size_recommendation": null
+    }
+}

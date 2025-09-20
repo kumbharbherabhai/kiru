@@ -1,0 +1,1948 @@
+{
+    "bff_meta": null,
+    "error": null,
+    "error_msg": null,
+    "data": {
+        "item": {
+            "item_id": 41605534542,
+            "shop_id": 1427314432,
+            "item_status": "normal",
+            "status": 1,
+            "item_type": 0,
+            "reference_item_id": "",
+            "title": "✨快速出貨✨ CLINIQUE 倩碧302 超激光勻淨白淡斑精粹100ml 鐳射瓶 淡斑美白精華液",
+            "image": "tw-11134207-7ra0g-mbbvg3thhmxkbe",
+            "label_ids": [
+                298843331,
+                1400635031,
+                822059780857868,
+                822120594703895,
+                822120594705943,
+                840902217783839,
+                840902217782303,
+                1948020501544471,
+                844931086908638,
+                2143620,
+                1400530025,
+                700815081,
+                1818883
+            ],
+            "is_adult": false,
+            "is_preview": false,
+            "flag": 65536,
+            "is_service_by_shopee": false,
+            "condition": 1,
+            "cat_id": 100630,
+            "has_low_fulfillment_rate": false,
+            "is_live_streaming_price": null,
+            "currency": "TWD",
+            "brand": null,
+            "brand_id": 0,
+            "show_discount": 54,
+            "ctime": 1750649134,
+            "item_rating": {
+                "rating_star": 5
+            },
+            "cb_option": 0,
+            "has_model_with_available_shopee_stock": false,
+            "shop_location": "桃園市八德區",
+            "attributes": [
+                {
+                    "name": "膚質",
+                    "value": "全膚質, 混和肌, 乾性肌, 暗沉",
+                    "id": 100049,
+                    "is_timestamp": false,
+                    "brand_option": null,
+                    "val_id": 780,
+                    "url": null,
+                    "brand_id": null,
+                    "full_url": null,
+                    "type": null,
+                    "item_attribute_type": null,
+                    "name_tr": null,
+                    "value_tr": null
+                },
+                {
+                    "name": "護膚功效",
+                    "value": "減少粉刺, 延緩老化, 乾燥, 膚色不均",
+                    "id": 100099,
+                    "is_timestamp": false,
+                    "brand_option": null,
+                    "val_id": 734,
+                    "url": null,
+                    "brand_id": null,
+                    "full_url": null,
+                    "type": null,
+                    "item_attribute_type": null,
+                    "name_tr": null,
+                    "value_tr": null
+                },
+                {
+                    "name": "保存期限",
+                    "value": "24個月",
+                    "id": 100010,
+                    "is_timestamp": false,
+                    "brand_option": null,
+                    "val_id": 605,
+                    "url": null,
+                    "brand_id": null,
+                    "full_url": null,
+                    "type": null,
+                    "item_attribute_type": null,
+                    "name_tr": null,
+                    "value_tr": null
+                },
+                {
+                    "name": "包裝尺寸",
+                    "value": "100ML",
+                    "id": 101029,
+                    "is_timestamp": false,
+                    "brand_option": null,
+                    "val_id": 0,
+                    "url": null,
+                    "brand_id": null,
+                    "full_url": null,
+                    "type": null,
+                    "item_attribute_type": null,
+                    "name_tr": null,
+                    "value_tr": null
+                }
+            ],
+            "rich_text_description": {
+                "paragraph_list": [
+                    {
+                        "type": 0,
+                        "text": "🌟 CLINIQUE 倩碧 超激光勻淨白淡斑精粹 100ml  🌟",
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "📦 產品容量： 100ml",
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 10001,
+                        "text": null,
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": 1
+                    },
+                    {
+                        "type": 0,
+                        "text": "✨ 產品特色：",
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "專為改善色素斑點設計，幫助淡化頑固斑點與暗沉。",
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "內含多種活性美白成分，均勻膚色，提升肌膚明亮感。",
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "質地輕盈易吸收，不黏膩，適合各種膚質使用。",
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "持續使用，改善膚色不均，讓肌膚更加透亮細緻。",
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 10001,
+                        "text": null,
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": 1
+                    },
+                    {
+                        "type": 0,
+                        "text": "📌 使用方法：",
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "每日早晚潔膚後使用。",
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "取適量精粹，均勻塗抹於臉部及有色斑部位，輕輕按摩至吸收。",
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "建議搭配防曬產品，提升淡斑效果。",
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 10001,
+                        "text": null,
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": 1
+                    },
+                    {
+                        "type": 0,
+                        "text": "🌈 為何選擇CLINIQUE超激光勻淨白淡斑精粹？",
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "✔ 有效淡斑，美白不反黑。",
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "✔ 安全溫和，適合敏感肌膚。",
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "✔ 倩碧研發，品質有保障。",
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 10001,
+                        "text": null,
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": 1
+                    },
+                    {
+                        "type": 0,
+                        "text": "💖 還在為斑點困擾嗎？立即體驗CLINIQUE超激光勻淨白淡斑精粹，讓肌膚綻放均勻光采！",
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    }
+                ],
+                "source_language": null
+            },
+            "invoice_option": null,
+            "is_category_failed": null,
+            "is_prescription_item": false,
+            "preview_info": null,
+            "show_prescription_feed": false,
+            "is_alcohol_product": false,
+            "is_infant_milk_formula_product": false,
+            "is_unavailable": false,
+            "is_partial_fulfilled": false,
+            "is_presale": false,
+            "is_presale_deposit_item": null,
+            "is_presale_deposit_made": null,
+            "description": "🌟 CLINIQUE 倩碧 超激光勻淨白淡斑精粹 100ml  🌟\n📦 產品容量： 100ml\n\n✨ 產品特色：\n專為改善色素斑點設計，幫助淡化頑固斑點與暗沉。\n內含多種活性美白成分，均勻膚色，提升肌膚明亮感。\n質地輕盈易吸收，不黏膩，適合各種膚質使用。\n持續使用，改善膚色不均，讓肌膚更加透亮細緻。\n\n📌 使用方法：\n每日早晚潔膚後使用。\n取適量精粹，均勻塗抹於臉部及有色斑部位，輕輕按摩至吸收。\n建議搭配防曬產品，提升淡斑效果。\n\n🌈 為何選擇CLINIQUE超激光勻淨白淡斑精粹？\n✔ 有效淡斑，美白不反黑。\n✔ 安全溫和，適合敏感肌膚。\n✔ 倩碧研發，品質有保障。\n\n💖 還在為斑點困擾嗎？立即體驗CLINIQUE超激光勻淨白淡斑精粹，讓肌膚綻放均勻光采！",
+            "categories": [
+                {
+                    "catid": 100630,
+                    "display_name": "美妝保養",
+                    "no_sub": false,
+                    "is_default_subcat": false
+                },
+                {
+                    "catid": 100664,
+                    "display_name": "肌膚保養",
+                    "no_sub": false,
+                    "is_default_subcat": false
+                },
+                {
+                    "catid": 100896,
+                    "display_name": "精華液",
+                    "no_sub": true,
+                    "is_default_subcat": false
+                }
+            ],
+            "fe_categories": [
+                {
+                    "catid": 11041691,
+                    "display_name": "美妝保養",
+                    "no_sub": false,
+                    "is_default_subcat": false
+                },
+                {
+                    "catid": 11041752,
+                    "display_name": "醫美清潔保養",
+                    "no_sub": false,
+                    "is_default_subcat": false
+                },
+                {
+                    "catid": 11046882,
+                    "display_name": "精華液",
+                    "no_sub": true,
+                    "is_default_subcat": false
+                }
+            ],
+            "item_has_video": false,
+            "presale_dday_start_time": null,
+            "is_lowest_price_at_shopee": null,
+            "display_description_disclosure_rsku_redirection": null,
+            "display_similar_sold": null,
+            "title_type": 1,
+            "authorized_brand_name": null,
+            "models": [
+                {
+                    "item_id": 41605534542,
+                    "status": 1,
+                    "current_promotion_reserved_stock": 20,
+                    "name": "",
+                    "promotion_id": 186283071123456,
+                    "price": 149900000,
+                    "price_stocks": [
+                        {
+                            "allocated_stock": 20,
+                            "stock_breakdown_by_location": [
+                                {
+                                    "location_id": "TWZ",
+                                    "available_stock": 20,
+                                    "fulfilment_type": 2,
+                                    "address_id": 0,
+                                    "allocated_stock": null
+                                }
+                            ],
+                            "promotion_type": 312
+                        },
+                        {
+                            "allocated_stock": 0,
+                            "stock_breakdown_by_location": [
+                                {
+                                    "location_id": "TWZ",
+                                    "available_stock": 105,
+                                    "fulfilment_type": 2,
+                                    "address_id": null,
+                                    "allocated_stock": null
+                                }
+                            ],
+                            "promotion_type": 0
+                        }
+                    ],
+                    "current_promotion_has_reserve_stock": true,
+                    "normal_stock": 105,
+                    "extinfo": {
+                        "tier_index": [
+                            0
+                        ],
+                        "is_pre_order": false,
+                        "estimated_days": 1
+                    },
+                    "price_before_discount": 326500000,
+                    "model_id": 295467925955,
+                    "stock": 20,
+                    "has_gimmick_tag": false,
+                    "key_measurement": null,
+                    "sold": 74,
+                    "is_lowest_price_at_shopee": false,
+                    "name_tr": null,
+                    "is_clickable": true,
+                    "is_grayout": false,
+                    "has_stock": true
+                }
+            ],
+            "tier_variations": [
+                {
+                    "name": "",
+                    "options": [
+                        ""
+                    ],
+                    "images": null,
+                    "properties": null,
+                    "type": 0,
+                    "summed_stocks": null,
+                    "display_indicators": [
+                        0
+                    ],
+                    "name_tr": null,
+                    "options_tr": null,
+                    "selling_points": null,
+                    "selling_points_tr": null
+                }
+            ],
+            "size_chart": null,
+            "size_chart_info": null,
+            "welcome_package_type": 0,
+            "is_free_gift": false,
+            "deep_discount": null,
+            "is_low_price_eligible": null,
+            "bundle_deal_info": null,
+            "add_on_deal_info": null,
+            "shipping_icon_type": 0,
+            "badge_icon_type": 0,
+            "spl_info": {
+                "installment_info": null,
+                "user_credit_info": null,
+                "channel_id": null,
+                "show_spl": true,
+                "show_spl_lite": null,
+                "spl_xtra": null,
+                "spl_motorcycle_loan": null
+            },
+            "estimated_days": 1,
+            "is_pre_order": false,
+            "is_free_shipping": false,
+            "overall_purchase_limit": null,
+            "min_purchase_limit": 1,
+            "is_hide_stock": false,
+            "stock": 105,
+            "normal_stock": 105,
+            "current_promotion_reserved_stock": 20,
+            "can_use_wholesale": false,
+            "wholesale_tier_list": [],
+            "price": 149900000,
+            "raw_discount": 54,
+            "hidden_price_display": null,
+            "price_min": 149900000,
+            "price_max": 149900000,
+            "price_before_discount": 326500000,
+            "price_min_before_discount": 326500000,
+            "price_max_before_discount": 326500000,
+            "other_stock": 105,
+            "discount_stock": 20,
+            "current_promotion_has_reserve_stock": true,
+            "complaint_policy": null,
+            "show_recycling_info": null,
+            "should_show_amp_tag": true,
+            "all_models_has_pre_order": false,
+            "is_item_inherited": false,
+            "max_quantity": 105,
+            "drug_details": null,
+            "selected_real_models": null,
+            "size_tier_variation_idx": null,
+            "is_fashion_item": false,
+            "social_proof_label": null,
+            "title_tr": null,
+            "description_tr": null,
+            "rich_text_description_tr": null,
+            "stock_display": "尚有庫存",
+            "max_quantity_display": "尚有庫存"
+        },
+        "account": {
+            "user_id": 1637295006,
+            "is_new_user": true,
+            "default_address": {
+                "state": "臺北市",
+                "city": "中正區",
+                "district": "",
+                "town": "",
+                "zip_code": null,
+                "address": null,
+                "region": null,
+                "longitude": null,
+                "latitude": null
+            },
+            "adult_consent": 0,
+            "birth_timestamp": 0
+        },
+        "product_images": {
+            "video": null,
+            "images": [
+                "tw-11134207-7ra0g-mbbvg3thhmxkbe",
+                "tw-11134207-7ra0h-mbbvflns0uoo53",
+                "tw-11134207-7ra0l-mbbvjl8nwt7ab5",
+                "tw-11134207-7ra0n-mbbvjrl0mna027"
+            ],
+            "first_tier_variations": [],
+            "sorted_variation_image_index_list": [],
+            "overlay": null,
+            "makeup_preview": null,
+            "abnormal_status": "",
+            "promotion_images": [],
+            "long_images": null,
+            "shopee_video_info_list": [],
+            "shopee_video_rcmd_info": null,
+            "shopee_video_req_id": null,
+            "skincam": null,
+            "pdp_top_info_list": null,
+            "has_long_image": null,
+            "show_find_similar": false,
+            "try_it_on": null,
+            "show_find_similar_for_selection": false
+        },
+        "product_price": {
+            "discount": 56,
+            "installment_info": null,
+            "spl_installment_info": null,
+            "pack_size": "",
+            "hide_price": false,
+            "price": {
+                "single_value": 144400000,
+                "range_min": -1,
+                "range_max": -1,
+                "price_mask": null
+            },
+            "price_before_discount": {
+                "single_value": 326500000,
+                "range_min": -1,
+                "range_max": -1,
+                "price_mask": null
+            },
+            "presale_price": null,
+            "lowest_past_price": null,
+            "labels": null,
+            "hide_discount": true,
+            "discount_text": null,
+            "show_final_price_indicator": true,
+            "final_price_vouchers": [
+                {
+                    "promotion_id": 1192377901416448,
+                    "voucher_code": "IRMA65894",
+                    "is_auto_claimed_just_now": false,
+                    "groups": null,
+                    "voucher_type": 1
+                }
+            ],
+            "has_final_price": true,
+            "final_price_info": {
+                "model_id": 295467925955,
+                "hint_text": "券後價 >"
+            }
+        },
+        "flash_sale": null,
+        "flash_sale_preview": null,
+        "deep_discount": null,
+        "exclusive_price": null,
+        "exclusive_price_cta": null,
+        "product_meta": {
+            "show_lowest_price_guarantee": null,
+            "show_original_guarantee": null,
+            "show_best_price_guarantee": false,
+            "show_official_shop_label_in_title": false,
+            "show_shopee_verified_label": false,
+            "show_lowest_installment_guarantee": null,
+            "hide_sharing_button": false,
+            "hide_sold_count": false,
+            "show_description_translation_button": null
+        },
+        "product_review": {
+            "rating_star": 5,
+            "rating_count": [
+                6,
+                0,
+                0,
+                0,
+                0,
+                6
+            ],
+            "total_rating_count": 6,
+            "historical_sold": 74,
+            "global_sold": 74,
+            "liked": false,
+            "liked_count": 3,
+            "cmt_count": 6,
+            "should_move_ratings_above": null,
+            "review_rcmd_exp_group": null,
+            "display_global_sold": false,
+            "hide_rating": false,
+            "hide_buyer_gallery": false,
+            "hide_reviews": false,
+            "hide_other_product_reviews_in_shop": false,
+            "sold_count_disclosure": null,
+            "historical_sold_display": "74",
+            "global_sold_display": "74"
+        },
+        "promotion_info": {
+            "spl": null,
+            "spl_lite": null,
+            "installment": null,
+            "wholesale": null,
+            "insurance": null,
+            "item_installment_eligibility": {
+                "is_cc_installment_payment_eligible": false,
+                "is_non_cc_installment_payment_eligible": false
+            }
+        },
+        "age_gate": {
+            "kyc": null
+        },
+        "shipping_meta": null,
+        "product_shipping": {
+            "free_shipping": {
+                "min_spend": null,
+                "has_fss": false
+            },
+            "shipping_fee_info": {
+                "ship_from_location": "桃園市八德區",
+                "price": {
+                    "single_value": -1,
+                    "range_min": 0,
+                    "range_max": 6000000,
+                    "price_mask": null
+                },
+                "shipping_icon_type": 0,
+                "warning": null
+            },
+            "show_shipping_to": true,
+            "ungrouped_channel_infos": [
+                {
+                    "channel_id": 30014,
+                    "name": "OK Mart",
+                    "price": {
+                        "single_value": 0,
+                        "range_min": -1,
+                        "range_max": -1,
+                        "price_mask": null
+                    },
+                    "price_before_discount": {
+                        "single_value": 4500000,
+                        "range_min": -1,
+                        "range_max": -1,
+                        "price_mask": null
+                    },
+                    "channel_delivery_info": {
+                        "has_edt": true,
+                        "display_mode": "edt_by_date",
+                        "estimated_delivery_date_from": 1758537237,
+                        "estimated_delivery_date_to": 1758830254,
+                        "estimated_delivery_time_min": 2,
+                        "estimated_delivery_time_max": 6,
+                        "delay_message": null,
+                        "is_fastest_edt_channel": false,
+                        "sla_message": "",
+                        "show_edt": true,
+                        "edt_text": "預計配達時間 9月22日 - 9月26日",
+                        "formatted_edt_text": [
+                            {
+                                "template": "預計配達時間 9月22日 - 9月26日",
+                                "format": null,
+                                "attributes": null,
+                                "text_color": null,
+                                "text_hex_color": null
+                            }
+                        ],
+                        "formatted_pre_order_text": null,
+                        "formatted_fbs_description_text": null,
+                        "show_edt_as_header": false
+                    },
+                    "channel_promotion_infos": [],
+                    "warning": null,
+                    "shipping_icon_type": null,
+                    "lowest_bpsf_promotion_rule": null,
+                    "service_type_info": "",
+                    "is_integrated_channel": true,
+                    "late_delivery_compensation": null,
+                    "is_sst_included": false,
+                    "display_text": {
+                        "late_delivery_compensation": null,
+                        "direct_delivery": null,
+                        "fulfilled_by_shopee": null,
+                        "spx_instant_delivery": null
+                    },
+                    "rule_type": 0,
+                    "is_xdd_channel": false,
+                    "show_shopee_plus_icon": false,
+                    "xdd_value": null,
+                    "hide_shipping_fee": null,
+                    "edt_tracking_info": "{\"edt_min\":2,\"edt_max\":6,\"edt_min_hours\":46,\"edt_max_hours\":128,\"edt_display_identifier\":65545,\"buyer_address_hash\":\"1AXnLtm\"}"
+                },
+                {
+                    "channel_id": 30015,
+                    "name": "蝦皮店到店",
+                    "price": {
+                        "single_value": 0,
+                        "range_min": -1,
+                        "range_max": -1,
+                        "price_mask": null
+                    },
+                    "price_before_discount": {
+                        "single_value": 4500000,
+                        "range_min": -1,
+                        "range_max": -1,
+                        "price_mask": null
+                    },
+                    "channel_delivery_info": {
+                        "has_edt": true,
+                        "display_mode": "edt_by_date",
+                        "estimated_delivery_date_from": 1758631878,
+                        "estimated_delivery_date_to": 1759150278,
+                        "estimated_delivery_time_min": 3,
+                        "estimated_delivery_time_max": 9,
+                        "delay_message": "免運店家滿$199無限免運; 週三週六$149無限免運",
+                        "is_fastest_edt_channel": false,
+                        "sla_message": "",
+                        "show_edt": true,
+                        "edt_text": "預計配達時間 9月23日 - 9月29日",
+                        "formatted_edt_text": [
+                            {
+                                "template": "預計配達時間 9月23日 - 9月29日",
+                                "format": null,
+                                "attributes": null,
+                                "text_color": null,
+                                "text_hex_color": null
+                            }
+                        ],
+                        "formatted_pre_order_text": null,
+                        "formatted_fbs_description_text": null,
+                        "show_edt_as_header": false
+                    },
+                    "channel_promotion_infos": [],
+                    "warning": null,
+                    "shipping_icon_type": null,
+                    "lowest_bpsf_promotion_rule": null,
+                    "service_type_info": "",
+                    "is_integrated_channel": true,
+                    "late_delivery_compensation": {
+                        "type": 1,
+                        "amount": 1000000,
+                        "is_guaranteed_edt": true,
+                        "compensation_amount": null,
+                        "text": null
+                    },
+                    "is_sst_included": false,
+                    "display_text": {
+                        "late_delivery_compensation": {
+                            "text": "如果訂單未能準時配達，您可以領取 {compensation_amount} 優惠券作為補償",
+                            "gdt_max": null,
+                            "compensation_amount": {
+                                "value": 1000000
+                            }
+                        },
+                        "direct_delivery": null,
+                        "fulfilled_by_shopee": null,
+                        "spx_instant_delivery": null
+                    },
+                    "rule_type": 0,
+                    "is_xdd_channel": false,
+                    "show_shopee_plus_icon": false,
+                    "xdd_value": null,
+                    "hide_shipping_fee": null,
+                    "edt_tracking_info": "{\"edt_min\":3,\"edt_max\":9,\"edt_min_hours\":72,\"edt_max_hours\":216,\"edt_display_identifier\":327689,\"buyer_address_hash\":\"1AXnLtm\"}"
+                },
+                {
+                    "channel_id": 30019,
+                    "name": "蝦皮店到店 - 隔日到貨",
+                    "price": {
+                        "single_value": 6000000,
+                        "range_min": -1,
+                        "range_max": -1,
+                        "price_mask": null
+                    },
+                    "price_before_discount": null,
+                    "channel_delivery_info": {
+                        "has_edt": true,
+                        "display_mode": "edt_by_date",
+                        "estimated_delivery_date_from": 1758631878,
+                        "estimated_delivery_date_to": 1758631878,
+                        "estimated_delivery_time_min": 3,
+                        "estimated_delivery_time_max": 3,
+                        "delay_message": "免運店家滿$299免運; 平日14點前下單隔日晚間到",
+                        "is_fastest_edt_channel": false,
+                        "sla_message": "",
+                        "show_edt": true,
+                        "edt_text": "預計配達日 9月23日",
+                        "formatted_edt_text": [
+                            {
+                                "template": "預計配達日 9月23日",
+                                "format": null,
+                                "attributes": null,
+                                "text_color": null,
+                                "text_hex_color": null
+                            }
+                        ],
+                        "formatted_pre_order_text": null,
+                        "formatted_fbs_description_text": null,
+                        "show_edt_as_header": false
+                    },
+                    "channel_promotion_infos": [],
+                    "warning": null,
+                    "shipping_icon_type": null,
+                    "lowest_bpsf_promotion_rule": null,
+                    "service_type_info": "",
+                    "is_integrated_channel": true,
+                    "late_delivery_compensation": {
+                        "type": 1,
+                        "amount": 3000000,
+                        "is_guaranteed_edt": true,
+                        "compensation_amount": null,
+                        "text": null
+                    },
+                    "is_sst_included": false,
+                    "display_text": {
+                        "late_delivery_compensation": {
+                            "text": "如果訂單未能準時配達，您可以領取 {compensation_amount} 優惠券作為補償",
+                            "gdt_max": null,
+                            "compensation_amount": {
+                                "value": 3000000
+                            }
+                        },
+                        "direct_delivery": null,
+                        "fulfilled_by_shopee": null,
+                        "spx_instant_delivery": null
+                    },
+                    "rule_type": 0,
+                    "is_xdd_channel": false,
+                    "show_shopee_plus_icon": false,
+                    "xdd_value": null,
+                    "hide_shipping_fee": null,
+                    "edt_tracking_info": "{\"edt_min\":3,\"edt_max\":3,\"edt_min_hours\":72,\"edt_max_hours\":72,\"edt_display_identifier\":294921,\"buyer_address_hash\":\"1AXnLtm\"}"
+                },
+                {
+                    "channel_id": 30005,
+                    "name": "7-ELEVEN",
+                    "price": {
+                        "single_value": 0,
+                        "range_min": -1,
+                        "range_max": -1,
+                        "price_mask": null
+                    },
+                    "price_before_discount": {
+                        "single_value": 6000000,
+                        "range_min": -1,
+                        "range_max": -1,
+                        "price_mask": null
+                    },
+                    "channel_delivery_info": {
+                        "has_edt": true,
+                        "display_mode": "edt_by_date",
+                        "estimated_delivery_date_from": 1758545478,
+                        "estimated_delivery_date_to": 1758804678,
+                        "estimated_delivery_time_min": 2,
+                        "estimated_delivery_time_max": 5,
+                        "delay_message": null,
+                        "is_fastest_edt_channel": false,
+                        "sla_message": "",
+                        "show_edt": true,
+                        "edt_text": "預計配達時間 9月22日 - 9月25日",
+                        "formatted_edt_text": [
+                            {
+                                "template": "預計配達時間 9月22日 - 9月25日",
+                                "format": null,
+                                "attributes": null,
+                                "text_color": null,
+                                "text_hex_color": null
+                            }
+                        ],
+                        "formatted_pre_order_text": null,
+                        "formatted_fbs_description_text": null,
+                        "show_edt_as_header": false
+                    },
+                    "channel_promotion_infos": [],
+                    "warning": null,
+                    "shipping_icon_type": null,
+                    "lowest_bpsf_promotion_rule": null,
+                    "service_type_info": "",
+                    "is_integrated_channel": true,
+                    "late_delivery_compensation": null,
+                    "is_sst_included": false,
+                    "display_text": {
+                        "late_delivery_compensation": null,
+                        "direct_delivery": null,
+                        "fulfilled_by_shopee": null,
+                        "spx_instant_delivery": null
+                    },
+                    "rule_type": 0,
+                    "is_xdd_channel": false,
+                    "show_shopee_plus_icon": false,
+                    "xdd_value": null,
+                    "hide_shipping_fee": null,
+                    "edt_tracking_info": "{\"edt_min\":2,\"edt_max\":5,\"edt_min_hours\":48,\"edt_max_hours\":120,\"edt_display_identifier\":65545,\"buyer_address_hash\":\"1AXnLtm\"}"
+                },
+                {
+                    "channel_id": 30006,
+                    "name": "全家",
+                    "price": {
+                        "single_value": 0,
+                        "range_min": -1,
+                        "range_max": -1,
+                        "price_mask": null
+                    },
+                    "price_before_discount": {
+                        "single_value": 6000000,
+                        "range_min": -1,
+                        "range_max": -1,
+                        "price_mask": null
+                    },
+                    "channel_delivery_info": {
+                        "has_edt": true,
+                        "display_mode": "edt_by_date",
+                        "estimated_delivery_date_from": 1758545478,
+                        "estimated_delivery_date_to": 1758804678,
+                        "estimated_delivery_time_min": 2,
+                        "estimated_delivery_time_max": 5,
+                        "delay_message": null,
+                        "is_fastest_edt_channel": false,
+                        "sla_message": "",
+                        "show_edt": true,
+                        "edt_text": "預計配達時間 9月22日 - 9月25日",
+                        "formatted_edt_text": [
+                            {
+                                "template": "預計配達時間 9月22日 - 9月25日",
+                                "format": null,
+                                "attributes": null,
+                                "text_color": null,
+                                "text_hex_color": null
+                            }
+                        ],
+                        "formatted_pre_order_text": null,
+                        "formatted_fbs_description_text": null,
+                        "show_edt_as_header": false
+                    },
+                    "channel_promotion_infos": [],
+                    "warning": null,
+                    "shipping_icon_type": null,
+                    "lowest_bpsf_promotion_rule": null,
+                    "service_type_info": "",
+                    "is_integrated_channel": true,
+                    "late_delivery_compensation": null,
+                    "is_sst_included": false,
+                    "display_text": {
+                        "late_delivery_compensation": null,
+                        "direct_delivery": null,
+                        "fulfilled_by_shopee": null,
+                        "spx_instant_delivery": null
+                    },
+                    "rule_type": 0,
+                    "is_xdd_channel": false,
+                    "show_shopee_plus_icon": false,
+                    "xdd_value": null,
+                    "hide_shipping_fee": null,
+                    "edt_tracking_info": "{\"edt_min\":2,\"edt_max\":5,\"edt_min_hours\":48,\"edt_max_hours\":120,\"edt_display_identifier\":65545,\"buyer_address_hash\":\"1AXnLtm\"}"
+                },
+                {
+                    "channel_id": 30007,
+                    "name": "萊爾富",
+                    "price": {
+                        "single_value": 0,
+                        "range_min": -1,
+                        "range_max": -1,
+                        "price_mask": null
+                    },
+                    "price_before_discount": {
+                        "single_value": 5000000,
+                        "range_min": -1,
+                        "range_max": -1,
+                        "price_mask": null
+                    },
+                    "channel_delivery_info": {
+                        "has_edt": true,
+                        "display_mode": "edt_by_date",
+                        "estimated_delivery_date_from": 1758631878,
+                        "estimated_delivery_date_to": 1758804678,
+                        "estimated_delivery_time_min": 3,
+                        "estimated_delivery_time_max": 5,
+                        "delay_message": null,
+                        "is_fastest_edt_channel": false,
+                        "sla_message": "",
+                        "show_edt": true,
+                        "edt_text": "預計配達時間 9月23日 - 9月25日",
+                        "formatted_edt_text": [
+                            {
+                                "template": "預計配達時間 9月23日 - 9月25日",
+                                "format": null,
+                                "attributes": null,
+                                "text_color": null,
+                                "text_hex_color": null
+                            }
+                        ],
+                        "formatted_pre_order_text": null,
+                        "formatted_fbs_description_text": null,
+                        "show_edt_as_header": false
+                    },
+                    "channel_promotion_infos": [],
+                    "warning": null,
+                    "shipping_icon_type": null,
+                    "lowest_bpsf_promotion_rule": null,
+                    "service_type_info": "",
+                    "is_integrated_channel": true,
+                    "late_delivery_compensation": null,
+                    "is_sst_included": false,
+                    "display_text": {
+                        "late_delivery_compensation": null,
+                        "direct_delivery": null,
+                        "fulfilled_by_shopee": null,
+                        "spx_instant_delivery": null
+                    },
+                    "rule_type": 0,
+                    "is_xdd_channel": false,
+                    "show_shopee_plus_icon": false,
+                    "xdd_value": null,
+                    "hide_shipping_fee": null,
+                    "edt_tracking_info": "{\"edt_min\":3,\"edt_max\":5,\"edt_min_hours\":72,\"edt_max_hours\":120,\"edt_display_identifier\":65545,\"buyer_address_hash\":\"1AXnLtm\"}"
+                }
+            ],
+            "grouped_channel_infos_by_service_type": [],
+            "also_available_channel_name": "",
+            "pre_selected_shipping_channel": {
+                "channel_id": 30014,
+                "name": "OK Mart",
+                "price": {
+                    "single_value": 0,
+                    "range_min": -1,
+                    "range_max": -1,
+                    "price_mask": null
+                },
+                "price_before_discount": {
+                    "single_value": 4500000,
+                    "range_min": -1,
+                    "range_max": -1,
+                    "price_mask": null
+                },
+                "channel_delivery_info": {
+                    "has_edt": true,
+                    "display_mode": "edt_by_date",
+                    "estimated_delivery_date_from": 1758537237,
+                    "estimated_delivery_date_to": 1758830254,
+                    "estimated_delivery_time_min": 2,
+                    "estimated_delivery_time_max": 6,
+                    "delay_message": "",
+                    "is_fastest_edt_channel": false,
+                    "sla_message": "",
+                    "show_edt": true,
+                    "edt_text": "預計配達時間 9月22日 - 9月26日",
+                    "formatted_edt_text": [
+                        {
+                            "template": "預計配達時間 9月22日 - 9月26日",
+                            "format": [],
+                            "attributes": null,
+                            "text_color": null,
+                            "text_hex_color": null
+                        }
+                    ],
+                    "formatted_pre_order_text": null,
+                    "formatted_fbs_description_text": null,
+                    "show_edt_as_header": false
+                },
+                "channel_promotion_infos": [],
+                "warning": {
+                    "type": "",
+                    "warning_msg": ""
+                },
+                "shipping_icon_type": null,
+                "lowest_bpsf_promotion_rule": null,
+                "service_type_info": "",
+                "is_integrated_channel": true,
+                "late_delivery_compensation": null,
+                "is_sst_included": false,
+                "display_text": {
+                    "late_delivery_compensation": null,
+                    "direct_delivery": null,
+                    "fulfilled_by_shopee": null,
+                    "spx_instant_delivery": null
+                },
+                "rule_type": 0,
+                "is_xdd_channel": false,
+                "show_shopee_plus_icon": false,
+                "xdd_value": 0,
+                "hide_shipping_fee": null,
+                "edt_tracking_info": null
+            },
+            "show_grouped_channel_first": false,
+            "is_item_with_price_range": false,
+            "also_available_channel_icon_type": null,
+            "pre_order_text": "",
+            "selected_late_delivery_compensation_for_drawer": null,
+            "shipping_info_text": {
+                "text_template": null,
+                "shipping_fee": null,
+                "edt_from": null,
+                "edt_to": null,
+                "show_shipping_fee_suffix": true,
+                "formatted_text": {
+                    "edt": {
+                        "template": "預計配達時間 9月22日 - 9月26日",
+                        "format": null,
+                        "attributes": null,
+                        "text_color": null,
+                        "text_hex_color": null
+                    },
+                    "shipping_fee": {
+                        "template": "運費：$0 起",
+                        "format": null,
+                        "attributes": null,
+                        "text_color": null,
+                        "text_hex_color": null
+                    },
+                    "late_delivery_compensation": null,
+                    "fbs_description": null,
+                    "display_edt_text_first_line": true
+                },
+                "highlight_free_shipping": false
+            },
+            "formatted_pre_order_text": null,
+            "has_free_return": null,
+            "model_id": 295467925955,
+            "delivery_address": {
+                "state": "臺北市",
+                "city": "中正區",
+                "district": null,
+                "town": null,
+                "zip_code": null,
+                "address": null,
+                "region": null,
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        "shop_vouchers": [
+            {
+                "promotionid": 1192377901416448,
+                "voucher_code": "IRMA65894",
+                "signature": "dfc6199c8cf49cdb730820de6de691ee1a3b9cc548295a4fdcdd14dea8af88a8",
+                "use_type": 0,
+                "platform_type": null,
+                "voucher_market_type": 1,
+                "min_spend": 129900000,
+                "used_price": 5500000,
+                "current_spend": null,
+                "product_limit": false,
+                "quota_type": 1,
+                "percentage_claimed": 0,
+                "percentage_used": 10,
+                "start_time": 1751602140,
+                "end_time": 1759640940,
+                "collect_time": 0,
+                "claim_start_time": 0,
+                "valid_days": 0,
+                "reward_type": 0,
+                "reward_percentage": 0,
+                "reward_value": 5500000,
+                "reward_cap": 0,
+                "coin_earned": null,
+                "title": null,
+                "use_link": null,
+                "icon_hash": "tw-11134216-7rbkb-m81p3maehshx1a",
+                "icon_text": "飾飾如意屋",
+                "icon_url": null,
+                "customised_labels": [],
+                "customised_product_scope_tags": null,
+                "shop_id": 1427314432,
+                "shop_name": "飾飾如意屋",
+                "is_shop_preferred": false,
+                "is_shop_official": false,
+                "shop_count": null,
+                "ui_display_type": null,
+                "customised_mall_name": null,
+                "small_icon_list": null,
+                "dp_category_name": null,
+                "invalid_message_code": null,
+                "invalid_message": null,
+                "display_labels": null,
+                "wallet_redeemable": false,
+                "customer_reference_id": "SHOP-23F13088E82802280000001005501514",
+                "fully_redeemed": null,
+                "has_expired": null,
+                "disabled": null,
+                "voucher_external_market_type": null,
+                "now_food_extra_info": null,
+                "airpay_opv_extra_info": null,
+                "partner_extra_info": null,
+                "discount_value": 5500000,
+                "discount_percentage": 0,
+                "discount_cap": 0,
+                "coin_percentage": null,
+                "coin_cap": null,
+                "usage_limit": null,
+                "used_count": null,
+                "left_count": null,
+                "shopee_wallet_only": false,
+                "new_user_only": null,
+                "description": "這個頁面不支援你現在的蝦皮購物APP版本，請更新APP以繼續瀏覽。",
+                "shop_logo": "tw-11134216-7rbkb-m81p3maehshx1a",
+                "error_code": 0,
+                "is_claimed_before": false,
+                "customised_product_scope_tag_image_hash": null,
+                "usage_limit_per_user": 1,
+                "remaining_usage_limit": 1,
+                "action": null,
+                "sub_icon_text": null,
+                "is_customised_icon": null,
+                "fixed_flag": null,
+                "customised_flag": null,
+                "fsv_voucher_card_ui_info": null
+            },
+            {
+                "promotionid": 1192376794120192,
+                "voucher_code": "IRMA96584",
+                "signature": "a4fac3c0aa8e47e0884ae04fbfb9df77242ec66cb6856a3a2b3d55c3d25f5ad2",
+                "use_type": 0,
+                "platform_type": null,
+                "voucher_market_type": 1,
+                "min_spend": 99900000,
+                "used_price": 2500000,
+                "current_spend": null,
+                "product_limit": false,
+                "quota_type": 1,
+                "percentage_claimed": 0,
+                "percentage_used": 10,
+                "start_time": 1751601720,
+                "end_time": 1759640520,
+                "collect_time": 0,
+                "claim_start_time": 0,
+                "valid_days": 0,
+                "reward_type": 0,
+                "reward_percentage": 0,
+                "reward_value": 2500000,
+                "reward_cap": 0,
+                "coin_earned": null,
+                "title": null,
+                "use_link": null,
+                "icon_hash": "tw-11134216-7rbkb-m81p3maehshx1a",
+                "icon_text": "飾飾如意屋",
+                "icon_url": null,
+                "customised_labels": [],
+                "customised_product_scope_tags": null,
+                "shop_id": 1427314432,
+                "shop_name": "飾飾如意屋",
+                "is_shop_preferred": false,
+                "is_shop_official": false,
+                "shop_count": null,
+                "ui_display_type": null,
+                "customised_mall_name": null,
+                "small_icon_list": null,
+                "dp_category_name": null,
+                "invalid_message_code": null,
+                "invalid_message": null,
+                "display_labels": null,
+                "wallet_redeemable": false,
+                "customer_reference_id": "SHOP-79E79088E82802280000001005501511",
+                "fully_redeemed": null,
+                "has_expired": null,
+                "disabled": null,
+                "voucher_external_market_type": null,
+                "now_food_extra_info": null,
+                "airpay_opv_extra_info": null,
+                "partner_extra_info": null,
+                "discount_value": 2500000,
+                "discount_percentage": 0,
+                "discount_cap": 0,
+                "coin_percentage": null,
+                "coin_cap": null,
+                "usage_limit": null,
+                "used_count": null,
+                "left_count": null,
+                "shopee_wallet_only": false,
+                "new_user_only": null,
+                "description": "這個頁面不支援你現在的蝦皮購物APP版本，請更新APP以繼續瀏覽。",
+                "shop_logo": "tw-11134216-7rbkb-m81p3maehshx1a",
+                "error_code": 0,
+                "is_claimed_before": false,
+                "customised_product_scope_tag_image_hash": null,
+                "usage_limit_per_user": 1,
+                "remaining_usage_limit": 1,
+                "action": null,
+                "sub_icon_text": null,
+                "is_customised_icon": null,
+                "fixed_flag": null,
+                "customised_flag": null,
+                "fsv_voucher_card_ui_info": null
+            },
+            {
+                "promotionid": 1192510558994432,
+                "voucher_code": "IRMA98654",
+                "signature": "97bdab440fa49af923be40f0c86af98698d964ae3b20f771517c3f669e8f19d1",
+                "use_type": 0,
+                "platform_type": null,
+                "voucher_market_type": 1,
+                "min_spend": 30000000,
+                "used_price": 1000000,
+                "current_spend": null,
+                "product_limit": false,
+                "quota_type": 1,
+                "percentage_claimed": 0,
+                "percentage_used": 36,
+                "start_time": 1751617980,
+                "end_time": 1759656780,
+                "collect_time": 0,
+                "claim_start_time": 0,
+                "valid_days": 0,
+                "reward_type": 0,
+                "reward_percentage": 0,
+                "reward_value": 1000000,
+                "reward_cap": 0,
+                "coin_earned": null,
+                "title": null,
+                "use_link": null,
+                "icon_hash": "tw-11134216-7rbkb-m81p3maehshx1a",
+                "icon_text": "飾飾如意屋",
+                "icon_url": null,
+                "customised_labels": [
+                    {
+                        "content": "新客折價券"
+                    }
+                ],
+                "customised_product_scope_tags": null,
+                "shop_id": 1427314432,
+                "shop_name": "飾飾如意屋",
+                "is_shop_preferred": false,
+                "is_shop_official": false,
+                "shop_count": null,
+                "ui_display_type": null,
+                "customised_mall_name": null,
+                "small_icon_list": null,
+                "dp_category_name": null,
+                "invalid_message_code": null,
+                "invalid_message": null,
+                "display_labels": null,
+                "wallet_redeemable": false,
+                "customer_reference_id": "SHOP-00001086E82802280000001005504111",
+                "fully_redeemed": null,
+                "has_expired": null,
+                "disabled": null,
+                "voucher_external_market_type": null,
+                "now_food_extra_info": null,
+                "airpay_opv_extra_info": null,
+                "partner_extra_info": null,
+                "discount_value": 1000000,
+                "discount_percentage": 0,
+                "discount_cap": 0,
+                "coin_percentage": null,
+                "coin_cap": null,
+                "usage_limit": null,
+                "used_count": null,
+                "left_count": null,
+                "shopee_wallet_only": false,
+                "new_user_only": null,
+                "description": "這個頁面不支援你現在的蝦皮購物APP版本，請更新APP以繼續瀏覽。",
+                "shop_logo": "tw-11134216-7rbkb-m81p3maehshx1a",
+                "error_code": 0,
+                "is_claimed_before": false,
+                "customised_product_scope_tag_image_hash": null,
+                "usage_limit_per_user": 1,
+                "remaining_usage_limit": 1,
+                "action": null,
+                "sub_icon_text": null,
+                "is_customised_icon": null,
+                "fixed_flag": null,
+                "customised_flag": null,
+                "fsv_voucher_card_ui_info": null
+            },
+            {
+                "promotionid": 1192387741384704,
+                "voucher_code": "IRMA56241",
+                "signature": "f5be2ea84c980862e9ea708f6c5d70b4ba0db130c17eafb232f1d01b529b2cc8",
+                "use_type": 0,
+                "platform_type": null,
+                "voucher_market_type": 1,
+                "min_spend": 199900000,
+                "used_price": 10000000,
+                "current_spend": null,
+                "product_limit": false,
+                "quota_type": 1,
+                "percentage_claimed": 0,
+                "percentage_used": 10,
+                "start_time": 1751605920,
+                "end_time": 1759641120,
+                "collect_time": 0,
+                "claim_start_time": 0,
+                "valid_days": 0,
+                "reward_type": 0,
+                "reward_percentage": 0,
+                "reward_value": 10000000,
+                "reward_cap": 0,
+                "coin_earned": null,
+                "title": null,
+                "use_link": null,
+                "icon_hash": "tw-11134216-7rbkb-m81p3maehshx1a",
+                "icon_text": "飾飾如意屋",
+                "icon_url": null,
+                "customised_labels": [],
+                "customised_product_scope_tags": null,
+                "shop_id": 1427314432,
+                "shop_name": "飾飾如意屋",
+                "is_shop_preferred": false,
+                "is_shop_official": false,
+                "shop_count": null,
+                "ui_display_type": null,
+                "customised_mall_name": null,
+                "small_icon_list": null,
+                "dp_category_name": null,
+                "invalid_message_code": null,
+                "invalid_message": null,
+                "display_labels": null,
+                "wallet_redeemable": false,
+                "customer_reference_id": "SHOP-BE1F788CE82802280000001005501540",
+                "fully_redeemed": null,
+                "has_expired": null,
+                "disabled": null,
+                "voucher_external_market_type": null,
+                "now_food_extra_info": null,
+                "airpay_opv_extra_info": null,
+                "partner_extra_info": null,
+                "discount_value": 10000000,
+                "discount_percentage": 0,
+                "discount_cap": 0,
+                "coin_percentage": null,
+                "coin_cap": null,
+                "usage_limit": null,
+                "used_count": null,
+                "left_count": null,
+                "shopee_wallet_only": false,
+                "new_user_only": null,
+                "description": "這個頁面不支援你現在的蝦皮購物APP版本，請更新APP以繼續瀏覽。",
+                "shop_logo": "tw-11134216-7rbkb-m81p3maehshx1a",
+                "error_code": 9,
+                "is_claimed_before": false,
+                "customised_product_scope_tag_image_hash": null,
+                "usage_limit_per_user": 1,
+                "remaining_usage_limit": 1,
+                "action": null,
+                "sub_icon_text": null,
+                "is_customised_icon": null,
+                "fixed_flag": null,
+                "customised_flag": null,
+                "fsv_voucher_card_ui_info": null
+            }
+        ],
+        "free_return": null,
+        "coin_info": {
+            "spend_cash_unit": 100000,
+            "coin_earn_items": [],
+            "coin_earn_label": null
+        },
+        "product_attributes": {
+            "attrs": [
+                {
+                    "name": "限量活動價庫存",
+                    "value": "20",
+                    "id": null,
+                    "is_timestamp": null,
+                    "brand_option": null,
+                    "val_id": null,
+                    "url": null,
+                    "brand_id": null,
+                    "full_url": null,
+                    "type": 9,
+                    "item_attribute_type": null,
+                    "name_tr": null,
+                    "value_tr": null
+                },
+                {
+                    "name": "其他庫存",
+                    "value": "尚有庫存",
+                    "id": null,
+                    "is_timestamp": null,
+                    "brand_option": null,
+                    "val_id": null,
+                    "url": null,
+                    "brand_id": null,
+                    "full_url": null,
+                    "type": 10,
+                    "item_attribute_type": null,
+                    "name_tr": null,
+                    "value_tr": null
+                },
+                {
+                    "name": "膚質",
+                    "value": "全膚質, 混和肌, 乾性肌, 暗沉",
+                    "id": 100049,
+                    "is_timestamp": null,
+                    "brand_option": null,
+                    "val_id": null,
+                    "url": null,
+                    "brand_id": null,
+                    "full_url": null,
+                    "type": 5,
+                    "item_attribute_type": null,
+                    "name_tr": null,
+                    "value_tr": null
+                },
+                {
+                    "name": "護膚功效",
+                    "value": "減少粉刺, 延緩老化, 乾燥, 膚色不均",
+                    "id": 100099,
+                    "is_timestamp": null,
+                    "brand_option": null,
+                    "val_id": null,
+                    "url": null,
+                    "brand_id": null,
+                    "full_url": null,
+                    "type": 5,
+                    "item_attribute_type": null,
+                    "name_tr": null,
+                    "value_tr": null
+                },
+                {
+                    "name": "保存期限",
+                    "value": "24個月",
+                    "id": 100010,
+                    "is_timestamp": null,
+                    "brand_option": null,
+                    "val_id": null,
+                    "url": null,
+                    "brand_id": null,
+                    "full_url": null,
+                    "type": 5,
+                    "item_attribute_type": null,
+                    "name_tr": null,
+                    "value_tr": null
+                },
+                {
+                    "name": "包裝尺寸",
+                    "value": "100ML",
+                    "id": 101029,
+                    "is_timestamp": null,
+                    "brand_option": null,
+                    "val_id": null,
+                    "url": null,
+                    "brand_id": null,
+                    "full_url": null,
+                    "type": 5,
+                    "item_attribute_type": null,
+                    "name_tr": null,
+                    "value_tr": null
+                },
+                {
+                    "name": "出貨地",
+                    "value": "桃園市八德區",
+                    "id": null,
+                    "is_timestamp": null,
+                    "brand_option": null,
+                    "val_id": null,
+                    "url": null,
+                    "brand_id": null,
+                    "full_url": null,
+                    "type": 6,
+                    "item_attribute_type": null,
+                    "name_tr": null,
+                    "value_tr": null
+                }
+            ],
+            "categories": [
+                {
+                    "catid": 11041691,
+                    "display_name": "美妝保養",
+                    "no_sub": false,
+                    "is_default_subcat": false
+                },
+                {
+                    "catid": 11041752,
+                    "display_name": "醫美清潔保養",
+                    "no_sub": false,
+                    "is_default_subcat": false
+                },
+                {
+                    "catid": 11046882,
+                    "display_name": "精華液",
+                    "no_sub": true,
+                    "is_default_subcat": false
+                }
+            ],
+            "related_items": []
+        },
+        "shop_detailed": {
+            "shopid": 1427314432,
+            "userid": 1428014111,
+            "last_active_time": 1758372536,
+            "vacation": false,
+            "place": "桃園市八德區",
+            "account": {
+                "portrait": "tw-11134216-7rbkb-m81p3maehshx1a",
+                "username": "irmajenkins105",
+                "status": 1
+            },
+            "is_shopee_verified": false,
+            "is_preferred_plus_seller": false,
+            "is_official_shop": false,
+            "shop_location": "桃園市八德區",
+            "item_count": 7,
+            "rating_star": 4.946746,
+            "response_rate": 89,
+            "session_info": null,
+            "name": "飾飾如意屋",
+            "ctime": 1734100618,
+            "response_time": 8121,
+            "follower_count": 29,
+            "show_official_shop_label": false,
+            "rating_bad": 1,
+            "rating_good": 170,
+            "rating_normal": 0,
+            "session_infos": null,
+            "status": 1,
+            "is_individual_seller": null,
+            "is_mart": false,
+            "favorite_shop_info": null,
+            "is_3pf": false,
+            "sold_total": 1269,
+            "is_shopee_choice": false,
+            "is_high_end": false,
+            "banner": {
+                "shopee_choice": null
+            },
+            "authorized_brand": null,
+            "is_scs": false,
+            "shop_location_tr": null,
+            "sold_total_display": null,
+            "is_outlet": false,
+            "display_fbs_logo": false
+        },
+        "age_gate_control": null,
+        "abnormal_popup": null,
+        "return_on_spot": null,
+        "display_sections": {
+            "add_on_deal": null,
+            "bundle_deal": null,
+            "exclusive_price_label": null,
+            "free_return": null,
+            "coin": null,
+            "wholesale": null
+        },
+        "ineligible_ep": null,
+        "tax_disclaimer": null,
+        "alcohol_disclaimer": null,
+        "design_control": {
+            "use_new_revamp_first_screen": null,
+            "display_on_time_delivery_guarantee": true,
+            "disable_price_with_variation": false,
+            "display_direct_delivery": false,
+            "use_new_featured_video_revamp": null,
+            "first_screen_revamp_abtest_group": null,
+            "display_choice_customised_section": false,
+            "is_support_fbs_enabled": false,
+            "top_section_featured_video_ab_test_group": null,
+            "enable_ksp_config": null,
+            "disable_main_page_select_variation": null,
+            "support_shop_review_preview": null,
+            "pdp_revamp_phase1_improvement_ui_review_down": null,
+            "display_fashion_attributes": null,
+            "display_fashion_review_section": null,
+            "display_fashion_first_screen": null,
+            "enable_fashion_review_improvements": null,
+            "display_fbs_floating_counter": null,
+            "display_shipping_drawer_new_free_shipping_text": false,
+            "display_shipping_drawer_new_free_shipping_ui": false
+        },
+        "shopee_free_return": null,
+        "detail_level": 0,
+        "removed_fields": null,
+        "size_guide": null,
+        "designer_info": null,
+        "shipping_info": null,
+        "vehicle_compatibility_info": null,
+        "nea": null,
+        "button_group": {
+            "buy_with_voucher": null,
+            "ineligible_user_platform_exclusive_sku": null
+        },
+        "installment_drawer": {
+            "priority": [
+                0,
+                1
+            ],
+            "spl": null,
+            "bank": {
+                "channels": null
+            },
+            "credit_card": null
+        },
+        "ongoing_banner": {
+            "welcome_package": null,
+            "flash_sale": {
+                "skin": {
+                    "main_color": "#EE4D2D",
+                    "secondary_color": "#FF7337",
+                    "end_time": 1758373200
+                },
+                "promotion_id": 186283071123456
+            },
+            "deep_discount": null,
+            "live_stream": null,
+            "exclusive_price": null,
+            "membership_exclusive": null,
+            "recommended_shop_voucher": null,
+            "recommended_voucher": null,
+            "platform_exclusive_sku": null
+        },
+        "teaser_banner": null,
+        "price_breakdown": {
+            "price": {
+                "single_value": 144400000,
+                "range_min": -1,
+                "range_max": -1,
+                "price_mask": null
+            },
+            "price_before_discount": {
+                "single_value": 326500000,
+                "range_min": -1,
+                "range_max": -1,
+                "price_mask": null
+            },
+            "discount_breakdown": [
+                {
+                    "type": 0,
+                    "price_source": "商品折扣",
+                    "discount_amount": 176600000,
+                    "exclusive_price": null,
+                    "shop_voucher": null,
+                    "platform_voucher": null
+                },
+                {
+                    "type": 2,
+                    "price_source": "賣場優惠券",
+                    "discount_amount": 5500000,
+                    "exclusive_price": null,
+                    "shop_voucher": {
+                        "min_spend": 129900000,
+                        "discount_type": 0,
+                        "discount_value": 5500000,
+                        "discount_percentage": null
+                    },
+                    "platform_voucher": null
+                }
+            ]
+        },
+        "membership_exclusive": null,
+        "membership_exclusive_teaser": null,
+        "service_entrance": {
+            "services": [
+                {
+                    "text": "蝦皮放心買",
+                    "type": null,
+                    "id": 52
+                },
+                {
+                    "text": "蝦皮安心退",
+                    "type": null,
+                    "id": 51
+                }
+            ]
+        },
+        "service_drawer": {
+            "services": [
+                {
+                    "title": "蝦皮放心買",
+                    "description": "除了賣家實名認證跟商品合規檢驗外，蝦皮也實行賣家計分管理，針對營運表現不佳的賣家進行取締。管理項目包含訂單未完成率、延遲出貨率、違反上架規範等。",
+                    "type": null,
+                    "free_return": null,
+                    "insurance": null,
+                    "id": 52,
+                    "redirection_url": "https://shopee.tw/m/worry-free#anchorId-1737101390274",
+                    "icon": "tw-11134258-7rbkc-m8vjh2lirw12cc",
+                    "insurance_drawer": null
+                },
+                {
+                    "title": "蝦皮安心退",
+                    "description": "蝦皮安心退由蝦皮協助審核，您無須先與賣家溝通，一鍵即可申請退貨。除特殊退貨物流，您也無須負擔退貨運費。        ",
+                    "type": null,
+                    "free_return": null,
+                    "insurance": null,
+                    "id": 51,
+                    "redirection_url": "https://shopee.tw/m/newrr",
+                    "icon": "tw-11134258-7rasm-m2rus0ffw963d1",
+                    "insurance_drawer": null
+                }
+            ]
+        },
+        "trade_in": null,
+        "product_description": {
+            "paragraph_list": [
+                {
+                    "type": 0,
+                    "text": "🌟 CLINIQUE 倩碧 超激光勻淨白淡斑精粹 100ml  🌟",
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 0,
+                    "text": "📦 產品容量： 100ml",
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 10001,
+                    "text": null,
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": 1
+                },
+                {
+                    "type": 0,
+                    "text": "✨ 產品特色：",
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 0,
+                    "text": "專為改善色素斑點設計，幫助淡化頑固斑點與暗沉。",
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 0,
+                    "text": "內含多種活性美白成分，均勻膚色，提升肌膚明亮感。",
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 0,
+                    "text": "質地輕盈易吸收，不黏膩，適合各種膚質使用。",
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 0,
+                    "text": "持續使用，改善膚色不均，讓肌膚更加透亮細緻。",
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 10001,
+                    "text": null,
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": 1
+                },
+                {
+                    "type": 0,
+                    "text": "📌 使用方法：",
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 0,
+                    "text": "每日早晚潔膚後使用。",
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 0,
+                    "text": "取適量精粹，均勻塗抹於臉部及有色斑部位，輕輕按摩至吸收。",
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 0,
+                    "text": "建議搭配防曬產品，提升淡斑效果。",
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 10001,
+                    "text": null,
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": 1
+                },
+                {
+                    "type": 0,
+                    "text": "🌈 為何選擇CLINIQUE超激光勻淨白淡斑精粹？",
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 0,
+                    "text": "✔ 有效淡斑，美白不反黑。",
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 0,
+                    "text": "✔ 安全溫和，適合敏感肌膚。",
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 0,
+                    "text": "✔ 倩碧研發，品質有保障。",
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 10001,
+                    "text": null,
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": 1
+                },
+                {
+                    "type": 0,
+                    "text": "💖 還在為斑點困擾嗎？立即體驗CLINIQUE超激光勻淨白淡斑精粹，讓肌膚綻放均勻光采！",
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                }
+            ],
+            "source_language": ""
+        },
+        "selected_tiers": {
+            "0": 0
+        },
+        "size_info": null,
+        "size_recommendation": null
+    }
+}

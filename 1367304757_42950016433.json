@@ -1,0 +1,3464 @@
+{
+    "bff_meta": null,
+    "error": null,
+    "error_msg": null,
+    "data": {
+        "item": {
+            "item_id": 42950016433,
+            "shop_id": 1367304757,
+            "item_status": "normal",
+            "status": 1,
+            "item_type": 0,
+            "reference_item_id": "",
+            "title": "🔥Dr Ruibeila美白精華液｜維他命C精華+a醇精華 ｜ 377+煙酰胺淡斑提亮精華｜亮白去黃淡斑｜提亮暗沉｜現貨",
+            "image": "tw-11134207-7ra0h-mdu5vw85qpki41",
+            "label_ids": [
+                844931086908638,
+                844931064601283,
+                822059780857868,
+                700450057,
+                1400530025,
+                840902217782303,
+                997936212,
+                1948020501544471,
+                1400285049,
+                4199820315223063,
+                822120594703895,
+                829091185487422,
+                840902217783839,
+                1818883,
+                1400635031,
+                298843331,
+                1718088130,
+                1718087960,
+                1428713,
+                298938379,
+                298928346,
+                298928357,
+                2113635,
+                700815074,
+                700815081,
+                2103670,
+                700695035,
+                298933322,
+                2143620,
+                998156045,
+                2158586,
+                2158594,
+                2158615,
+                2158622,
+                23,
+                700810039,
+                1400705016,
+                2158642,
+                2158664,
+                298983331,
+                298983332,
+                700830009,
+                298983333,
+                1010983,
+                997921055,
+                1016186,
+                1007681,
+                2103622,
+                700810068,
+                1016184,
+                700810059,
+                700805071,
+                1400705022,
+                298983308,
+                298983310,
+                700815092,
+                997921061,
+                2153585,
+                298983311,
+                2153584
+            ],
+            "is_adult": false,
+            "is_preview": false,
+            "flag": 196608,
+            "is_service_by_shopee": false,
+            "condition": 1,
+            "cat_id": 100630,
+            "has_low_fulfillment_rate": false,
+            "is_live_streaming_price": null,
+            "currency": "TWD",
+            "brand": "Dr Ruibeila",
+            "brand_id": 5435791,
+            "show_discount": 50,
+            "ctime": 1746601628,
+            "item_rating": {
+                "rating_star": 4.986733001658375
+            },
+            "cb_option": 0,
+            "has_model_with_available_shopee_stock": false,
+            "shop_location": "臺中市北區",
+            "attributes": [
+                {
+                    "name": "重量",
+                    "value": "30g",
+                    "id": 100095,
+                    "is_timestamp": false,
+                    "brand_option": null,
+                    "val_id": 545,
+                    "url": null,
+                    "brand_id": null,
+                    "full_url": null,
+                    "type": null,
+                    "item_attribute_type": null,
+                    "name_tr": null,
+                    "value_tr": null
+                },
+                {
+                    "name": "膚質",
+                    "value": "全膚質",
+                    "id": 100049,
+                    "is_timestamp": false,
+                    "brand_option": null,
+                    "val_id": 780,
+                    "url": null,
+                    "brand_id": null,
+                    "full_url": null,
+                    "type": null,
+                    "item_attribute_type": null,
+                    "name_tr": null,
+                    "value_tr": null
+                },
+                {
+                    "name": "護膚功效",
+                    "value": "延緩老化, 黯淡/膚色不均, 淡化細紋、皺紋, 膚色不均",
+                    "id": 100099,
+                    "is_timestamp": false,
+                    "brand_option": null,
+                    "val_id": 749,
+                    "url": null,
+                    "brand_id": null,
+                    "full_url": null,
+                    "type": null,
+                    "item_attribute_type": null,
+                    "name_tr": null,
+                    "value_tr": null
+                },
+                {
+                    "name": "產品本體應有繁體中文標示",
+                    "value": "是(詳細內容請參閱商品描述或圖片)",
+                    "id": 101247,
+                    "is_timestamp": false,
+                    "brand_option": null,
+                    "val_id": 9140,
+                    "url": null,
+                    "brand_id": null,
+                    "full_url": null,
+                    "type": null,
+                    "item_attribute_type": null,
+                    "name_tr": null,
+                    "value_tr": null
+                },
+                {
+                    "name": "商品已完成產品登錄或查驗登記",
+                    "value": "是",
+                    "id": 101249,
+                    "is_timestamp": false,
+                    "brand_option": null,
+                    "val_id": 9142,
+                    "url": null,
+                    "brand_id": null,
+                    "full_url": null,
+                    "type": null,
+                    "item_attribute_type": null,
+                    "name_tr": null,
+                    "value_tr": null
+                },
+                {
+                    "name": "保存期限",
+                    "value": "36個月",
+                    "id": 100010,
+                    "is_timestamp": false,
+                    "brand_option": null,
+                    "val_id": 0,
+                    "url": null,
+                    "brand_id": null,
+                    "full_url": null,
+                    "type": null,
+                    "item_attribute_type": null,
+                    "name_tr": null,
+                    "value_tr": null
+                },
+                {
+                    "name": "質地",
+                    "value": "油水雙層精華液",
+                    "id": 100036,
+                    "is_timestamp": false,
+                    "brand_option": null,
+                    "val_id": 0,
+                    "url": null,
+                    "brand_id": null,
+                    "full_url": null,
+                    "type": null,
+                    "item_attribute_type": null,
+                    "name_tr": null,
+                    "value_tr": null
+                },
+                {
+                    "name": "主要成分",
+                    "value": "377（苯乙基間苯二酚）, 光果甘草提取物, 壞血酸, 維他命C, 視黃醇",
+                    "id": 100047,
+                    "is_timestamp": false,
+                    "brand_option": null,
+                    "val_id": 0,
+                    "url": null,
+                    "brand_id": null,
+                    "full_url": null,
+                    "type": null,
+                    "item_attribute_type": null,
+                    "name_tr": null,
+                    "value_tr": null
+                }
+            ],
+            "rich_text_description": {
+                "paragraph_list": [
+                    {
+                        "type": 1,
+                        "text": null,
+                        "img_id": "tw-11134208-81ztc-mel4l6seudxd3a",
+                        "ratio": 0.892,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 1,
+                        "text": null,
+                        "img_id": "tw-11134208-7ra0j-md2kz8ez83y79b",
+                        "ratio": 0.5,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 1,
+                        "text": null,
+                        "img_id": "tw-11134208-7ra0h-md2kz8ez9iin93",
+                        "ratio": 0.5,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 1,
+                        "text": null,
+                        "img_id": "tw-11134208-7ra0j-md2kz8ezax33ca",
+                        "ratio": 0.5,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 1,
+                        "text": null,
+                        "img_id": "tw-11134208-7ra0r-md2kz8ezcbnj22",
+                        "ratio": 0.5,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 1,
+                        "text": null,
+                        "img_id": "tw-11134208-7ra0p-md2kz8ezdq7z24",
+                        "ratio": 0.5,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 1,
+                        "text": null,
+                        "img_id": "tw-11134208-7ra0h-md2kz8ezf4sf0f",
+                        "ratio": 0.5,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 1,
+                        "text": null,
+                        "img_id": "tw-11134208-7ra0i-md2kz8ezgjcv34",
+                        "ratio": 0.5,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 1,
+                        "text": null,
+                        "img_id": "tw-11134208-7ra0r-md2kz8ezhxxbd0",
+                        "ratio": 0.5,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 1,
+                        "text": null,
+                        "img_id": "tw-11134208-7ra0o-md2l2g1hwley01",
+                        "ratio": 0.5,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 1,
+                        "text": null,
+                        "img_id": "tw-11134208-7ra0s-md2l2g1hxzzedd",
+                        "ratio": 0.5,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "💡🧪 品名：【Dr Ruibeila 煙醯胺VC亮膚精華液】",
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "💡🧪 外號：【發光瓶】/【VC提亮搖搖液】",
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "💡🧪 研發工程師說：VC日間抗光老，夜間抗氧化，淡化色沉，凈白提亮膚色，改善暗沉無光的外觀，做自己的光！",
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "💡🧪 料體特色：專研水油分層技術，上層精華油，下層精華液，將原型VC的活性牢牢鎖住防止變質。輕輕搖勻後體驗水的清爽，油的強保濕，雙重膚感帶來奢華體驗，抗氧+亮白+保濕+減少幹紋等多重功效，使肌膚重現少女般明亮光采。",
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "💡🧪  使用小貼士：用前請搖勻",
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "💡🧪 成份及功效：",
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "①強抗暗沉：光果甘草提取物、β-胡蘿蔔素、胡蘿蔔根提取物",
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "②抗氧提亮：抗壞血酸（維生素C）、生育酚（維生素E）、3-鄰-乙基抗壞血酸",
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "③深度保濕：白池花籽油、野大豆油、透明質酸鈉",
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "④減少幹紋：積雪草提取物、黃芩根提取物、虎杖根提取物",
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "⑤白皙膚色：煙醯胺、377（苯乙基間苯二酚）、甘草亭酸",
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "💡🧪 正裝規格：30ml/瓶",
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "💡🧪 保存期限：未開封3年(實際仍須依商品包裝上的日期為准/拆封後請3個月內盡速用畢)",
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "💡🧪 保養建議：建議搭配同品牌煙醯胺VC亮膚面霜使用，亮白效果更佳。也可搭配視黃醇膠原煥活精華液及視黃醇膠原煥活面霜，實現早C晚A進階護膚，若有不懂詳詢客服。晨間使用請做好皮膚防曬，推薦使用Dr Ruibeila美白輕透防曬乳SPF50 PA+++，同一品牌料體之間兼容性會更好，可有效避免成份互斥搓泥。",
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "💡🧪 小心機：可滴入粉底液和勻使用，拯救易暗沉的粉底。",
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "-----------------------------------------------",
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "📉 🧪 品名：【Dr Ruibeila 視黃醇膠原煥活精華液】",
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "📉 🧪 外號：【超A膠原塑型液】",
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "📉 🧪 研發工程師說：水油分層超A精華液，緊致回彈，淡化可見紋，抵禦未來紋，留駐緊實美顏！",
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "📉 🧪 料體特色：模擬肌膚油脂比例，配比的水油雙重質地精華液，科學搭配4重視黃醇+膠原+臻稀植物油體系，突破單一A醇局限，以油強韌肌膚屏障，刷A不易翻車，肌底層豐盈緊實，臉部膠原嘭嘭長，提升輪廓線，肌膚“韌”性年輕！",
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "使用小貼士：用前請搖勻",
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "📉 🧪 成份及功效：",
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "①撫淡紋路，羥基頻哪酮視黃酸酯、視黃醇、視黃醇丙酸酯、視黃醇棕櫚酸酯",
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "②緊致回彈：鹿骨膠原蛋白、黃芩根提取物、虎杖根提取物",
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "③抗氧嫩白：光果甘草提取物、茶葉提取物、迷迭香葉提取物",
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "④強韌屏障：白池花籽油、向日葵籽油、角鯊烷",
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "⑤水光嫩膚：玻尿酸（透明質酸）、透明質酸鈉、乙醯化透明質酸鈉、水解透明質酸鈉",
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "📉 🧪 正裝規格：30ml/瓶",
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "📉 🧪 保養建議：建議搭配Dr Ruibeila 視黃醇膠原煥活面霜使用。也可搭配煙醯胺VC亮膚精華液及煙醯胺VC亮膚面霜，實現早C晚A進階護膚，詳詢客服。推薦搭配使用Dr Ruibeila美白輕透防曬乳SPF50 PA+++抗光老。",
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "-----------------------------------------------",
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "💡🍶 品名：【Dr Ruibeila 煙醯胺VC亮膚面霜】",
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "💡🍶 外號：【糖氧雙抗發光霜】/【發光霜】",
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "💡🍶 研發工程師說：絲絨凝霜質地一抹溫潤包裹肌膚，清爽不油膩。採用高活性維他命C+377+煙醯胺配方，減少多餘自由基抗氧化+改善暗沉亮白+進一步減少糖基化（AGEs）的產生抗糖化，三大維度煥亮嫩白，綻放明亮光采。",
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "💡🍶 成份及功效：",
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "①糖氧雙抗：3-鄰-乙基抗壞血酸、生育酚（維生素E）、煙醯胺",
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "②煥亮美肌：377（苯乙基間苯二酚）、光果甘草提取物、甘草亭酸",
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "③滋潤保濕：透明質酸鈉、乙醯化透明質酸鈉、水解透明質酸鈉、透明質酸",
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "④改善暗沉：黃芩根提取物、虎杖根提取物、迷迭香葉提取物",
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "⑤舒緩修護：積雪草提取物、母菊花提取物",
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "💡🍶 正裝規格：50g/瓶",
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "💡🍶 保養建議：建議搭配同品牌煙醯胺VC亮膚精華液使用，亮白效果更佳，先精華→后面霜。也可搭配視黃醇膠原煥活精華液及視黃醇膠原煥活面霜，實現早C晚A進階護膚，詳詢客服。晨間使用請做好皮膚防曬，推薦使用Dr Ruibeila美白輕透防曬乳SPF50 PA+++，同一品牌料體之間兼容性會更好，可有效避免成份互斥及功效抵消。",
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "-----------------------------------------------",
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "📉 🍶 品名：【Dr Ruibeila 視黃醇膠原煥活面霜】",
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "📉 🍶 外號：【超A膠原霜】",
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "📉 🍶 研發工程師說：遵循熟齡肌肌理，配比4重視黃醇+人源化Ⅲ型膠原蛋白，突破單一視黃醇覆蓋不全面、易刺激弊端，多靶點作用於全皮層淡化細紋，提供輪廓支撐維持肌膚彈性，令肌膚由內至外彈潤緊實，延緩肌膚衰老。",
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "📉 🍶 成份及功效：",
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "①撫平細紋：視黃醇丙酸酯、視黃醇棕櫚酸酯、羥基頻哪酮視黃酸酯、視黃醇",
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "②回復彈性：水解膠原、膠原",
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "③水油同補：透明質酸鈉、向日葵籽油",
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "④抗氧煥亮：茶葉提取物、虎杖根提取物、迷迭香葉提取物",
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "⑤舒緩修護：積雪草提取物、母菊花提取物、黃芩根提取",
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "📉 🍶 正裝規格：50g/瓶",
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "📉 🍶 保養建議：建議搭配Dr Ruibeila 視黃醇膠原煥活精華液使用。也可搭配煙醯胺VC亮膚精華液及煙醯胺VC亮膚面霜，實現早C晚A進階護膚，詳詢客服。推薦搭配使用Dr Ruibeila美白輕透防曬乳SPF50 PA+++抗光老。",
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "-----------------------------------------------",
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "🌟護膚順序：洗面乳→化妝水→精華液→眼霜→面霜→防曬霜（日間），每周2-3次去角質凝膠深層清潔。",
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "🧪精華液推薦用量用法：取5-8滴/次，全臉塗抹均勻",
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "🍶面霜推薦用量用法：取2-4粒珍珠粒大小的用量/次，全臉塗抹均勻",
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "⛱  防曬乳推薦用量用法：3-4泵/次（大概一顆葡萄大小體積的量），全臉按壓塗抹均勻",
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "⚗ 保存期限：未開封3年(實際仍須依商品包裝上的日期為准/拆封後請3個月內盡速用畢，VC系列產品請注意避光保存)",
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "⚠ 注意事項：請避免本產品直接接觸眼睛。如不慎進入眼睛，請立即以清水徹底沖洗。使用過程如發現皮膚有任何不適或敏感，請立即停止使用并諮詢醫生。肌膚敏感者建議先做局部皮膚測試後，無過敏反應再進行使用。若皮膚已經有過敏，傷口、紅腫或濕疹等異常部位，請避免使用。請避免陽光直射及遠離火源。勿讓兒童接觸，不可進食，只供外用。",
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "⚠ 產品明確標明含BHA/水楊酸或視黃醇成份類產品（孕婦，哺乳期不建議使用）可采局部漸進式調整使用頻率和使用次數；請採用少量低頻率建立耐受法：第1周隔2天使用；第2周隔1天使用；第3周可以每天使用；此類產品請依肌膚耐受性使用，不宜過度或過量使用。",
+                        "img_id": null,
+                        "ratio": null,
+                        "description_type": 1,
+                        "empty_paragraph_count": null
+                    }
+                ],
+                "source_language": null
+            },
+            "invoice_option": null,
+            "is_category_failed": null,
+            "is_prescription_item": false,
+            "preview_info": null,
+            "show_prescription_feed": false,
+            "is_alcohol_product": false,
+            "is_infant_milk_formula_product": false,
+            "is_unavailable": false,
+            "is_partial_fulfilled": false,
+            "is_presale": false,
+            "is_presale_deposit_item": null,
+            "is_presale_deposit_made": null,
+            "description": "💡🧪 品名：【Dr Ruibeila 煙醯胺VC亮膚精華液】\n💡🧪 外號：【發光瓶】/【VC提亮搖搖液】\n💡🧪 研發工程師說：VC日間抗光老，夜間抗氧化，淡化色沉，凈白提亮膚色，改善暗沉無光的外觀，做自己的光！\n💡🧪 料體特色：專研水油分層技術，上層精華油，下層精華液，將原型VC的活性牢牢鎖住防止變質。輕輕搖勻後體驗水的清爽，油的強保濕，雙重膚感帶來奢華體驗，抗氧+亮白+保濕+減少幹紋等多重功效，使肌膚重現少女般明亮光采。\n💡🧪  使用小貼士：用前請搖勻\n💡🧪 成份及功效：\n①強抗暗沉：光果甘草提取物、β-胡蘿蔔素、胡蘿蔔根提取物\n②抗氧提亮：抗壞血酸（維生素C）、生育酚（維生素E）、3-鄰-乙基抗壞血酸\n③深度保濕：白池花籽油、野大豆油、透明質酸鈉\n④減少幹紋：積雪草提取物、黃芩根提取物、虎杖根提取物\n⑤白皙膚色：煙醯胺、377（苯乙基間苯二酚）、甘草亭酸\n💡🧪 正裝規格：30ml/瓶\n💡🧪 保存期限：未開封3年(實際仍須依商品包裝上的日期為准/拆封後請3個月內盡速用畢)\n💡🧪 保養建議：建議搭配同品牌煙醯胺VC亮膚面霜使用，亮白效果更佳。也可搭配視黃醇膠原煥活精華液及視黃醇膠原煥活面霜，實現早C晚A進階護膚，若有不懂詳詢客服。晨間使用請做好皮膚防曬，推薦使用Dr Ruibeila美白輕透防曬乳SPF50 PA+++，同一品牌料體之間兼容性會更好，可有效避免成份互斥搓泥。\n💡🧪 小心機：可滴入粉底液和勻使用，拯救易暗沉的粉底。\n-----------------------------------------------\n📉 🧪 品名：【Dr Ruibeila 視黃醇膠原煥活精華液】\n📉 🧪 外號：【超A膠原塑型液】\n📉 🧪 研發工程師說：水油分層超A精華液，緊致回彈，淡化可見紋，抵禦未來紋，留駐緊實美顏！\n📉 🧪 料體特色：模擬肌膚油脂比例，配比的水油雙重質地精華液，科學搭配4重視黃醇+膠原+臻稀植物油體系，突破單一A醇局限，以油強韌肌膚屏障，刷A不易翻車，肌底層豐盈緊實，臉部膠原嘭嘭長，提升輪廓線，肌膚“韌”性年輕！\n使用小貼士：用前請搖勻\n📉 🧪 成份及功效：\n①撫淡紋路，羥基頻哪酮視黃酸酯、視黃醇、視黃醇丙酸酯、視黃醇棕櫚酸酯\n②緊致回彈：鹿骨膠原蛋白、黃芩根提取物、虎杖根提取物\n③抗氧嫩白：光果甘草提取物、茶葉提取物、迷迭香葉提取物\n④強韌屏障：白池花籽油、向日葵籽油、角鯊烷\n⑤水光嫩膚：玻尿酸（透明質酸）、透明質酸鈉、乙醯化透明質酸鈉、水解透明質酸鈉\n📉 🧪 正裝規格：30ml/瓶\n📉 🧪 保養建議：建議搭配Dr Ruibeila 視黃醇膠原煥活面霜使用。也可搭配煙醯胺VC亮膚精華液及煙醯胺VC亮膚面霜，實現早C晚A進階護膚，詳詢客服。推薦搭配使用Dr Ruibeila美白輕透防曬乳SPF50 PA+++抗光老。\n-----------------------------------------------\n💡🍶 品名：【Dr Ruibeila 煙醯胺VC亮膚面霜】\n💡🍶 外號：【糖氧雙抗發光霜】/【發光霜】\n💡🍶 研發工程師說：絲絨凝霜質地一抹溫潤包裹肌膚，清爽不油膩。採用高活性維他命C+377+煙醯胺配方，減少多餘自由基抗氧化+改善暗沉亮白+進一步減少糖基化（AGEs）的產生抗糖化，三大維度煥亮嫩白，綻放明亮光采。\n💡🍶 成份及功效：\n①糖氧雙抗：3-鄰-乙基抗壞血酸、生育酚（維生素E）、煙醯胺\n②煥亮美肌：377（苯乙基間苯二酚）、光果甘草提取物、甘草亭酸\n③滋潤保濕：透明質酸鈉、乙醯化透明質酸鈉、水解透明質酸鈉、透明質酸\n④改善暗沉：黃芩根提取物、虎杖根提取物、迷迭香葉提取物\n⑤舒緩修護：積雪草提取物、母菊花提取物\n💡🍶 正裝規格：50g/瓶\n💡🍶 保養建議：建議搭配同品牌煙醯胺VC亮膚精華液使用，亮白效果更佳，先精華→后面霜。也可搭配視黃醇膠原煥活精華液及視黃醇膠原煥活面霜，實現早C晚A進階護膚，詳詢客服。晨間使用請做好皮膚防曬，推薦使用Dr Ruibeila美白輕透防曬乳SPF50 PA+++，同一品牌料體之間兼容性會更好，可有效避免成份互斥及功效抵消。\n-----------------------------------------------\n📉 🍶 品名：【Dr Ruibeila 視黃醇膠原煥活面霜】\n📉 🍶 外號：【超A膠原霜】\n📉 🍶 研發工程師說：遵循熟齡肌肌理，配比4重視黃醇+人源化Ⅲ型膠原蛋白，突破單一視黃醇覆蓋不全面、易刺激弊端，多靶點作用於全皮層淡化細紋，提供輪廓支撐維持肌膚彈性，令肌膚由內至外彈潤緊實，延緩肌膚衰老。\n📉 🍶 成份及功效：\n①撫平細紋：視黃醇丙酸酯、視黃醇棕櫚酸酯、羥基頻哪酮視黃酸酯、視黃醇\n②回復彈性：水解膠原、膠原\n③水油同補：透明質酸鈉、向日葵籽油\n④抗氧煥亮：茶葉提取物、虎杖根提取物、迷迭香葉提取物\n⑤舒緩修護：積雪草提取物、母菊花提取物、黃芩根提取\n📉 🍶 正裝規格：50g/瓶\n📉 🍶 保養建議：建議搭配Dr Ruibeila 視黃醇膠原煥活精華液使用。也可搭配煙醯胺VC亮膚精華液及煙醯胺VC亮膚面霜，實現早C晚A進階護膚，詳詢客服。推薦搭配使用Dr Ruibeila美白輕透防曬乳SPF50 PA+++抗光老。\n-----------------------------------------------\n🌟護膚順序：洗面乳→化妝水→精華液→眼霜→面霜→防曬霜（日間），每周2-3次去角質凝膠深層清潔。\n🧪精華液推薦用量用法：取5-8滴/次，全臉塗抹均勻\n🍶面霜推薦用量用法：取2-4粒珍珠粒大小的用量/次，全臉塗抹均勻\n⛱  防曬乳推薦用量用法：3-4泵/次（大概一顆葡萄大小體積的量），全臉按壓塗抹均勻\n⚗ 保存期限：未開封3年(實際仍須依商品包裝上的日期為准/拆封後請3個月內盡速用畢，VC系列產品請注意避光保存)\n⚠ 注意事項：請避免本產品直接接觸眼睛。如不慎進入眼睛，請立即以清水徹底沖洗。使用過程如發現皮膚有任何不適或敏感，請立即停止使用并諮詢醫生。肌膚敏感者建議先做局部皮膚測試後，無過敏反應再進行使用。若皮膚已經有過敏，傷口、紅腫或濕疹等異常部位，請避免使用。請避免陽光直射及遠離火源。勿讓兒童接觸，不可進食，只供外用。\n⚠ 產品明確標明含BHA/水楊酸或視黃醇成份類產品（孕婦，哺乳期不建議使用）可采局部漸進式調整使用頻率和使用次數；請採用少量低頻率建立耐受法：第1周隔2天使用；第2周隔1天使用；第3周可以每天使用；此類產品請依肌膚耐受性使用，不宜過度或過量使用。",
+            "categories": [
+                {
+                    "catid": 100630,
+                    "display_name": "美妝保養",
+                    "no_sub": false,
+                    "is_default_subcat": false
+                },
+                {
+                    "catid": 100664,
+                    "display_name": "肌膚保養",
+                    "no_sub": false,
+                    "is_default_subcat": false
+                },
+                {
+                    "catid": 100896,
+                    "display_name": "精華液",
+                    "no_sub": true,
+                    "is_default_subcat": false
+                }
+            ],
+            "fe_categories": [
+                {
+                    "catid": 11041691,
+                    "display_name": "美妝保養",
+                    "no_sub": false,
+                    "is_default_subcat": false
+                },
+                {
+                    "catid": 11041752,
+                    "display_name": "醫美清潔保養",
+                    "no_sub": false,
+                    "is_default_subcat": false
+                },
+                {
+                    "catid": 11046882,
+                    "display_name": "精華液",
+                    "no_sub": true,
+                    "is_default_subcat": false
+                }
+            ],
+            "item_has_video": false,
+            "presale_dday_start_time": null,
+            "is_lowest_price_at_shopee": null,
+            "display_description_disclosure_rsku_redirection": null,
+            "display_similar_sold": null,
+            "title_type": 1,
+            "authorized_brand_name": null,
+            "models": [
+                {
+                    "item_id": 42950016433,
+                    "status": 1,
+                    "current_promotion_reserved_stock": 0,
+                    "name": "極簡版早C晚A（早C精華+晚A面霜）",
+                    "promotion_id": 648981102215168,
+                    "price": 94500000,
+                    "price_stocks": [
+                        {
+                            "allocated_stock": 0,
+                            "stock_breakdown_by_location": null,
+                            "promotion_type": 301
+                        },
+                        {
+                            "allocated_stock": 0,
+                            "stock_breakdown_by_location": [
+                                {
+                                    "location_id": "TWZ",
+                                    "available_stock": 99,
+                                    "fulfilment_type": 2,
+                                    "address_id": 0,
+                                    "allocated_stock": null
+                                }
+                            ],
+                            "promotion_type": 0
+                        }
+                    ],
+                    "current_promotion_has_reserve_stock": false,
+                    "normal_stock": 99,
+                    "extinfo": {
+                        "tier_index": [
+                            3
+                        ],
+                        "is_pre_order": false,
+                        "estimated_days": 1
+                    },
+                    "price_before_discount": 189000000,
+                    "model_id": 280000587558,
+                    "stock": 99,
+                    "has_gimmick_tag": false,
+                    "key_measurement": null,
+                    "sold": 11,
+                    "is_lowest_price_at_shopee": false,
+                    "name_tr": null,
+                    "is_clickable": true,
+                    "is_grayout": false,
+                    "has_stock": true
+                },
+                {
+                    "item_id": 42950016433,
+                    "status": 1,
+                    "current_promotion_reserved_stock": 0,
+                    "name": "【美白精華】煙酰胺VC亮膚精華液30ml",
+                    "promotion_id": 648981102215168,
+                    "price": 44500000,
+                    "price_stocks": [
+                        {
+                            "allocated_stock": 0,
+                            "stock_breakdown_by_location": null,
+                            "promotion_type": 301
+                        },
+                        {
+                            "allocated_stock": 0,
+                            "stock_breakdown_by_location": [
+                                {
+                                    "location_id": "TWZ",
+                                    "available_stock": 95,
+                                    "fulfilment_type": 2,
+                                    "address_id": 0,
+                                    "allocated_stock": null
+                                }
+                            ],
+                            "promotion_type": 0
+                        }
+                    ],
+                    "current_promotion_has_reserve_stock": false,
+                    "normal_stock": 95,
+                    "extinfo": {
+                        "tier_index": [
+                            0
+                        ],
+                        "is_pre_order": false,
+                        "estimated_days": 1
+                    },
+                    "price_before_discount": 89000000,
+                    "model_id": 280000587560,
+                    "stock": 95,
+                    "has_gimmick_tag": false,
+                    "key_measurement": null,
+                    "sold": 37,
+                    "is_lowest_price_at_shopee": false,
+                    "name_tr": null,
+                    "is_clickable": true,
+                    "is_grayout": false,
+                    "has_stock": true
+                },
+                {
+                    "item_id": 42950016433,
+                    "status": 1,
+                    "current_promotion_reserved_stock": 0,
+                    "name": "早C晚A（面霜）+30g美白防曬乳",
+                    "promotion_id": 648981102215168,
+                    "price": 188500000,
+                    "price_stocks": [
+                        {
+                            "allocated_stock": 0,
+                            "stock_breakdown_by_location": null,
+                            "promotion_type": 301
+                        },
+                        {
+                            "allocated_stock": 0,
+                            "stock_breakdown_by_location": [
+                                {
+                                    "location_id": "TWZ",
+                                    "available_stock": 100,
+                                    "fulfilment_type": 2,
+                                    "address_id": 0,
+                                    "allocated_stock": null
+                                }
+                            ],
+                            "promotion_type": 0
+                        }
+                    ],
+                    "current_promotion_has_reserve_stock": false,
+                    "normal_stock": 100,
+                    "extinfo": {
+                        "tier_index": [
+                            9
+                        ],
+                        "is_pre_order": false,
+                        "estimated_days": 1
+                    },
+                    "price_before_discount": 288000000,
+                    "model_id": 261033657562,
+                    "stock": 100,
+                    "has_gimmick_tag": false,
+                    "key_measurement": null,
+                    "sold": 0,
+                    "is_lowest_price_at_shopee": false,
+                    "name_tr": null,
+                    "is_clickable": true,
+                    "is_grayout": false,
+                    "has_stock": true
+                },
+                {
+                    "item_id": 42950016433,
+                    "status": 1,
+                    "current_promotion_reserved_stock": 0,
+                    "name": "早C晚A保養為什麽要搭配防曬",
+                    "promotion_id": 0,
+                    "price": 57600000,
+                    "price_stocks": [
+                        {
+                            "allocated_stock": 0,
+                            "stock_breakdown_by_location": [
+                                {
+                                    "location_id": "TWZ",
+                                    "available_stock": 0,
+                                    "fulfilment_type": 2,
+                                    "address_id": 0,
+                                    "allocated_stock": null
+                                }
+                            ],
+                            "promotion_type": 0
+                        }
+                    ],
+                    "current_promotion_has_reserve_stock": false,
+                    "normal_stock": 0,
+                    "extinfo": {
+                        "tier_index": [
+                            4
+                        ],
+                        "is_pre_order": false,
+                        "estimated_days": 1
+                    },
+                    "price_before_discount": 0,
+                    "model_id": 280000587559,
+                    "stock": 0,
+                    "has_gimmick_tag": false,
+                    "key_measurement": null,
+                    "sold": 234,
+                    "is_lowest_price_at_shopee": false,
+                    "name_tr": null,
+                    "is_clickable": false,
+                    "is_grayout": true,
+                    "has_stock": false
+                },
+                {
+                    "item_id": 42950016433,
+                    "status": 1,
+                    "current_promotion_reserved_stock": 0,
+                    "name": "【樣裝4支】2支洗面乳+去角質+防曬乳",
+                    "promotion_id": 648981102215168,
+                    "price": 37700000,
+                    "price_stocks": [
+                        {
+                            "allocated_stock": 0,
+                            "stock_breakdown_by_location": null,
+                            "promotion_type": 301
+                        },
+                        {
+                            "allocated_stock": 0,
+                            "stock_breakdown_by_location": [
+                                {
+                                    "location_id": "TWZ",
+                                    "available_stock": 99,
+                                    "fulfilment_type": 2,
+                                    "address_id": 0,
+                                    "allocated_stock": null
+                                }
+                            ],
+                            "promotion_type": 0
+                        }
+                    ],
+                    "current_promotion_has_reserve_stock": false,
+                    "normal_stock": 99,
+                    "extinfo": {
+                        "tier_index": [
+                            6
+                        ],
+                        "is_pre_order": false,
+                        "estimated_days": 1
+                    },
+                    "price_before_discount": 57600000,
+                    "model_id": 285251897186,
+                    "stock": 99,
+                    "has_gimmick_tag": false,
+                    "key_measurement": null,
+                    "sold": 255,
+                    "is_lowest_price_at_shopee": false,
+                    "name_tr": null,
+                    "is_clickable": true,
+                    "is_grayout": false,
+                    "has_stock": true
+                },
+                {
+                    "item_id": 42950016433,
+                    "status": 1,
+                    "current_promotion_reserved_stock": 0,
+                    "name": "【抗老精華】視黃醇膠原煥活精華液30ml",
+                    "promotion_id": 648981102215168,
+                    "price": 47500000,
+                    "price_stocks": [
+                        {
+                            "allocated_stock": 0,
+                            "stock_breakdown_by_location": null,
+                            "promotion_type": 301
+                        },
+                        {
+                            "allocated_stock": 0,
+                            "stock_breakdown_by_location": [
+                                {
+                                    "location_id": "TWZ",
+                                    "available_stock": 97,
+                                    "fulfilment_type": 2,
+                                    "address_id": 0,
+                                    "allocated_stock": null
+                                }
+                            ],
+                            "promotion_type": 0
+                        }
+                    ],
+                    "current_promotion_has_reserve_stock": false,
+                    "normal_stock": 97,
+                    "extinfo": {
+                        "tier_index": [
+                            1
+                        ],
+                        "is_pre_order": false,
+                        "estimated_days": 1
+                    },
+                    "price_before_discount": 95000000,
+                    "model_id": 280000587561,
+                    "stock": 97,
+                    "has_gimmick_tag": false,
+                    "key_measurement": null,
+                    "sold": 25,
+                    "is_lowest_price_at_shopee": false,
+                    "name_tr": null,
+                    "is_clickable": true,
+                    "is_grayout": false,
+                    "has_stock": true
+                },
+                {
+                    "item_id": 42950016433,
+                    "status": 1,
+                    "current_promotion_reserved_stock": 0,
+                    "name": "【樣裝】去角質樣裝+洗面乳樣裝",
+                    "promotion_id": 0,
+                    "price": 57600000,
+                    "price_stocks": [
+                        {
+                            "allocated_stock": 0,
+                            "stock_breakdown_by_location": [
+                                {
+                                    "location_id": "TWZ",
+                                    "available_stock": 0,
+                                    "fulfilment_type": 2,
+                                    "address_id": 0,
+                                    "allocated_stock": null
+                                }
+                            ],
+                            "promotion_type": 0
+                        }
+                    ],
+                    "current_promotion_has_reserve_stock": false,
+                    "normal_stock": 0,
+                    "extinfo": {
+                        "tier_index": [
+                            5
+                        ],
+                        "is_pre_order": false,
+                        "estimated_days": 1
+                    },
+                    "price_before_discount": 0,
+                    "model_id": 295122193767,
+                    "stock": 0,
+                    "has_gimmick_tag": false,
+                    "key_measurement": null,
+                    "sold": 60,
+                    "is_lowest_price_at_shopee": false,
+                    "name_tr": null,
+                    "is_clickable": false,
+                    "is_grayout": true,
+                    "has_stock": false
+                },
+                {
+                    "item_id": 42950016433,
+                    "status": 1,
+                    "current_promotion_reserved_stock": 0,
+                    "name": "早C晚A（面霜2瓶）",
+                    "promotion_id": 648981102215168,
+                    "price": 99500000,
+                    "price_stocks": [
+                        {
+                            "allocated_stock": 0,
+                            "stock_breakdown_by_location": null,
+                            "promotion_type": 301
+                        },
+                        {
+                            "allocated_stock": 0,
+                            "stock_breakdown_by_location": [
+                                {
+                                    "location_id": "TWZ",
+                                    "available_stock": 99,
+                                    "fulfilment_type": 2,
+                                    "address_id": 0,
+                                    "allocated_stock": null
+                                }
+                            ],
+                            "promotion_type": 0
+                        }
+                    ],
+                    "current_promotion_has_reserve_stock": false,
+                    "normal_stock": 99,
+                    "extinfo": {
+                        "tier_index": [
+                            7
+                        ],
+                        "is_pre_order": false,
+                        "estimated_days": 1
+                    },
+                    "price_before_discount": 189000000,
+                    "model_id": 275443118010,
+                    "stock": 99,
+                    "has_gimmick_tag": false,
+                    "key_measurement": null,
+                    "sold": 5,
+                    "is_lowest_price_at_shopee": false,
+                    "name_tr": null,
+                    "is_clickable": true,
+                    "is_grayout": false,
+                    "has_stock": true
+                },
+                {
+                    "item_id": 42950016433,
+                    "status": 1,
+                    "current_promotion_reserved_stock": 0,
+                    "name": "【樣裝】洗面乳樣裝2支",
+                    "promotion_id": 0,
+                    "price": 57600000,
+                    "price_stocks": [
+                        {
+                            "allocated_stock": 0,
+                            "stock_breakdown_by_location": [
+                                {
+                                    "location_id": "TWZ",
+                                    "available_stock": 0,
+                                    "fulfilment_type": 2,
+                                    "address_id": 0,
+                                    "allocated_stock": null
+                                }
+                            ],
+                            "promotion_type": 0
+                        }
+                    ],
+                    "current_promotion_has_reserve_stock": false,
+                    "normal_stock": 0,
+                    "extinfo": {
+                        "tier_index": [
+                            8
+                        ],
+                        "is_pre_order": false,
+                        "estimated_days": 1
+                    },
+                    "price_before_discount": 0,
+                    "model_id": 275500721311,
+                    "stock": 0,
+                    "has_gimmick_tag": false,
+                    "key_measurement": null,
+                    "sold": 87,
+                    "is_lowest_price_at_shopee": false,
+                    "name_tr": null,
+                    "is_clickable": false,
+                    "is_grayout": true,
+                    "has_stock": false
+                },
+                {
+                    "item_id": 42950016433,
+                    "status": 1,
+                    "current_promotion_reserved_stock": 0,
+                    "name": "早C晚A（精華液2瓶）",
+                    "promotion_id": 648981102215168,
+                    "price": 92000000,
+                    "price_stocks": [
+                        {
+                            "allocated_stock": 0,
+                            "stock_breakdown_by_location": null,
+                            "promotion_type": 301
+                        },
+                        {
+                            "allocated_stock": 0,
+                            "stock_breakdown_by_location": [
+                                {
+                                    "location_id": "TWZ",
+                                    "available_stock": 86,
+                                    "fulfilment_type": 2,
+                                    "address_id": 0,
+                                    "allocated_stock": null
+                                }
+                            ],
+                            "promotion_type": 0
+                        }
+                    ],
+                    "current_promotion_has_reserve_stock": false,
+                    "normal_stock": 86,
+                    "extinfo": {
+                        "tier_index": [
+                            2
+                        ],
+                        "is_pre_order": false,
+                        "estimated_days": 1
+                    },
+                    "price_before_discount": 184000000,
+                    "model_id": 280000587557,
+                    "stock": 86,
+                    "has_gimmick_tag": false,
+                    "key_measurement": null,
+                    "sold": 101,
+                    "is_lowest_price_at_shopee": false,
+                    "name_tr": null,
+                    "is_clickable": true,
+                    "is_grayout": false,
+                    "has_stock": true
+                },
+                {
+                    "item_id": 42950016433,
+                    "status": 1,
+                    "current_promotion_reserved_stock": 0,
+                    "name": "早C晚A（精華液）+30g美白防曬乳",
+                    "promotion_id": 648981102215168,
+                    "price": 181000000,
+                    "price_stocks": [
+                        {
+                            "allocated_stock": 0,
+                            "stock_breakdown_by_location": null,
+                            "promotion_type": 301
+                        },
+                        {
+                            "allocated_stock": 0,
+                            "stock_breakdown_by_location": [
+                                {
+                                    "location_id": "TWZ",
+                                    "available_stock": 99,
+                                    "fulfilment_type": 2,
+                                    "address_id": 0,
+                                    "allocated_stock": null
+                                }
+                            ],
+                            "promotion_type": 0
+                        }
+                    ],
+                    "current_promotion_has_reserve_stock": false,
+                    "normal_stock": 99,
+                    "extinfo": {
+                        "tier_index": [
+                            10
+                        ],
+                        "is_pre_order": false,
+                        "estimated_days": 1
+                    },
+                    "price_before_discount": 273000000,
+                    "model_id": 261033657563,
+                    "stock": 99,
+                    "has_gimmick_tag": false,
+                    "key_measurement": null,
+                    "sold": 2,
+                    "is_lowest_price_at_shopee": false,
+                    "name_tr": null,
+                    "is_clickable": true,
+                    "is_grayout": false,
+                    "has_stock": true
+                }
+            ],
+            "tier_variations": [
+                {
+                    "name": "品項",
+                    "options": [
+                        "【美白精華】煙酰胺VC亮膚精華液30ml",
+                        "【抗老精華】視黃醇膠原煥活精華液30ml",
+                        "早C晚A（精華液2瓶）",
+                        "極簡版早C晚A（早C精華+晚A面霜）",
+                        "早C晚A保養為什麽要搭配防曬",
+                        "【樣裝】去角質樣裝+洗面乳樣裝",
+                        "【樣裝4支】2支洗面乳+去角質+防曬乳",
+                        "早C晚A（面霜2瓶）",
+                        "【樣裝】洗面乳樣裝2支",
+                        "早C晚A（面霜）+30g美白防曬乳",
+                        "早C晚A（精華液）+30g美白防曬乳"
+                    ],
+                    "images": [
+                        "tw-11134207-7ra0u-mdmtvciouqrr68",
+                        "tw-11134207-7ra0k-mcprgtur727g31",
+                        "tw-11134207-81ztq-mejmk6om677le5",
+                        "tw-11134207-81ztq-mejmkgmcd5aee8",
+                        "tw-11134207-7ra0s-mdjr5lu08smd85",
+                        "tw-11134207-7rbk8-ma9aeaspcym746",
+                        "tw-11134207-7ra0g-mdtzlq1ys93b49",
+                        "tw-11134207-81zte-mejmkmca6knaef",
+                        "tw-11134207-7rbk8-ma9aeaspcym746",
+                        "tw-11134207-81ztg-mejmku90hekhd6",
+                        "tw-11134207-7ra0j-mdfp6e8hducj01"
+                    ],
+                    "properties": null,
+                    "type": 0,
+                    "summed_stocks": null,
+                    "display_indicators": [
+                        0,
+                        0,
+                        0,
+                        0,
+                        2,
+                        2,
+                        0,
+                        0,
+                        2,
+                        0,
+                        0
+                    ],
+                    "name_tr": null,
+                    "options_tr": null,
+                    "selling_points": [
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "selling_points_tr": null
+                }
+            ],
+            "size_chart": null,
+            "size_chart_info": null,
+            "welcome_package_type": 0,
+            "is_free_gift": false,
+            "deep_discount": null,
+            "is_low_price_eligible": null,
+            "bundle_deal_info": null,
+            "add_on_deal_info": null,
+            "shipping_icon_type": 0,
+            "badge_icon_type": 0,
+            "spl_info": {
+                "installment_info": null,
+                "user_credit_info": null,
+                "channel_id": null,
+                "show_spl": true,
+                "show_spl_lite": null,
+                "spl_xtra": null,
+                "spl_motorcycle_loan": null
+            },
+            "estimated_days": 1,
+            "is_pre_order": false,
+            "is_free_shipping": false,
+            "overall_purchase_limit": null,
+            "min_purchase_limit": 1,
+            "is_hide_stock": false,
+            "stock": 774,
+            "normal_stock": 774,
+            "current_promotion_reserved_stock": 0,
+            "can_use_wholesale": false,
+            "wholesale_tier_list": [],
+            "price": 37700000,
+            "raw_discount": 50,
+            "hidden_price_display": null,
+            "price_min": 37700000,
+            "price_max": 188500000,
+            "price_before_discount": 57600000,
+            "price_min_before_discount": 57600000,
+            "price_max_before_discount": 288000000,
+            "other_stock": 0,
+            "discount_stock": 774,
+            "current_promotion_has_reserve_stock": false,
+            "complaint_policy": null,
+            "show_recycling_info": null,
+            "should_show_amp_tag": true,
+            "all_models_has_pre_order": false,
+            "is_item_inherited": false,
+            "max_quantity": 774,
+            "drug_details": null,
+            "selected_real_models": null,
+            "size_tier_variation_idx": null,
+            "is_fashion_item": false,
+            "social_proof_label": null,
+            "title_tr": null,
+            "description_tr": null,
+            "rich_text_description_tr": null,
+            "stock_display": "尚有庫存",
+            "max_quantity_display": "尚有庫存"
+        },
+        "account": {
+            "user_id": 1637295006,
+            "is_new_user": true,
+            "default_address": {
+                "state": "臺北市",
+                "city": "中正區",
+                "district": "",
+                "town": "",
+                "zip_code": null,
+                "address": null,
+                "region": null,
+                "longitude": null,
+                "latitude": null
+            },
+            "adult_consent": 0,
+            "birth_timestamp": 0
+        },
+        "product_images": {
+            "video": null,
+            "images": [
+                "tw-11134207-7ra0h-mdu5vw85qpki41"
+            ],
+            "first_tier_variations": [
+                {
+                    "name": "【美白精華】煙酰胺VC亮膚精華液30ml",
+                    "image": "tw-11134207-7ra0u-mdmtvciouqrr68",
+                    "summed_stock": 95,
+                    "display_indicator": 0,
+                    "show_find_similar": false,
+                    "name_tr": null,
+                    "selling_point": "",
+                    "selling_point_tr": null
+                },
+                {
+                    "name": "【抗老精華】視黃醇膠原煥活精華液30ml",
+                    "image": "tw-11134207-7ra0k-mcprgtur727g31",
+                    "summed_stock": 97,
+                    "display_indicator": 0,
+                    "show_find_similar": false,
+                    "name_tr": null,
+                    "selling_point": "",
+                    "selling_point_tr": null
+                },
+                {
+                    "name": "早C晚A（精華液2瓶）",
+                    "image": "tw-11134207-81ztq-mejmk6om677le5",
+                    "summed_stock": 86,
+                    "display_indicator": 0,
+                    "show_find_similar": false,
+                    "name_tr": null,
+                    "selling_point": "",
+                    "selling_point_tr": null
+                },
+                {
+                    "name": "極簡版早C晚A（早C精華+晚A面霜）",
+                    "image": "tw-11134207-81ztq-mejmkgmcd5aee8",
+                    "summed_stock": 99,
+                    "display_indicator": 0,
+                    "show_find_similar": false,
+                    "name_tr": null,
+                    "selling_point": "",
+                    "selling_point_tr": null
+                },
+                {
+                    "name": "早C晚A保養為什麽要搭配防曬",
+                    "image": "tw-11134207-7ra0s-mdjr5lu08smd85",
+                    "summed_stock": 0,
+                    "display_indicator": 0,
+                    "show_find_similar": false,
+                    "name_tr": null,
+                    "selling_point": "",
+                    "selling_point_tr": null
+                },
+                {
+                    "name": "【樣裝】去角質樣裝+洗面乳樣裝",
+                    "image": "tw-11134207-7rbk8-ma9aeaspcym746",
+                    "summed_stock": 0,
+                    "display_indicator": 0,
+                    "show_find_similar": false,
+                    "name_tr": null,
+                    "selling_point": "",
+                    "selling_point_tr": null
+                },
+                {
+                    "name": "【樣裝4支】2支洗面乳+去角質+防曬乳",
+                    "image": "tw-11134207-7ra0g-mdtzlq1ys93b49",
+                    "summed_stock": 99,
+                    "display_indicator": 0,
+                    "show_find_similar": false,
+                    "name_tr": null,
+                    "selling_point": "",
+                    "selling_point_tr": null
+                },
+                {
+                    "name": "早C晚A（面霜2瓶）",
+                    "image": "tw-11134207-81zte-mejmkmca6knaef",
+                    "summed_stock": 99,
+                    "display_indicator": 0,
+                    "show_find_similar": false,
+                    "name_tr": null,
+                    "selling_point": "",
+                    "selling_point_tr": null
+                },
+                {
+                    "name": "【樣裝】洗面乳樣裝2支",
+                    "image": "tw-11134207-7rbk8-ma9aeaspcym746",
+                    "summed_stock": 0,
+                    "display_indicator": 0,
+                    "show_find_similar": false,
+                    "name_tr": null,
+                    "selling_point": "",
+                    "selling_point_tr": null
+                },
+                {
+                    "name": "早C晚A（面霜）+30g美白防曬乳",
+                    "image": "tw-11134207-81ztg-mejmku90hekhd6",
+                    "summed_stock": 100,
+                    "display_indicator": 0,
+                    "show_find_similar": false,
+                    "name_tr": null,
+                    "selling_point": "",
+                    "selling_point_tr": null
+                },
+                {
+                    "name": "早C晚A（精華液）+30g美白防曬乳",
+                    "image": "tw-11134207-7ra0j-mdfp6e8hducj01",
+                    "summed_stock": 99,
+                    "display_indicator": 0,
+                    "show_find_similar": false,
+                    "name_tr": null,
+                    "selling_point": "",
+                    "selling_point_tr": null
+                }
+            ],
+            "sorted_variation_image_index_list": [
+                0,
+                1,
+                2,
+                3,
+                6,
+                7,
+                9,
+                10,
+                4,
+                5,
+                8
+            ],
+            "overlay": {
+                "type": 0,
+                "image": "tw-11134258-81ztf-megjn9cpbmki45",
+                "preview_end_time": null,
+                "is_pre_order": null,
+                "description": ""
+            },
+            "makeup_preview": null,
+            "abnormal_status": "",
+            "promotion_images": [],
+            "long_images": [
+                "tw-11134207-7ra0t-mdu6ttvnyl306b",
+                "tw-11134207-7ra0g-mbw53w4vcyex53",
+                "tw-11134207-7ra0j-mbvsidsuyzw9f6",
+                "tw-11134207-7ra0g-mbvrmacrtug27c",
+                "tw-11134207-7ra0p-mblt1sylwbu6e8",
+                "tw-11134207-7ra0q-mbvsi4t24uoyff",
+                "tw-11134207-7ra0k-mbx85g6mbe5e7f",
+                "tw-11134207-7ra0j-mcrjm32psksg6d",
+                "tw-11134207-7ra0s-md2vvmwsoym78f"
+            ],
+            "shopee_video_info_list": [],
+            "shopee_video_rcmd_info": null,
+            "shopee_video_req_id": null,
+            "skincam": null,
+            "pdp_top_info_list": null,
+            "has_long_image": null,
+            "show_find_similar": false,
+            "try_it_on": null,
+            "show_find_similar_for_selection": false
+        },
+        "product_price": {
+            "discount": 35,
+            "installment_info": null,
+            "spl_installment_info": null,
+            "pack_size": "",
+            "hide_price": false,
+            "price": {
+                "single_value": -1,
+                "range_min": 37700000,
+                "range_max": 188500000,
+                "price_mask": null
+            },
+            "price_before_discount": {
+                "single_value": -1,
+                "range_min": 57600000,
+                "range_max": 288000000,
+                "price_mask": null
+            },
+            "presale_price": null,
+            "lowest_past_price": null,
+            "labels": null,
+            "hide_discount": false,
+            "discount_text": null,
+            "show_final_price_indicator": null,
+            "final_price_vouchers": null,
+            "has_final_price": true,
+            "final_price_info": null
+        },
+        "flash_sale": null,
+        "flash_sale_preview": null,
+        "deep_discount": null,
+        "exclusive_price": null,
+        "exclusive_price_cta": null,
+        "product_meta": {
+            "show_lowest_price_guarantee": null,
+            "show_original_guarantee": null,
+            "show_best_price_guarantee": false,
+            "show_official_shop_label_in_title": false,
+            "show_shopee_verified_label": false,
+            "show_lowest_installment_guarantee": null,
+            "hide_sharing_button": false,
+            "hide_sold_count": false,
+            "show_description_translation_button": null
+        },
+        "product_review": {
+            "rating_star": 4.986733001658375,
+            "rating_count": [
+                603,
+                0,
+                0,
+                1,
+                6,
+                596
+            ],
+            "total_rating_count": 603,
+            "historical_sold": 817,
+            "global_sold": 817,
+            "liked": false,
+            "liked_count": 967,
+            "cmt_count": 603,
+            "should_move_ratings_above": null,
+            "review_rcmd_exp_group": null,
+            "display_global_sold": false,
+            "hide_rating": false,
+            "hide_buyer_gallery": false,
+            "hide_reviews": false,
+            "hide_other_product_reviews_in_shop": false,
+            "sold_count_disclosure": null,
+            "historical_sold_display": "817",
+            "global_sold_display": "817"
+        },
+        "promotion_info": {
+            "spl": null,
+            "spl_lite": null,
+            "installment": null,
+            "wholesale": null,
+            "insurance": null,
+            "item_installment_eligibility": {
+                "is_cc_installment_payment_eligible": false,
+                "is_non_cc_installment_payment_eligible": false
+            }
+        },
+        "age_gate": {
+            "kyc": null
+        },
+        "shipping_meta": null,
+        "product_shipping": {
+            "free_shipping": {
+                "min_spend": {
+                    "single_value": 14900000,
+                    "range_min": -1,
+                    "range_max": -1,
+                    "price_mask": null
+                },
+                "has_fss": false
+            },
+            "shipping_fee_info": {
+                "ship_from_location": "臺中市北區",
+                "price": {
+                    "single_value": -1,
+                    "range_min": 0,
+                    "range_max": 9000000,
+                    "price_mask": null
+                },
+                "shipping_icon_type": 0,
+                "warning": null
+            },
+            "show_shipping_to": true,
+            "ungrouped_channel_infos": [
+                {
+                    "channel_id": 30014,
+                    "name": "OK Mart",
+                    "price": {
+                        "single_value": 0,
+                        "range_min": -1,
+                        "range_max": -1,
+                        "price_mask": null
+                    },
+                    "price_before_discount": {
+                        "single_value": 4500000,
+                        "range_min": -1,
+                        "range_max": -1,
+                        "price_mask": null
+                    },
+                    "channel_delivery_info": {
+                        "has_edt": true,
+                        "display_mode": "edt_by_date",
+                        "estimated_delivery_date_from": 1758547503,
+                        "estimated_delivery_date_to": 1758704111,
+                        "estimated_delivery_time_min": 2,
+                        "estimated_delivery_time_max": 4,
+                        "delay_message": null,
+                        "is_fastest_edt_channel": false,
+                        "sla_message": "",
+                        "show_edt": true,
+                        "edt_text": "預計配達時間 9月22日 - 9月24日",
+                        "formatted_edt_text": [
+                            {
+                                "template": "預計配達時間 9月22日 - 9月24日",
+                                "format": null,
+                                "attributes": null,
+                                "text_color": null,
+                                "text_hex_color": null
+                            }
+                        ],
+                        "formatted_pre_order_text": null,
+                        "formatted_fbs_description_text": null,
+                        "show_edt_as_header": false
+                    },
+                    "channel_promotion_infos": [],
+                    "warning": null,
+                    "shipping_icon_type": null,
+                    "lowest_bpsf_promotion_rule": null,
+                    "service_type_info": "",
+                    "is_integrated_channel": true,
+                    "late_delivery_compensation": null,
+                    "is_sst_included": false,
+                    "display_text": {
+                        "late_delivery_compensation": null,
+                        "direct_delivery": null,
+                        "fulfilled_by_shopee": null,
+                        "spx_instant_delivery": null
+                    },
+                    "rule_type": 0,
+                    "is_xdd_channel": false,
+                    "show_shopee_plus_icon": false,
+                    "xdd_value": null,
+                    "hide_shipping_fee": null,
+                    "edt_tracking_info": "{\"edt_min\":2,\"edt_max\":4,\"edt_min_hours\":49,\"edt_max_hours\":93,\"edt_display_identifier\":65545,\"buyer_address_hash\":\"1AXnLtm\"}"
+                },
+                {
+                    "channel_id": 30015,
+                    "name": "蝦皮店到店",
+                    "price": {
+                        "single_value": 0,
+                        "range_min": -1,
+                        "range_max": -1,
+                        "price_mask": null
+                    },
+                    "price_before_discount": {
+                        "single_value": 4500000,
+                        "range_min": -1,
+                        "range_max": -1,
+                        "price_mask": null
+                    },
+                    "channel_delivery_info": {
+                        "has_edt": true,
+                        "display_mode": "edt_by_date",
+                        "estimated_delivery_date_from": 1758631585,
+                        "estimated_delivery_date_to": 1758804385,
+                        "estimated_delivery_time_min": 3,
+                        "estimated_delivery_time_max": 5,
+                        "delay_message": "免運店家滿$199無限免運; 週三週六$149無限免運",
+                        "is_fastest_edt_channel": false,
+                        "sla_message": "",
+                        "show_edt": true,
+                        "edt_text": "預計配達時間 9月23日 - 9月25日",
+                        "formatted_edt_text": [
+                            {
+                                "template": "預計配達時間 9月23日 - 9月25日",
+                                "format": null,
+                                "attributes": null,
+                                "text_color": null,
+                                "text_hex_color": null
+                            }
+                        ],
+                        "formatted_pre_order_text": null,
+                        "formatted_fbs_description_text": null,
+                        "show_edt_as_header": false
+                    },
+                    "channel_promotion_infos": [],
+                    "warning": null,
+                    "shipping_icon_type": null,
+                    "lowest_bpsf_promotion_rule": null,
+                    "service_type_info": "",
+                    "is_integrated_channel": true,
+                    "late_delivery_compensation": {
+                        "type": 1,
+                        "amount": 1000000,
+                        "is_guaranteed_edt": true,
+                        "compensation_amount": null,
+                        "text": null
+                    },
+                    "is_sst_included": false,
+                    "display_text": {
+                        "late_delivery_compensation": {
+                            "text": "如果訂單未能準時配達，您可以領取 {compensation_amount} 優惠券作為補償",
+                            "gdt_max": null,
+                            "compensation_amount": {
+                                "value": 1000000
+                            }
+                        },
+                        "direct_delivery": null,
+                        "fulfilled_by_shopee": null,
+                        "spx_instant_delivery": null
+                    },
+                    "rule_type": 0,
+                    "is_xdd_channel": false,
+                    "show_shopee_plus_icon": false,
+                    "xdd_value": null,
+                    "hide_shipping_fee": null,
+                    "edt_tracking_info": "{\"edt_min\":3,\"edt_max\":5,\"edt_min_hours\":72,\"edt_max_hours\":120,\"edt_display_identifier\":327689,\"buyer_address_hash\":\"1AXnLtm\"}"
+                },
+                {
+                    "channel_id": 30017,
+                    "name": "店到家宅配 - 標準包裹",
+                    "price": {
+                        "single_value": 6500000,
+                        "range_min": -1,
+                        "range_max": -1,
+                        "price_mask": null
+                    },
+                    "price_before_discount": null,
+                    "channel_delivery_info": {
+                        "has_edt": true,
+                        "display_mode": "edt_by_date",
+                        "estimated_delivery_date_from": 1758631585,
+                        "estimated_delivery_date_to": 1758890785,
+                        "estimated_delivery_time_min": 3,
+                        "estimated_delivery_time_max": 6,
+                        "delay_message": "免運店家滿$490免運；配送範圍限台北、新北、桃園、新竹、台中、彰化、雲林、嘉義、台南、高雄、宜蘭，部分行政區及區域除外",
+                        "is_fastest_edt_channel": false,
+                        "sla_message": "",
+                        "show_edt": true,
+                        "edt_text": "預計配達時間 9月23日 - 9月26日",
+                        "formatted_edt_text": [
+                            {
+                                "template": "預計配達時間 9月23日 - 9月26日",
+                                "format": null,
+                                "attributes": null,
+                                "text_color": null,
+                                "text_hex_color": null
+                            }
+                        ],
+                        "formatted_pre_order_text": null,
+                        "formatted_fbs_description_text": null,
+                        "show_edt_as_header": false
+                    },
+                    "channel_promotion_infos": [
+                        {
+                            "rule_id": 359367447162882,
+                            "type": 1,
+                            "display_mode": null,
+                            "discount_off": null,
+                            "min_spend": {
+                                "single_value": 49000000,
+                                "range_min": -1,
+                                "range_max": -1,
+                                "price_mask": null
+                            },
+                            "cap": null
+                        }
+                    ],
+                    "warning": null,
+                    "shipping_icon_type": null,
+                    "lowest_bpsf_promotion_rule": null,
+                    "service_type_info": "",
+                    "is_integrated_channel": true,
+                    "late_delivery_compensation": {
+                        "type": 1,
+                        "amount": 1000000,
+                        "is_guaranteed_edt": true,
+                        "compensation_amount": null,
+                        "text": null
+                    },
+                    "is_sst_included": false,
+                    "display_text": {
+                        "late_delivery_compensation": {
+                            "text": "如果訂單未能準時配達，您可以領取 {compensation_amount} 優惠券作為補償",
+                            "gdt_max": null,
+                            "compensation_amount": {
+                                "value": 1000000
+                            }
+                        },
+                        "direct_delivery": null,
+                        "fulfilled_by_shopee": null,
+                        "spx_instant_delivery": null
+                    },
+                    "rule_type": 0,
+                    "is_xdd_channel": false,
+                    "show_shopee_plus_icon": false,
+                    "xdd_value": null,
+                    "hide_shipping_fee": null,
+                    "edt_tracking_info": "{\"edt_min\":3,\"edt_max\":6,\"edt_min_hours\":72,\"edt_max_hours\":144,\"edt_display_identifier\":327689,\"buyer_address_hash\":\"1AXnLtm\"}"
+                },
+                {
+                    "channel_id": 30019,
+                    "name": "蝦皮店到店 - 隔日到貨",
+                    "price": {
+                        "single_value": 0,
+                        "range_min": -1,
+                        "range_max": -1,
+                        "price_mask": null
+                    },
+                    "price_before_discount": {
+                        "single_value": 6000000,
+                        "range_min": -1,
+                        "range_max": -1,
+                        "price_mask": null
+                    },
+                    "channel_delivery_info": {
+                        "has_edt": true,
+                        "display_mode": "edt_by_date",
+                        "estimated_delivery_date_from": 1758631585,
+                        "estimated_delivery_date_to": 1758631585,
+                        "estimated_delivery_time_min": 3,
+                        "estimated_delivery_time_max": 3,
+                        "delay_message": "免運店家滿$299免運; 平日14點前下單隔日晚間到",
+                        "is_fastest_edt_channel": false,
+                        "sla_message": "",
+                        "show_edt": true,
+                        "edt_text": "預計配達日 9月23日",
+                        "formatted_edt_text": [
+                            {
+                                "template": "預計配達日 9月23日",
+                                "format": null,
+                                "attributes": null,
+                                "text_color": null,
+                                "text_hex_color": null
+                            }
+                        ],
+                        "formatted_pre_order_text": null,
+                        "formatted_fbs_description_text": null,
+                        "show_edt_as_header": false
+                    },
+                    "channel_promotion_infos": [],
+                    "warning": null,
+                    "shipping_icon_type": null,
+                    "lowest_bpsf_promotion_rule": null,
+                    "service_type_info": "",
+                    "is_integrated_channel": true,
+                    "late_delivery_compensation": {
+                        "type": 1,
+                        "amount": 3000000,
+                        "is_guaranteed_edt": true,
+                        "compensation_amount": null,
+                        "text": null
+                    },
+                    "is_sst_included": false,
+                    "display_text": {
+                        "late_delivery_compensation": {
+                            "text": "如果訂單未能準時配達，您可以領取 {compensation_amount} 優惠券作為補償",
+                            "gdt_max": null,
+                            "compensation_amount": {
+                                "value": 3000000
+                            }
+                        },
+                        "direct_delivery": null,
+                        "fulfilled_by_shopee": null,
+                        "spx_instant_delivery": null
+                    },
+                    "rule_type": 0,
+                    "is_xdd_channel": false,
+                    "show_shopee_plus_icon": false,
+                    "xdd_value": null,
+                    "hide_shipping_fee": null,
+                    "edt_tracking_info": "{\"edt_min\":3,\"edt_max\":3,\"edt_min_hours\":72,\"edt_max_hours\":72,\"edt_display_identifier\":294921,\"buyer_address_hash\":\"1AXnLtm\"}"
+                },
+                {
+                    "channel_id": 30005,
+                    "name": "7-ELEVEN",
+                    "price": {
+                        "single_value": 0,
+                        "range_min": -1,
+                        "range_max": -1,
+                        "price_mask": null
+                    },
+                    "price_before_discount": {
+                        "single_value": 6000000,
+                        "range_min": -1,
+                        "range_max": -1,
+                        "price_mask": null
+                    },
+                    "channel_delivery_info": {
+                        "has_edt": true,
+                        "display_mode": "edt_by_date",
+                        "estimated_delivery_date_from": 1758545185,
+                        "estimated_delivery_date_to": 1758717985,
+                        "estimated_delivery_time_min": 2,
+                        "estimated_delivery_time_max": 4,
+                        "delay_message": null,
+                        "is_fastest_edt_channel": false,
+                        "sla_message": "",
+                        "show_edt": true,
+                        "edt_text": "預計配達時間 9月22日 - 9月24日",
+                        "formatted_edt_text": [
+                            {
+                                "template": "預計配達時間 9月22日 - 9月24日",
+                                "format": null,
+                                "attributes": null,
+                                "text_color": null,
+                                "text_hex_color": null
+                            }
+                        ],
+                        "formatted_pre_order_text": null,
+                        "formatted_fbs_description_text": null,
+                        "show_edt_as_header": false
+                    },
+                    "channel_promotion_infos": [],
+                    "warning": null,
+                    "shipping_icon_type": null,
+                    "lowest_bpsf_promotion_rule": null,
+                    "service_type_info": "",
+                    "is_integrated_channel": true,
+                    "late_delivery_compensation": null,
+                    "is_sst_included": false,
+                    "display_text": {
+                        "late_delivery_compensation": null,
+                        "direct_delivery": null,
+                        "fulfilled_by_shopee": null,
+                        "spx_instant_delivery": null
+                    },
+                    "rule_type": 0,
+                    "is_xdd_channel": false,
+                    "show_shopee_plus_icon": false,
+                    "xdd_value": null,
+                    "hide_shipping_fee": null,
+                    "edt_tracking_info": "{\"edt_min\":2,\"edt_max\":4,\"edt_min_hours\":48,\"edt_max_hours\":96,\"edt_display_identifier\":65545,\"buyer_address_hash\":\"1AXnLtm\"}"
+                },
+                {
+                    "channel_id": 30006,
+                    "name": "全家",
+                    "price": {
+                        "single_value": 0,
+                        "range_min": -1,
+                        "range_max": -1,
+                        "price_mask": null
+                    },
+                    "price_before_discount": {
+                        "single_value": 6000000,
+                        "range_min": -1,
+                        "range_max": -1,
+                        "price_mask": null
+                    },
+                    "channel_delivery_info": {
+                        "has_edt": true,
+                        "display_mode": "edt_by_date",
+                        "estimated_delivery_date_from": 1758545185,
+                        "estimated_delivery_date_to": 1758717985,
+                        "estimated_delivery_time_min": 2,
+                        "estimated_delivery_time_max": 4,
+                        "delay_message": null,
+                        "is_fastest_edt_channel": false,
+                        "sla_message": "",
+                        "show_edt": true,
+                        "edt_text": "預計配達時間 9月22日 - 9月24日",
+                        "formatted_edt_text": [
+                            {
+                                "template": "預計配達時間 9月22日 - 9月24日",
+                                "format": null,
+                                "attributes": null,
+                                "text_color": null,
+                                "text_hex_color": null
+                            }
+                        ],
+                        "formatted_pre_order_text": null,
+                        "formatted_fbs_description_text": null,
+                        "show_edt_as_header": false
+                    },
+                    "channel_promotion_infos": [],
+                    "warning": null,
+                    "shipping_icon_type": null,
+                    "lowest_bpsf_promotion_rule": null,
+                    "service_type_info": "",
+                    "is_integrated_channel": true,
+                    "late_delivery_compensation": null,
+                    "is_sst_included": false,
+                    "display_text": {
+                        "late_delivery_compensation": null,
+                        "direct_delivery": null,
+                        "fulfilled_by_shopee": null,
+                        "spx_instant_delivery": null
+                    },
+                    "rule_type": 0,
+                    "is_xdd_channel": false,
+                    "show_shopee_plus_icon": false,
+                    "xdd_value": null,
+                    "hide_shipping_fee": null,
+                    "edt_tracking_info": "{\"edt_min\":2,\"edt_max\":4,\"edt_min_hours\":48,\"edt_max_hours\":96,\"edt_display_identifier\":65545,\"buyer_address_hash\":\"1AXnLtm\"}"
+                },
+                {
+                    "channel_id": 30020,
+                    "name": "新竹物流",
+                    "price": {
+                        "single_value": 6500000,
+                        "range_min": -1,
+                        "range_max": -1,
+                        "price_mask": null
+                    },
+                    "price_before_discount": null,
+                    "channel_delivery_info": {
+                        "has_edt": true,
+                        "display_mode": "edt_by_date",
+                        "estimated_delivery_date_from": 1758523768,
+                        "estimated_delivery_date_to": 1758696568,
+                        "estimated_delivery_time_min": 2,
+                        "estimated_delivery_time_max": 4,
+                        "delay_message": null,
+                        "is_fastest_edt_channel": false,
+                        "sla_message": "",
+                        "show_edt": true,
+                        "edt_text": "預計配達時間 9月22日 - 9月24日",
+                        "formatted_edt_text": [
+                            {
+                                "template": "預計配達時間 9月22日 - 9月24日",
+                                "format": null,
+                                "attributes": null,
+                                "text_color": null,
+                                "text_hex_color": null
+                            }
+                        ],
+                        "formatted_pre_order_text": null,
+                        "formatted_fbs_description_text": null,
+                        "show_edt_as_header": false
+                    },
+                    "channel_promotion_infos": [],
+                    "warning": null,
+                    "shipping_icon_type": null,
+                    "lowest_bpsf_promotion_rule": null,
+                    "service_type_info": "",
+                    "is_integrated_channel": true,
+                    "late_delivery_compensation": null,
+                    "is_sst_included": false,
+                    "display_text": {
+                        "late_delivery_compensation": null,
+                        "direct_delivery": null,
+                        "fulfilled_by_shopee": null,
+                        "spx_instant_delivery": null
+                    },
+                    "rule_type": 0,
+                    "is_xdd_channel": false,
+                    "show_shopee_plus_icon": false,
+                    "xdd_value": null,
+                    "hide_shipping_fee": null,
+                    "edt_tracking_info": "{\"edt_min\":2,\"edt_max\":4,\"edt_min_hours\":43,\"edt_max_hours\":91,\"edt_display_identifier\":65545,\"buyer_address_hash\":\"1AXnLtm\"}"
+                },
+                {
+                    "channel_id": 30012,
+                    "name": "宅配通",
+                    "price": {
+                        "single_value": 7000000,
+                        "range_min": -1,
+                        "range_max": -1,
+                        "price_mask": null
+                    },
+                    "price_before_discount": null,
+                    "channel_delivery_info": {
+                        "has_edt": true,
+                        "display_mode": "edt_by_date",
+                        "estimated_delivery_date_from": 1758502618,
+                        "estimated_delivery_date_to": 1758695048,
+                        "estimated_delivery_time_min": 2,
+                        "estimated_delivery_time_max": 4,
+                        "delay_message": "請留意:為避免無法正常配送，您的地址請勿輸入異常符號，例如：\"/\" \"*\"....等。",
+                        "is_fastest_edt_channel": false,
+                        "sla_message": "",
+                        "show_edt": true,
+                        "edt_text": "預計配達時間 9月22日 - 9月24日",
+                        "formatted_edt_text": [
+                            {
+                                "template": "預計配達時間 9月22日 - 9月24日",
+                                "format": null,
+                                "attributes": null,
+                                "text_color": null,
+                                "text_hex_color": null
+                            }
+                        ],
+                        "formatted_pre_order_text": null,
+                        "formatted_fbs_description_text": null,
+                        "show_edt_as_header": false
+                    },
+                    "channel_promotion_infos": [],
+                    "warning": null,
+                    "shipping_icon_type": null,
+                    "lowest_bpsf_promotion_rule": null,
+                    "service_type_info": "",
+                    "is_integrated_channel": true,
+                    "late_delivery_compensation": null,
+                    "is_sst_included": false,
+                    "display_text": {
+                        "late_delivery_compensation": null,
+                        "direct_delivery": null,
+                        "fulfilled_by_shopee": null,
+                        "spx_instant_delivery": null
+                    },
+                    "rule_type": 0,
+                    "is_xdd_channel": false,
+                    "show_shopee_plus_icon": false,
+                    "xdd_value": null,
+                    "hide_shipping_fee": null,
+                    "edt_tracking_info": "{\"edt_min\":2,\"edt_max\":4,\"edt_min_hours\":37,\"edt_max_hours\":90,\"edt_display_identifier\":65545,\"buyer_address_hash\":\"1AXnLtm\"}"
+                },
+                {
+                    "channel_id": 30001,
+                    "name": "黑貓宅急便",
+                    "price": {
+                        "single_value": 9000000,
+                        "range_min": -1,
+                        "range_max": -1,
+                        "price_mask": null
+                    },
+                    "price_before_discount": null,
+                    "channel_delivery_info": {
+                        "has_edt": true,
+                        "display_mode": "edt_by_date",
+                        "estimated_delivery_date_from": 1758495516,
+                        "estimated_delivery_date_to": 1758618178,
+                        "estimated_delivery_time_min": 2,
+                        "estimated_delivery_time_max": 3,
+                        "delay_message": null,
+                        "is_fastest_edt_channel": false,
+                        "sla_message": "",
+                        "show_edt": true,
+                        "edt_text": "預計配達時間 9月22日 - 9月23日",
+                        "formatted_edt_text": [
+                            {
+                                "template": "預計配達時間 9月22日 - 9月23日",
+                                "format": null,
+                                "attributes": null,
+                                "text_color": null,
+                                "text_hex_color": null
+                            }
+                        ],
+                        "formatted_pre_order_text": null,
+                        "formatted_fbs_description_text": null,
+                        "show_edt_as_header": false
+                    },
+                    "channel_promotion_infos": [],
+                    "warning": null,
+                    "shipping_icon_type": null,
+                    "lowest_bpsf_promotion_rule": null,
+                    "service_type_info": "",
+                    "is_integrated_channel": true,
+                    "late_delivery_compensation": null,
+                    "is_sst_included": false,
+                    "display_text": {
+                        "late_delivery_compensation": null,
+                        "direct_delivery": null,
+                        "fulfilled_by_shopee": null,
+                        "spx_instant_delivery": null
+                    },
+                    "rule_type": 0,
+                    "is_xdd_channel": false,
+                    "show_shopee_plus_icon": false,
+                    "xdd_value": null,
+                    "hide_shipping_fee": null,
+                    "edt_tracking_info": "{\"edt_min\":2,\"edt_max\":3,\"edt_min_hours\":35,\"edt_max_hours\":69,\"edt_display_identifier\":65545,\"buyer_address_hash\":\"1AXnLtm\"}"
+                },
+                {
+                    "channel_id": 30018,
+                    "name": "嘉里快遞",
+                    "price": {
+                        "single_value": 6500000,
+                        "range_min": -1,
+                        "range_max": -1,
+                        "price_mask": null
+                    },
+                    "price_before_discount": null,
+                    "channel_delivery_info": {
+                        "has_edt": true,
+                        "display_mode": "edt_by_date",
+                        "estimated_delivery_date_from": 1758497062,
+                        "estimated_delivery_date_to": 1758692499,
+                        "estimated_delivery_time_min": 2,
+                        "estimated_delivery_time_max": 4,
+                        "delay_message": null,
+                        "is_fastest_edt_channel": false,
+                        "sla_message": "",
+                        "show_edt": true,
+                        "edt_text": "預計配達時間 9月22日 - 9月24日",
+                        "formatted_edt_text": [
+                            {
+                                "template": "預計配達時間 9月22日 - 9月24日",
+                                "format": null,
+                                "attributes": null,
+                                "text_color": null,
+                                "text_hex_color": null
+                            }
+                        ],
+                        "formatted_pre_order_text": null,
+                        "formatted_fbs_description_text": null,
+                        "show_edt_as_header": false
+                    },
+                    "channel_promotion_infos": [],
+                    "warning": null,
+                    "shipping_icon_type": null,
+                    "lowest_bpsf_promotion_rule": null,
+                    "service_type_info": "",
+                    "is_integrated_channel": true,
+                    "late_delivery_compensation": null,
+                    "is_sst_included": false,
+                    "display_text": {
+                        "late_delivery_compensation": null,
+                        "direct_delivery": null,
+                        "fulfilled_by_shopee": null,
+                        "spx_instant_delivery": null
+                    },
+                    "rule_type": 0,
+                    "is_xdd_channel": false,
+                    "show_shopee_plus_icon": false,
+                    "xdd_value": null,
+                    "hide_shipping_fee": null,
+                    "edt_tracking_info": "{\"edt_min\":2,\"edt_max\":4,\"edt_min_hours\":35,\"edt_max_hours\":89,\"edt_display_identifier\":65545,\"buyer_address_hash\":\"1AXnLtm\"}"
+                }
+            ],
+            "grouped_channel_infos_by_service_type": [],
+            "also_available_channel_name": "",
+            "pre_selected_shipping_channel": {
+                "channel_id": 30014,
+                "name": "OK Mart",
+                "price": {
+                    "single_value": 0,
+                    "range_min": -1,
+                    "range_max": -1,
+                    "price_mask": null
+                },
+                "price_before_discount": {
+                    "single_value": 4500000,
+                    "range_min": -1,
+                    "range_max": -1,
+                    "price_mask": null
+                },
+                "channel_delivery_info": {
+                    "has_edt": true,
+                    "display_mode": "edt_by_date",
+                    "estimated_delivery_date_from": 1758547503,
+                    "estimated_delivery_date_to": 1758704111,
+                    "estimated_delivery_time_min": 2,
+                    "estimated_delivery_time_max": 4,
+                    "delay_message": "",
+                    "is_fastest_edt_channel": false,
+                    "sla_message": "",
+                    "show_edt": true,
+                    "edt_text": "預計配達時間 9月22日 - 9月24日",
+                    "formatted_edt_text": [
+                        {
+                            "template": "預計配達時間 9月22日 - 9月24日",
+                            "format": [],
+                            "attributes": null,
+                            "text_color": null,
+                            "text_hex_color": null
+                        }
+                    ],
+                    "formatted_pre_order_text": null,
+                    "formatted_fbs_description_text": null,
+                    "show_edt_as_header": false
+                },
+                "channel_promotion_infos": [],
+                "warning": {
+                    "type": "",
+                    "warning_msg": ""
+                },
+                "shipping_icon_type": null,
+                "lowest_bpsf_promotion_rule": null,
+                "service_type_info": "",
+                "is_integrated_channel": true,
+                "late_delivery_compensation": null,
+                "is_sst_included": false,
+                "display_text": {
+                    "late_delivery_compensation": null,
+                    "direct_delivery": null,
+                    "fulfilled_by_shopee": null,
+                    "spx_instant_delivery": null
+                },
+                "rule_type": 0,
+                "is_xdd_channel": false,
+                "show_shopee_plus_icon": false,
+                "xdd_value": 0,
+                "hide_shipping_fee": null,
+                "edt_tracking_info": null
+            },
+            "show_grouped_channel_first": false,
+            "is_item_with_price_range": true,
+            "also_available_channel_icon_type": null,
+            "pre_order_text": "",
+            "selected_late_delivery_compensation_for_drawer": null,
+            "shipping_info_text": {
+                "text_template": null,
+                "shipping_fee": null,
+                "edt_from": null,
+                "edt_to": null,
+                "show_shipping_fee_suffix": true,
+                "formatted_text": {
+                    "edt": {
+                        "template": "預計配達時間 9月22日 - 9月24日",
+                        "format": null,
+                        "attributes": null,
+                        "text_color": null,
+                        "text_hex_color": null
+                    },
+                    "shipping_fee": {
+                        "template": "運費：$0 起",
+                        "format": null,
+                        "attributes": null,
+                        "text_color": null,
+                        "text_hex_color": null
+                    },
+                    "late_delivery_compensation": null,
+                    "fbs_description": null,
+                    "display_edt_text_first_line": true
+                },
+                "highlight_free_shipping": false
+            },
+            "formatted_pre_order_text": null,
+            "has_free_return": null,
+            "model_id": 261033657562,
+            "delivery_address": {
+                "state": "臺北市",
+                "city": "中正區",
+                "district": null,
+                "town": null,
+                "zip_code": null,
+                "address": null,
+                "region": null,
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        "shop_vouchers": [],
+        "free_return": null,
+        "coin_info": {
+            "spend_cash_unit": 100000,
+            "coin_earn_items": [],
+            "coin_earn_label": null
+        },
+        "product_attributes": {
+            "attrs": [
+                {
+                    "name": "商品數量",
+                    "value": "尚有庫存",
+                    "id": null,
+                    "is_timestamp": null,
+                    "brand_option": null,
+                    "val_id": null,
+                    "url": null,
+                    "brand_id": null,
+                    "full_url": null,
+                    "type": 7,
+                    "item_attribute_type": null,
+                    "name_tr": null,
+                    "value_tr": null
+                },
+                {
+                    "name": "品牌",
+                    "value": "Dr Ruibeila",
+                    "id": null,
+                    "is_timestamp": null,
+                    "brand_option": null,
+                    "val_id": null,
+                    "url": "/search?brands=5435791",
+                    "brand_id": 5435791,
+                    "full_url": "https://shopee.tw/search?brands=5435791",
+                    "type": 1,
+                    "item_attribute_type": null,
+                    "name_tr": null,
+                    "value_tr": null
+                },
+                {
+                    "name": "重量",
+                    "value": "30g",
+                    "id": 100095,
+                    "is_timestamp": null,
+                    "brand_option": null,
+                    "val_id": null,
+                    "url": null,
+                    "brand_id": null,
+                    "full_url": null,
+                    "type": 5,
+                    "item_attribute_type": null,
+                    "name_tr": null,
+                    "value_tr": null
+                },
+                {
+                    "name": "膚質",
+                    "value": "全膚質",
+                    "id": 100049,
+                    "is_timestamp": null,
+                    "brand_option": null,
+                    "val_id": null,
+                    "url": null,
+                    "brand_id": null,
+                    "full_url": null,
+                    "type": 5,
+                    "item_attribute_type": null,
+                    "name_tr": null,
+                    "value_tr": null
+                },
+                {
+                    "name": "護膚功效",
+                    "value": "延緩老化, 黯淡/膚色不均, 淡化細紋、皺紋, 膚色不均",
+                    "id": 100099,
+                    "is_timestamp": null,
+                    "brand_option": null,
+                    "val_id": null,
+                    "url": null,
+                    "brand_id": null,
+                    "full_url": null,
+                    "type": 5,
+                    "item_attribute_type": null,
+                    "name_tr": null,
+                    "value_tr": null
+                },
+                {
+                    "name": "產品本體應有繁體中文標示",
+                    "value": "是(詳細內容請參閱商品描述或圖片)",
+                    "id": 101247,
+                    "is_timestamp": null,
+                    "brand_option": null,
+                    "val_id": null,
+                    "url": null,
+                    "brand_id": null,
+                    "full_url": null,
+                    "type": 5,
+                    "item_attribute_type": null,
+                    "name_tr": null,
+                    "value_tr": null
+                },
+                {
+                    "name": "商品已完成產品登錄或查驗登記",
+                    "value": "是",
+                    "id": 101249,
+                    "is_timestamp": null,
+                    "brand_option": null,
+                    "val_id": null,
+                    "url": null,
+                    "brand_id": null,
+                    "full_url": null,
+                    "type": 5,
+                    "item_attribute_type": null,
+                    "name_tr": null,
+                    "value_tr": null
+                },
+                {
+                    "name": "保存期限",
+                    "value": "36個月",
+                    "id": 100010,
+                    "is_timestamp": null,
+                    "brand_option": null,
+                    "val_id": null,
+                    "url": null,
+                    "brand_id": null,
+                    "full_url": null,
+                    "type": 5,
+                    "item_attribute_type": null,
+                    "name_tr": null,
+                    "value_tr": null
+                },
+                {
+                    "name": "質地",
+                    "value": "油水雙層精華液",
+                    "id": 100036,
+                    "is_timestamp": null,
+                    "brand_option": null,
+                    "val_id": null,
+                    "url": null,
+                    "brand_id": null,
+                    "full_url": null,
+                    "type": 5,
+                    "item_attribute_type": null,
+                    "name_tr": null,
+                    "value_tr": null
+                },
+                {
+                    "name": "主要成分",
+                    "value": "377（苯乙基間苯二酚）, 光果甘草提取物, 壞血酸, 維他命C, 視黃醇",
+                    "id": 100047,
+                    "is_timestamp": null,
+                    "brand_option": null,
+                    "val_id": null,
+                    "url": null,
+                    "brand_id": null,
+                    "full_url": null,
+                    "type": 5,
+                    "item_attribute_type": null,
+                    "name_tr": null,
+                    "value_tr": null
+                },
+                {
+                    "name": "出貨地",
+                    "value": "臺中市北區",
+                    "id": null,
+                    "is_timestamp": null,
+                    "brand_option": null,
+                    "val_id": null,
+                    "url": null,
+                    "brand_id": null,
+                    "full_url": null,
+                    "type": 6,
+                    "item_attribute_type": null,
+                    "name_tr": null,
+                    "value_tr": null
+                }
+            ],
+            "categories": [
+                {
+                    "catid": 11041691,
+                    "display_name": "美妝保養",
+                    "no_sub": false,
+                    "is_default_subcat": false
+                },
+                {
+                    "catid": 11041752,
+                    "display_name": "醫美清潔保養",
+                    "no_sub": false,
+                    "is_default_subcat": false
+                },
+                {
+                    "catid": 11046882,
+                    "display_name": "精華液",
+                    "no_sub": true,
+                    "is_default_subcat": false
+                }
+            ],
+            "related_items": []
+        },
+        "shop_detailed": {
+            "shopid": 1367304757,
+            "userid": 1368016628,
+            "last_active_time": 1758369519,
+            "vacation": false,
+            "place": "臺中市北區",
+            "account": {
+                "portrait": "tw-11134216-7ra0s-mbhhkk8tu39v4a",
+                "username": "drruibeila",
+                "status": 1
+            },
+            "is_shopee_verified": false,
+            "is_preferred_plus_seller": false,
+            "is_official_shop": false,
+            "shop_location": "臺中市北區",
+            "item_count": 24,
+            "rating_star": 4.9897,
+            "response_rate": 100,
+            "session_info": null,
+            "name": "Dr Ruibeila 官方旗艦店",
+            "ctime": 1727266255,
+            "response_time": 722,
+            "follower_count": 1897,
+            "show_official_shop_label": false,
+            "rating_bad": 0,
+            "rating_good": 2263,
+            "rating_normal": 4,
+            "session_infos": null,
+            "status": 1,
+            "is_individual_seller": null,
+            "is_mart": false,
+            "favorite_shop_info": null,
+            "is_3pf": false,
+            "sold_total": 3106,
+            "is_shopee_choice": false,
+            "is_high_end": false,
+            "banner": {
+                "shopee_choice": null
+            },
+            "authorized_brand": null,
+            "is_scs": false,
+            "shop_location_tr": null,
+            "sold_total_display": null,
+            "is_outlet": false,
+            "display_fbs_logo": false
+        },
+        "age_gate_control": null,
+        "abnormal_popup": null,
+        "return_on_spot": null,
+        "display_sections": {
+            "add_on_deal": null,
+            "bundle_deal": null,
+            "exclusive_price_label": null,
+            "free_return": null,
+            "coin": null,
+            "wholesale": null
+        },
+        "ineligible_ep": null,
+        "tax_disclaimer": null,
+        "alcohol_disclaimer": null,
+        "design_control": {
+            "use_new_revamp_first_screen": null,
+            "display_on_time_delivery_guarantee": true,
+            "disable_price_with_variation": false,
+            "display_direct_delivery": false,
+            "use_new_featured_video_revamp": null,
+            "first_screen_revamp_abtest_group": null,
+            "display_choice_customised_section": false,
+            "is_support_fbs_enabled": false,
+            "top_section_featured_video_ab_test_group": null,
+            "enable_ksp_config": null,
+            "disable_main_page_select_variation": null,
+            "support_shop_review_preview": null,
+            "pdp_revamp_phase1_improvement_ui_review_down": null,
+            "display_fashion_attributes": null,
+            "display_fashion_review_section": null,
+            "display_fashion_first_screen": null,
+            "enable_fashion_review_improvements": null,
+            "display_fbs_floating_counter": null,
+            "display_shipping_drawer_new_free_shipping_text": false,
+            "display_shipping_drawer_new_free_shipping_ui": false
+        },
+        "shopee_free_return": null,
+        "detail_level": 0,
+        "removed_fields": null,
+        "size_guide": null,
+        "designer_info": null,
+        "shipping_info": null,
+        "vehicle_compatibility_info": null,
+        "nea": null,
+        "button_group": {
+            "buy_with_voucher": null,
+            "ineligible_user_platform_exclusive_sku": null
+        },
+        "installment_drawer": {
+            "priority": [
+                0,
+                1
+            ],
+            "spl": null,
+            "bank": {
+                "channels": null
+            },
+            "credit_card": null
+        },
+        "ongoing_banner": null,
+        "teaser_banner": null,
+        "price_breakdown": null,
+        "membership_exclusive": null,
+        "membership_exclusive_teaser": null,
+        "service_entrance": {
+            "services": [
+                {
+                    "text": "蝦皮放心買",
+                    "type": null,
+                    "id": 52
+                },
+                {
+                    "text": "蝦皮安心退",
+                    "type": null,
+                    "id": 51
+                }
+            ]
+        },
+        "service_drawer": {
+            "services": [
+                {
+                    "title": "蝦皮放心買",
+                    "description": "除了賣家實名認證跟商品合規檢驗外，蝦皮也實行賣家計分管理，針對營運表現不佳的賣家進行取締。管理項目包含訂單未完成率、延遲出貨率、違反上架規範等。",
+                    "type": null,
+                    "free_return": null,
+                    "insurance": null,
+                    "id": 52,
+                    "redirection_url": "https://shopee.tw/m/worry-free#anchorId-1737101390274",
+                    "icon": "tw-11134258-7rbkc-m8vjh2lirw12cc",
+                    "insurance_drawer": null
+                },
+                {
+                    "title": "蝦皮安心退",
+                    "description": "蝦皮安心退由蝦皮協助審核，您無須先與賣家溝通，一鍵即可申請退貨。除特殊退貨物流，您也無須負擔退貨運費。        ",
+                    "type": null,
+                    "free_return": null,
+                    "insurance": null,
+                    "id": 51,
+                    "redirection_url": "https://shopee.tw/m/newrr",
+                    "icon": "tw-11134258-7rasm-m2rus0ffw963d1",
+                    "insurance_drawer": null
+                }
+            ]
+        },
+        "trade_in": null,
+        "product_description": {
+            "paragraph_list": [
+                {
+                    "type": 1,
+                    "text": null,
+                    "img_id": "tw-11134208-81ztc-mel4l6seudxd3a",
+                    "ratio": 0.892,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 1,
+                    "text": null,
+                    "img_id": "tw-11134208-7ra0j-md2kz8ez83y79b",
+                    "ratio": 0.5,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 1,
+                    "text": null,
+                    "img_id": "tw-11134208-7ra0h-md2kz8ez9iin93",
+                    "ratio": 0.5,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 1,
+                    "text": null,
+                    "img_id": "tw-11134208-7ra0j-md2kz8ezax33ca",
+                    "ratio": 0.5,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 1,
+                    "text": null,
+                    "img_id": "tw-11134208-7ra0r-md2kz8ezcbnj22",
+                    "ratio": 0.5,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 1,
+                    "text": null,
+                    "img_id": "tw-11134208-7ra0p-md2kz8ezdq7z24",
+                    "ratio": 0.5,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 1,
+                    "text": null,
+                    "img_id": "tw-11134208-7ra0h-md2kz8ezf4sf0f",
+                    "ratio": 0.5,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 1,
+                    "text": null,
+                    "img_id": "tw-11134208-7ra0i-md2kz8ezgjcv34",
+                    "ratio": 0.5,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 1,
+                    "text": null,
+                    "img_id": "tw-11134208-7ra0r-md2kz8ezhxxbd0",
+                    "ratio": 0.5,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 1,
+                    "text": null,
+                    "img_id": "tw-11134208-7ra0o-md2l2g1hwley01",
+                    "ratio": 0.5,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 1,
+                    "text": null,
+                    "img_id": "tw-11134208-7ra0s-md2l2g1hxzzedd",
+                    "ratio": 0.5,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 0,
+                    "text": "💡🧪 品名：【Dr Ruibeila 煙醯胺VC亮膚精華液】",
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 0,
+                    "text": "💡🧪 外號：【發光瓶】/【VC提亮搖搖液】",
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 0,
+                    "text": "💡🧪 研發工程師說：VC日間抗光老，夜間抗氧化，淡化色沉，凈白提亮膚色，改善暗沉無光的外觀，做自己的光！",
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 0,
+                    "text": "💡🧪 料體特色：專研水油分層技術，上層精華油，下層精華液，將原型VC的活性牢牢鎖住防止變質。輕輕搖勻後體驗水的清爽，油的強保濕，雙重膚感帶來奢華體驗，抗氧+亮白+保濕+減少幹紋等多重功效，使肌膚重現少女般明亮光采。",
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 0,
+                    "text": "💡🧪  使用小貼士：用前請搖勻",
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 0,
+                    "text": "💡🧪 成份及功效：",
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 0,
+                    "text": "①強抗暗沉：光果甘草提取物、β-胡蘿蔔素、胡蘿蔔根提取物",
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 0,
+                    "text": "②抗氧提亮：抗壞血酸（維生素C）、生育酚（維生素E）、3-鄰-乙基抗壞血酸",
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 0,
+                    "text": "③深度保濕：白池花籽油、野大豆油、透明質酸鈉",
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 0,
+                    "text": "④減少幹紋：積雪草提取物、黃芩根提取物、虎杖根提取物",
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 0,
+                    "text": "⑤白皙膚色：煙醯胺、377（苯乙基間苯二酚）、甘草亭酸",
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 0,
+                    "text": "💡🧪 正裝規格：30ml/瓶",
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 0,
+                    "text": "💡🧪 保存期限：未開封3年(實際仍須依商品包裝上的日期為准/拆封後請3個月內盡速用畢)",
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 0,
+                    "text": "💡🧪 保養建議：建議搭配同品牌煙醯胺VC亮膚面霜使用，亮白效果更佳。也可搭配視黃醇膠原煥活精華液及視黃醇膠原煥活面霜，實現早C晚A進階護膚，若有不懂詳詢客服。晨間使用請做好皮膚防曬，推薦使用Dr Ruibeila美白輕透防曬乳SPF50 PA+++，同一品牌料體之間兼容性會更好，可有效避免成份互斥搓泥。",
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 0,
+                    "text": "💡🧪 小心機：可滴入粉底液和勻使用，拯救易暗沉的粉底。",
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 0,
+                    "text": "-----------------------------------------------",
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 0,
+                    "text": "📉 🧪 品名：【Dr Ruibeila 視黃醇膠原煥活精華液】",
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 0,
+                    "text": "📉 🧪 外號：【超A膠原塑型液】",
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 0,
+                    "text": "📉 🧪 研發工程師說：水油分層超A精華液，緊致回彈，淡化可見紋，抵禦未來紋，留駐緊實美顏！",
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 0,
+                    "text": "📉 🧪 料體特色：模擬肌膚油脂比例，配比的水油雙重質地精華液，科學搭配4重視黃醇+膠原+臻稀植物油體系，突破單一A醇局限，以油強韌肌膚屏障，刷A不易翻車，肌底層豐盈緊實，臉部膠原嘭嘭長，提升輪廓線，肌膚“韌”性年輕！",
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 0,
+                    "text": "使用小貼士：用前請搖勻",
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 0,
+                    "text": "📉 🧪 成份及功效：",
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 0,
+                    "text": "①撫淡紋路，羥基頻哪酮視黃酸酯、視黃醇、視黃醇丙酸酯、視黃醇棕櫚酸酯",
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 0,
+                    "text": "②緊致回彈：鹿骨膠原蛋白、黃芩根提取物、虎杖根提取物",
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 0,
+                    "text": "③抗氧嫩白：光果甘草提取物、茶葉提取物、迷迭香葉提取物",
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 0,
+                    "text": "④強韌屏障：白池花籽油、向日葵籽油、角鯊烷",
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 0,
+                    "text": "⑤水光嫩膚：玻尿酸（透明質酸）、透明質酸鈉、乙醯化透明質酸鈉、水解透明質酸鈉",
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 0,
+                    "text": "📉 🧪 正裝規格：30ml/瓶",
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 0,
+                    "text": "📉 🧪 保養建議：建議搭配Dr Ruibeila 視黃醇膠原煥活面霜使用。也可搭配煙醯胺VC亮膚精華液及煙醯胺VC亮膚面霜，實現早C晚A進階護膚，詳詢客服。推薦搭配使用Dr Ruibeila美白輕透防曬乳SPF50 PA+++抗光老。",
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 0,
+                    "text": "-----------------------------------------------",
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 0,
+                    "text": "💡🍶 品名：【Dr Ruibeila 煙醯胺VC亮膚面霜】",
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 0,
+                    "text": "💡🍶 外號：【糖氧雙抗發光霜】/【發光霜】",
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 0,
+                    "text": "💡🍶 研發工程師說：絲絨凝霜質地一抹溫潤包裹肌膚，清爽不油膩。採用高活性維他命C+377+煙醯胺配方，減少多餘自由基抗氧化+改善暗沉亮白+進一步減少糖基化（AGEs）的產生抗糖化，三大維度煥亮嫩白，綻放明亮光采。",
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 0,
+                    "text": "💡🍶 成份及功效：",
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 0,
+                    "text": "①糖氧雙抗：3-鄰-乙基抗壞血酸、生育酚（維生素E）、煙醯胺",
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 0,
+                    "text": "②煥亮美肌：377（苯乙基間苯二酚）、光果甘草提取物、甘草亭酸",
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 0,
+                    "text": "③滋潤保濕：透明質酸鈉、乙醯化透明質酸鈉、水解透明質酸鈉、透明質酸",
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 0,
+                    "text": "④改善暗沉：黃芩根提取物、虎杖根提取物、迷迭香葉提取物",
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 0,
+                    "text": "⑤舒緩修護：積雪草提取物、母菊花提取物",
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 0,
+                    "text": "💡🍶 正裝規格：50g/瓶",
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 0,
+                    "text": "💡🍶 保養建議：建議搭配同品牌煙醯胺VC亮膚精華液使用，亮白效果更佳，先精華→后面霜。也可搭配視黃醇膠原煥活精華液及視黃醇膠原煥活面霜，實現早C晚A進階護膚，詳詢客服。晨間使用請做好皮膚防曬，推薦使用Dr Ruibeila美白輕透防曬乳SPF50 PA+++，同一品牌料體之間兼容性會更好，可有效避免成份互斥及功效抵消。",
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 0,
+                    "text": "-----------------------------------------------",
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 0,
+                    "text": "📉 🍶 品名：【Dr Ruibeila 視黃醇膠原煥活面霜】",
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 0,
+                    "text": "📉 🍶 外號：【超A膠原霜】",
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 0,
+                    "text": "📉 🍶 研發工程師說：遵循熟齡肌肌理，配比4重視黃醇+人源化Ⅲ型膠原蛋白，突破單一視黃醇覆蓋不全面、易刺激弊端，多靶點作用於全皮層淡化細紋，提供輪廓支撐維持肌膚彈性，令肌膚由內至外彈潤緊實，延緩肌膚衰老。",
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 0,
+                    "text": "📉 🍶 成份及功效：",
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 0,
+                    "text": "①撫平細紋：視黃醇丙酸酯、視黃醇棕櫚酸酯、羥基頻哪酮視黃酸酯、視黃醇",
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 0,
+                    "text": "②回復彈性：水解膠原、膠原",
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 0,
+                    "text": "③水油同補：透明質酸鈉、向日葵籽油",
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 0,
+                    "text": "④抗氧煥亮：茶葉提取物、虎杖根提取物、迷迭香葉提取物",
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 0,
+                    "text": "⑤舒緩修護：積雪草提取物、母菊花提取物、黃芩根提取",
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 0,
+                    "text": "📉 🍶 正裝規格：50g/瓶",
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 0,
+                    "text": "📉 🍶 保養建議：建議搭配Dr Ruibeila 視黃醇膠原煥活精華液使用。也可搭配煙醯胺VC亮膚精華液及煙醯胺VC亮膚面霜，實現早C晚A進階護膚，詳詢客服。推薦搭配使用Dr Ruibeila美白輕透防曬乳SPF50 PA+++抗光老。",
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 0,
+                    "text": "-----------------------------------------------",
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 0,
+                    "text": "🌟護膚順序：洗面乳→化妝水→精華液→眼霜→面霜→防曬霜（日間），每周2-3次去角質凝膠深層清潔。",
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 0,
+                    "text": "🧪精華液推薦用量用法：取5-8滴/次，全臉塗抹均勻",
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 0,
+                    "text": "🍶面霜推薦用量用法：取2-4粒珍珠粒大小的用量/次，全臉塗抹均勻",
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 0,
+                    "text": "⛱  防曬乳推薦用量用法：3-4泵/次（大概一顆葡萄大小體積的量），全臉按壓塗抹均勻",
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 0,
+                    "text": "⚗ 保存期限：未開封3年(實際仍須依商品包裝上的日期為准/拆封後請3個月內盡速用畢，VC系列產品請注意避光保存)",
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 0,
+                    "text": "⚠ 注意事項：請避免本產品直接接觸眼睛。如不慎進入眼睛，請立即以清水徹底沖洗。使用過程如發現皮膚有任何不適或敏感，請立即停止使用并諮詢醫生。肌膚敏感者建議先做局部皮膚測試後，無過敏反應再進行使用。若皮膚已經有過敏，傷口、紅腫或濕疹等異常部位，請避免使用。請避免陽光直射及遠離火源。勿讓兒童接觸，不可進食，只供外用。",
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                },
+                {
+                    "type": 0,
+                    "text": "⚠ 產品明確標明含BHA/水楊酸或視黃醇成份類產品（孕婦，哺乳期不建議使用）可采局部漸進式調整使用頻率和使用次數；請採用少量低頻率建立耐受法：第1周隔2天使用；第2周隔1天使用；第3周可以每天使用；此類產品請依肌膚耐受性使用，不宜過度或過量使用。",
+                    "img_id": null,
+                    "ratio": null,
+                    "description_type": 1,
+                    "empty_paragraph_count": null
+                }
+            ],
+            "source_language": ""
+        },
+        "selected_tiers": null,
+        "size_info": null,
+        "size_recommendation": null
+    }
+}
